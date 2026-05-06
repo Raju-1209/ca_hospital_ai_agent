@@ -1,0 +1,9 @@
+.env
+models/saved/
+rag/chunks.json
+rag/tfidf.pkl
+__pycache__/
+*.pkl
+hpvenv/
+*.pyc
+.DS_Store
