@@ -21,7 +21,7 @@ from sklearn.metrics import (
 from imblearn.over_sampling import SMOTE
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
-BASE_DIR   = Path(__file__).parent.parent
+BASE_DIR   = Path(__file__).resolve().parent.parent
 DATA_DIR   = BASE_DIR / "data"
 MODELS_DIR = BASE_DIR / "models" / "saved"
 MODELS_DIR.mkdir(parents=True, exist_ok=True)
