@@ -1,0 +1,1492 @@
+provider_id,name,department,specialty,npi,inhouse,location,years_experience,contact_info,email
+PRO00001,Michael Hernandez,Emergency Department,General Practitioner,8012135699,Yes,CA,16,481 151 2809,michael.hernandez@healthcare.org
+PRO00002,Dawn Owens,Emergency Department,General Practitioner,7777307830,Yes,CA,5,993 086 9628,dawn.owens@healthcare.org
+PRO00003,Catherine Knight,Emergency Department,General Practitioner,9906404640,Yes,CA,4,614 350 3958,catherine.knight@healthcare.org
+PRO00004,Roy Williams,Emergency Department,General Practitioner,3203917792,Yes,CA,20,,
+PRO00005,Cheryl Norris,Emergency Department,General Practitioner,2114085172,Yes,CA,15,,cheryl.norris@healthcare.org
+PRO00006,Ashley Martinez,Emergency Department,General Practitioner,8106151348,Yes,CA,11,599 325 9437,
+PRO00007,Marcus Kelly,Emergency Department,General Practitioner,1603556965,Yes,NM,2,,marcus.kelly@healthcare.org
+PRO00008,Devin Odom,Emergency Department,General Practitioner,2514075117,Yes,TN,17,817 343 5141,
+PRO00009,Brent Austin,Emergency Department,General Practitioner,5835449805,Yes,CA,25,474 954 0140,brent.austin@healthcare.org
+PRO00010,Devin Young,Emergency Department,General Practitioner,8252802955,Yes,CA,32,,devin.young@healthcare.org
+PRO00011,Joe Robles,Emergency Department,General Practitioner,7545300913,Yes,CA,3,283 256 6162,
+PRO00012,James Nunez,Emergency Department,General Practitioner,3061617294,Yes,CA,25,713 074 5420,james.nunez@healthcare.org
+PRO00013,Patricia Holland,Emergency Department,General Practitioner,2386233592,Yes,CA,35,983 406 3375,patricia.holland@healthcare.org
+PRO00014,Melanie Adams,Emergency Department,General Practitioner,4839482398,Yes,CA,3,389 004 3204,melanie.adams68@healthcare.org
+PRO00015,Ana Blanchard,Emergency Department,General Practitioner,1765034826,No,CA,9,,ana.blanchard@healthcare.org
+PRO00016,Carolyn Chapman,Emergency Department,General Practitioner,7877744079,Yes,CA,1,927 977 8608,carolyn.chapman@healthcare.org
+PRO00017,Maria Hawkins,Emergency Department,General Practitioner,6960621494,No,CA,1,900 862 6228,maria.hawkins@healthcare.org
+PRO00018,Robert Stewart,Emergency Department,General Practitioner,4035502628,No,CA,8,742 581 4609,robert.stewart@healthcare.org
+PRO00019,Kimberly Short,Emergency Department,General Practitioner,4542803544,Yes,CA,7,564 504 7087,kimberly.short@healthcare.org
+PRO00020,Matthew Newton,Emergency Department,General Practitioner,4654625209,Yes,CA,20,518 143 2292,
+PRO00021,James Wilson,Emergency Department,General Practitioner,4924873990,Yes,VA,17,115 133 6287,james.wilson@healthcare.org
+PRO00022,Joshua Thomas,Emergency Department,General Practitioner,2351311960,Yes,CA,18,884 075 7581,
+PRO00023,Shawn Jones,Emergency Department,General Practitioner,4923548486,Yes,CA,8,409 806 0735,shawn.jones@healthcare.org
+PRO00024,Sean Martinez,Emergency Department,General Practitioner,5694205711,Yes,CA,14,292 850 3798,sean.martinez@healthcare.org
+PRO00025,Daniel Newton,Emergency Department,General Practitioner,2569335930,Yes,CA,10,820 720 8874,daniel.newton@healthcare.org
+PRO00026,Christopher Davis,Emergency Department,General Practitioner,1748844049,Yes,CA,7,147 768 5379,
+PRO00027,Charles Figueroa,Emergency Department,General Practitioner,1602277366,Yes,MA,7,830 852 6997,charles.figueroa17@healthcare.org
+PRO00028,Doris Odonnell,Emergency Department,General Practitioner,5901731418,Yes,CA,1,174 394 6218,
+PRO00029,Aaron Torres,Emergency Department,General Practitioner,9282882384,Yes,CA,17,517 258 3250,aaron.torres@healthcare.org
+PRO00030,Jeanette Sandoval,Emergency Department,General Practitioner,9964682697,Yes,CA,14,608 763 8092,jeanette.sandoval@healthcare.org
+PRO00031,Michelle Jackson,Emergency Department,General Practitioner,8503234187,Yes,CA,20,640 177 7004,
+PRO00032,Joseph Molina,Emergency Department,General Practitioner,4994094745,Yes,CA,18,656 969 0086,joseph.molina@healthcare.org
+PRO00033,Joseph Wall,Emergency Department,General Practitioner,1862624826,Yes,CA,14,628 764 1436,joseph.wall@healthcare.org
+PRO00034,Jennifer Browning,Emergency Department,General Practitioner,4216447776,Yes,CA,10,853 434 5679,jennifer.browning59@healthcare.org
+PRO00035,Lynn Martinez,Emergency Department,General Practitioner,1060929154,Yes,CA,2,797 891 0114,lynn.martinez@healthcare.org
+PRO00036,Tracy Turner,Emergency Department,General Practitioner,5014756477,Yes,CA,20,384 382 0533,tracy.turner@healthcare.org
+PRO00037,Paul Hood,Emergency Department,General Practitioner,4986737601,Yes,CA,17,402 371 9207,paul.hood@healthcare.org
+PRO00038,Alisha Doyle,Emergency Department,General Practitioner,3902495752,No,CA,5,226 985 8807,alisha.doyle32@healthcare.org
+PRO00039,Deborah Mcbride,Emergency Department,General Practitioner,3113975165,Yes,CA,1,239 092 1636,deborah.mcbride@healthcare.org
+PRO00040,Rebecca Cooper,Emergency Department,General Practitioner,3100376854,Yes,CA,13,215 620 4664,rebecca.cooper@healthcare.org
+PRO00041,Christopher Casey,Emergency Department,General Practitioner,5657691602,Yes,CA,8,404 541 2005,christopher.casey@healthcare.org
+PRO00042,John White,Emergency Department,General Practitioner,7258244378,Yes,NY,14,170 832 6505,john.white95@healthcare.org
+PRO00043,Carrie Schneider,Emergency Department,General Practitioner,7248329096,Yes,CA,13,352 342 7396,
+PRO00044,Scott Johnson,Emergency Department,General Practitioner,7148414305,Yes,NC,13,608 027 4012,scott.johnson@healthcare.org
+PRO00045,Carolyn Foster,Emergency Department,General Practitioner,1216344085,Yes,CA,8,,
+PRO00046,Angela Miller,Emergency Department,General Practitioner,4211686517,Yes,CA,6,198 004 8124,angela.miller@healthcare.org
+PRO00047,Christopher Cameron,Emergency Department,General Practitioner,9732666565,Yes,CA,5,006 291 0982,christopher.cameron@healthcare.org
+PRO00048,Karen Berry,Emergency Department,General Practitioner,5851657393,No,CA,2,479 069 4138,karen.berry@healthcare.org
+PRO00049,Amy Jones,Emergency Department,General Practitioner,5067298284,Yes,CA,20,670 484 5671,amy.jones@healthcare.org
+PRO00050,Jean Thompson,Emergency Department,General Practitioner,4931770774,Yes,CA,13,283 164 6106,jean.thompson@healthcare.org
+PRO00051,Anna Smith,Emergency Department,General Practitioner,9357766649,Yes,CA,34,076 395 2963,anna.smith@healthcare.org
+PRO00052,Mark Clements,Emergency Department,General Practitioner,6351051654,Yes,CA,18,564 906 5788,
+PRO00053,Angela Smith,Emergency Department,General Practitioner,8404598301,Yes,CA,40,486 985 6921,angela.smith98@healthcare.org
+PRO00054,Jason Foster,Emergency Department,General Practitioner,1037890822,Yes,CA,13,349 850 9880,jason.foster@healthcare.org
+PRO00055,Molly Lewis,Emergency Department,General Practitioner,2272723249,Yes,CA,5,982 267 3685,molly.lewis84@healthcare.org
+PRO00056,Christopher Ward,Emergency Department,General Practitioner,7967976166,Yes,CA,32,857 806 7815,christopher.ward@healthcare.org
+PRO00057,Kevin Martinez,Emergency Department,General Practitioner,2894494864,Yes,CA,11,292 489 7469,kevin.martinez@healthcare.org
+PRO00058,Colin Kirby,Emergency Department,General Practitioner,5188152669,Yes,CA,19,807 615 5521,colin.kirby@healthcare.org
+PRO00059,Sarah Wilson,Emergency Department,General Practitioner,4135323766,Yes,NV,1,369 987 8092,sarah.wilson@healthcare.org
+PRO00060,Mrs. Vanessa Hall MD,Emergency Department,General Practitioner,6606237996,Yes,CA,3,814 881 3187,mrs..md@healthcare.org
+PRO00061,Christopher Ford,Emergency Department,General Practitioner,2183596191,Yes,CA,15,894 232 7694,christopher.ford@healthcare.org
+PRO00062,Sharon Gibson,Emergency Department,General Practitioner,1276037103,Yes,CA,4,145 624 7753,sharon.gibson@healthcare.org
+PRO00063,Peter Glenn,Emergency Department,General Practitioner,2468823712,Yes,CA,7,083 787 6421,peter.glenn@healthcare.org
+PRO00064,Eric Crosby,Emergency Department,General Practitioner,7585475012,No,CA,7,078 030 6053,
+PRO00065,Amanda Pearson,Emergency Department,General Practitioner,2765645228,Yes,CA,8,699 183 7831,amanda.pearson@healthcare.org
+PRO00066,James Flores,Emergency Department,General Practitioner,7290402248,Yes,NC,21,957 832 8930,james.flores@healthcare.org
+PRO00067,Gordon Warner,Emergency Department,General Practitioner,2139524384,No,CA,8,055 614 2358,gordon.warner@healthcare.org
+PRO00068,Brenda Rogers,Emergency Department,General Practitioner,7036093968,Yes,LA,7,808 745 0855,brenda.rogers@healthcare.org
+PRO00069,John Alvarez,Emergency Department,General Practitioner,9971021386,Yes,CA,16,067 468 9142,john.alvarez@healthcare.org
+PRO00070,Gabriella Miller,Emergency Department,General Practitioner,8712332064,No,CA,4,593 143 5064,
+PRO00071,Robert Mckenzie,Emergency Department,General Practitioner,7071150910,Yes,CA,9,297 585 7050,
+PRO00072,Donald Smith,Internal Medicine,Internist,5726070430,Yes,MH,12,731 287 3826,donald.smith@healthcare.org
+PRO00073,Andrew Parker,Internal Medicine,Internist,2907337255,Yes,CA,19,500 819 5975,andrew.parker50@healthcare.org
+PRO00074,Holly Davis,Internal Medicine,Internist,1306769234,Yes,CA,3,665 914 9826,holly.davis@healthcare.org
+PRO00075,Blake Greer,Internal Medicine,Internist,5629568175,Yes,CA,22,336 246 6606,blake.greer93@healthcare.org
+PRO00076,Erik Boyer,Internal Medicine,Internist,9224727268,Yes,CA,10,059 982 9966,erik.boyer@healthcare.org
+PRO00077,Peter Gill MD,Internal Medicine,Internist,5251778539,No,NJ,12,850 076 2608,peter.md@healthcare.org
+PRO00078,Cassandra Johnston,Internal Medicine,Internist,9318921092,Yes,CA,14,190 420 6890,cassandra.johnston50@healthcare.org
+PRO00079,Rita Thompson,Internal Medicine,Internist,3299056248,Yes,CA,20,311 363 6570,rita.thompson@healthcare.org
+PRO00080,Patrick Smith,Internal Medicine,Internist,7957359284,Yes,AK,15,391 952 5451,patrick.smith@healthcare.org
+PRO00081,Susan Weber,Internal Medicine,Internist,4361410160,Yes,CA,13,324 672 3738,susan.weber@healthcare.org
+PRO00082,Elizabeth Johnson,Internal Medicine,Internist,2540321497,Yes,CA,6,902 322 1448,elizabeth.johnson@healthcare.org
+PRO00083,Lisa Doyle,Internal Medicine,Internist,3070758997,Yes,CA,39,024 286 3622,
+PRO00084,Sarah Henson,Internal Medicine,Internist,1935923923,Yes,CA,3,521 354 6796,sarah.henson@healthcare.org
+PRO00085,Angela Berry,Internal Medicine,Internist,1773961340,Yes,CA,13,350 061 0778,angela.berry@healthcare.org
+PRO00086,Nicole Norton,Internal Medicine,Internist,1283676751,Yes,CA,7,,nicole.norton@healthcare.org
+PRO00087,Jenna Short,Internal Medicine,Internist,5153784978,Yes,CA,20,854 390 0687,jenna.short@healthcare.org
+PRO00088,Frank Kerr,Internal Medicine,Internist,3829187090,Yes,CA,12,,
+PRO00089,Jessica Patton,Internal Medicine,Internist,4147237337,Yes,CA,16,709 758 4090,
+PRO00090,Amber Phillips,Internal Medicine,Internist,1335802060,Yes,CA,9,648 594 7154,amber.phillips@healthcare.org
+PRO00091,Mary Lopez,Internal Medicine,Internist,1381960770,Yes,CA,2,913 217 5998,mary.lopez@healthcare.org
+PRO00092,Meagan Herrera,Internal Medicine,Internist,6079310763,Yes,CA,10,210 836 1567,meagan.herrera@healthcare.org
+PRO00093,Raymond Chung,Internal Medicine,Internist,3550176052,Yes,CA,8,574 723 7096,raymond.chung@healthcare.org
+PRO00094,Spencer Franklin,Internal Medicine,Internist,8504215144,Yes,CA,7,219 161 7604,spencer.franklin@healthcare.org
+PRO00095,Debbie Barr,Internal Medicine,Internist,5812456682,No,CA,8,,
+PRO00096,Angela Daugherty,Internal Medicine,Internist,7779389372,Yes,CA,16,342 648 6477,angela.daugherty@healthcare.org
+PRO00097,Laura Clark,Internal Medicine,Internist,8149836019,Yes,CA,15,987 986 0249,laura.clark@healthcare.org
+PRO00098,Michael Burton,Internal Medicine,Internist,5384752800,Yes,MO,19,966 188 8359,michael.burton@healthcare.org
+PRO00099,Michael Bailey,Internal Medicine,Internist,9426452755,Yes,CA,13,600 001 4824,michael.bailey@healthcare.org
+PRO00100,Diamond Oconnor,Internal Medicine,Internist,8092907086,No,CA,8,486 914 8413,
+PRO00101,Courtney Anderson,Internal Medicine,Internist,6829192142,Yes,CA,18,259 756 0634,courtney.anderson83@healthcare.org
+PRO00102,Anthony Lopez,Internal Medicine,Internist,9280242215,Yes,CA,16,891 864 4214,anthony.lopez48@healthcare.org
+PRO00103,Adam Murray,Internal Medicine,Internist,4835082260,Yes,CA,10,522 509 1461,
+PRO00104,Cheryl Peterson,Internal Medicine,Internist,6758856521,Yes,CA,16,124 192 8515,cheryl.peterson88@healthcare.org
+PRO00105,Melissa Martin,Internal Medicine,Internist,4947749027,Yes,CA,2,,melissa.martin@healthcare.org
+PRO00106,Susan Kelly,Internal Medicine,Internist,4589072162,Yes,CA,10,197 249 8370,susan.kelly@healthcare.org
+PRO00107,Jennifer Dunlap,Internal Medicine,Internist,8050124638,Yes,CA,6,177 068 5794,jennifer.dunlap@healthcare.org
+PRO00108,Regina Peterson,Internal Medicine,Internist,2612011932,Yes,CA,18,,regina.peterson94@healthcare.org
+PRO00109,Steven Williams,Internal Medicine,Internist,9356805495,Yes,CA,6,835 827 0654,steven.williams85@healthcare.org
+PRO00110,Julie Reeves,Internal Medicine,Internist,3696262214,No,CA,11,202 287 3573,julie.reeves@healthcare.org
+PRO00111,Alicia Bishop,Internal Medicine,Internist,3633306619,Yes,CA,37,065 035 2376,alicia.bishop@healthcare.org
+PRO00112,Jamie Harvey,Internal Medicine,Internist,8672867554,Yes,CA,19,110 162 7298,jamie.harvey@healthcare.org
+PRO00113,Jim Parker,Internal Medicine,Internist,3871449160,Yes,CA,8,,jim.parker@healthcare.org
+PRO00114,Taylor Martin,Internal Medicine,Internist,9345742389,Yes,ND,18,151 382 7546,taylor.martin@healthcare.org
+PRO00115,Heather Hines,Internal Medicine,Internist,4081786473,Yes,CA,10,162 136 4049,heather.hines68@healthcare.org
+PRO00116,Lindsey Dennis,Internal Medicine,Internist,2467221300,Yes,PW,31,,lindsey.dennis@healthcare.org
+PRO00117,Hannah Allen,Internal Medicine,Internist,6683100978,Yes,CA,1,728 369 0594,hannah.allen@healthcare.org
+PRO00118,Elizabeth Torres,Internal Medicine,Internist,6028498025,Yes,CA,2,352 607 2477,elizabeth.torres@healthcare.org
+PRO00119,Wayne Nolan,Internal Medicine,Internist,7675833309,Yes,CA,14,661 517 1327,wayne.nolan31@healthcare.org
+PRO00120,Paul Berry,Internal Medicine,Internist,8249923758,No,CA,9,779 157 1141,
+PRO00121,Adam Patton,Internal Medicine,Internist,7688785774,Yes,CA,22,055 215 4914,adam.patton@healthcare.org
+PRO00122,Eric Martin,Internal Medicine,Internist,3569553573,No,CA,13,,
+PRO00123,Mary Sanders,Internal Medicine,Internist,8177559601,Yes,AR,6,699 183 6553,mary.sanders@healthcare.org
+PRO00124,Sue Tyler,Internal Medicine,Internist,3582993746,Yes,CA,13,724 439 8691,sue.tyler@healthcare.org
+PRO00125,Karina Smith,Internal Medicine,Internist,1007673737,Yes,CA,8,616 777 5877,karina.smith@healthcare.org
+PRO00126,Chelsea Anderson,Internal Medicine,Internist,5900917115,Yes,CA,5,512 470 9254,
+PRO00127,Kyle Diaz,Internal Medicine,Internist,4881744648,Yes,CA,5,577 448 2292,kyle.diaz79@healthcare.org
+PRO00128,Manuel Harper,Internal Medicine,Internist,6402654424,Yes,CA,15,352 269 3766,
+PRO00129,Carolyn Lucero,Internal Medicine,Internist,8836434807,Yes,CA,2,176 193 3783,carolyn.lucero@healthcare.org
+PRO00130,Rebekah Sandoval,Internal Medicine,Internist,5680854176,Yes,CA,17,749 270 0034,rebekah.sandoval@healthcare.org
+PRO00131,Jack Davidson,Internal Medicine,Internist,2454331799,Yes,CA,2,403 954 8417,
+PRO00132,Matthew Ruiz,Internal Medicine,Internist,3229876275,Yes,CA,1,842 375 2694,matthew.ruiz@healthcare.org
+PRO00133,Joseph Martinez,Internal Medicine,Internist,8498505178,Yes,CA,18,986 790 7746,joseph.martinez@healthcare.org
+PRO00134,Jillian Juarez,Internal Medicine,Internist,5247976482,Yes,CA,1,875 690 7216,jillian.juarez@healthcare.org
+PRO00135,Hannah Johnson,Internal Medicine,Internist,7300785766,Yes,CA,5,149 231 1409,hannah.johnson@healthcare.org
+PRO00136,Christopher Carr,Internal Medicine,Internist,1594812201,No,CA,40,804 583 9238,christopher.carr@healthcare.org
+PRO00137,Rebecca Santos,Internal Medicine,Internist,2351629179,Yes,CA,14,375 761 8329,rebecca.santos95@healthcare.org
+PRO00138,James Romero,Internal Medicine,Internist,9024127555,No,FL,9,,james.romero@healthcare.org
+PRO00139,Kayla Williams,Internal Medicine,Internist,7295696699,Yes,CA,12,797 921 9402,
+PRO00140,William Simmons,Internal Medicine,Internist,9439738252,Yes,CA,20,,william.simmons95@healthcare.org
+PRO00141,Dawn Robertson,Internal Medicine,Internist,8899749309,Yes,CA,11,361 870 8425,dawn.robertson@healthcare.org
+PRO00142,Daniel Stone,Internal Medicine,Internist,2456838077,Yes,CA,13,028 787 4376,daniel.stone@healthcare.org
+PRO00143,Samantha Barnes,Family Medicine,Family Medicine Physician,9727228011,Yes,CA,16,716 830 0035,samantha.barnes@healthcare.org
+PRO00144,Lauren Wallace,Family Medicine,Family Medicine Physician,8235672744,Yes,CA,18,229 222 2631,
+PRO00145,Mr. Joel Crawford,Family Medicine,Family Medicine Physician,7929669690,Yes,CA,31,078 225 9273,mr..crawford94@healthcare.org
+PRO00146,Michelle King,Family Medicine,Family Medicine Physician,6361515466,Yes,CA,13,621 246 6326,michelle.king@healthcare.org
+PRO00147,Angela Edwards,Family Medicine,Family Medicine Physician,4859864805,Yes,CA,2,992 620 4565,
+PRO00148,Max Miller,Family Medicine,Family Medicine Physician,9609630278,No,CA,18,787 912 7372,
+PRO00149,Renee Hale,Family Medicine,Family Medicine Physician,4807785991,Yes,CA,14,083 070 8487,
+PRO00150,Carl Mcclain,Family Medicine,Family Medicine Physician,4958466918,Yes,CA,33,957 610 2750,carl.mcclain52@healthcare.org
+PRO00151,Luis Howell,Family Medicine,Family Medicine Physician,8501215118,Yes,CA,11,429 160 1203,luis.howell82@healthcare.org
+PRO00152,Mr. Gary Riddle,Family Medicine,Family Medicine Physician,4729372721,Yes,CA,18,,mr..riddle33@healthcare.org
+PRO00153,Crystal Briggs,Family Medicine,Family Medicine Physician,4210568803,Yes,CA,19,430 881 7359,crystal.briggs@healthcare.org
+PRO00154,Tiffany Rodgers,Family Medicine,Family Medicine Physician,7013635300,Yes,CA,16,,tiffany.rodgers@healthcare.org
+PRO00155,Jessica Robertson,Family Medicine,Family Medicine Physician,1560153919,No,CA,5,331 711 6852,jessica.robertson49@healthcare.org
+PRO00156,Brandon Jacobs,Family Medicine,Family Medicine Physician,3732218099,Yes,CA,4,983 105 6479,
+PRO00157,Walter Smith,Family Medicine,Family Medicine Physician,6430958245,Yes,CA,12,199 817 3013,walter.smith@healthcare.org
+PRO00158,Dr. Melissa Washington,Family Medicine,Family Medicine Physician,5072473277,Yes,CA,13,432 252 9279,dr..washington@healthcare.org
+PRO00159,Eric Gonzalez,Family Medicine,Family Medicine Physician,5084252693,Yes,CA,18,139 051 8529,eric.gonzalez@healthcare.org
+PRO00160,Alexander Lowe,Family Medicine,Family Medicine Physician,1709996849,No,CA,3,977 616 3623,alexander.lowe33@healthcare.org
+PRO00161,Leah Garrett,Family Medicine,Family Medicine Physician,1231893343,No,CA,6,258 134 4186,leah.garrett65@healthcare.org
+PRO00162,Tyler Vazquez,Family Medicine,Family Medicine Physician,6779538517,Yes,CA,31,816 567 3990,
+PRO00163,Natalie Jones,Family Medicine,Family Medicine Physician,5177745038,Yes,CA,4,433 079 4473,natalie.jones@healthcare.org
+PRO00164,Willie Patton,Family Medicine,Family Medicine Physician,6933494737,No,CA,2,403 155 3430,willie.patton@healthcare.org
+PRO00165,Pamela Goodman,Family Medicine,Family Medicine Physician,2687590468,Yes,CA,13,561 969 9290,pamela.goodman@healthcare.org
+PRO00166,Marcia Walker,Family Medicine,Family Medicine Physician,2870018957,Yes,CA,13,410 585 7705,
+PRO00167,John Gutierrez,Family Medicine,Family Medicine Physician,6923293777,Yes,CA,8,316 726 3711,john.gutierrez@healthcare.org
+PRO00168,Robert Harris,Family Medicine,Family Medicine Physician,3573379123,No,CA,18,226 207 4674,robert.harris@healthcare.org
+PRO00169,Angelica Howell,Family Medicine,Family Medicine Physician,9116841497,Yes,CA,5,025 059 9824,
+PRO00170,Hannah White,Family Medicine,Family Medicine Physician,7865633945,Yes,CT,30,622 324 2563,hannah.white@healthcare.org
+PRO00171,Kayla Wood,Family Medicine,Family Medicine Physician,6632123951,Yes,GA,4,141 432 1406,
+PRO00172,Craig Love,Family Medicine,Family Medicine Physician,5586899640,Yes,CA,11,581 014 5060,craig.love@healthcare.org
+PRO00173,Travis Thompson,Family Medicine,Family Medicine Physician,2072402658,Yes,CA,11,,travis.thompson@healthcare.org
+PRO00174,Nancy Hays,Family Medicine,Family Medicine Physician,3401687603,Yes,MN,9,117 969 3955,nancy.hays@healthcare.org
+PRO00175,Kim Gonzalez,Family Medicine,Family Medicine Physician,1941873763,Yes,CA,3,391 118 4580,kim.gonzalez@healthcare.org
+PRO00176,Jack Rodriguez,Family Medicine,Family Medicine Physician,4249066666,No,CA,15,,jack.rodriguez@healthcare.org
+PRO00177,Michael Cuevas,Family Medicine,Family Medicine Physician,7444773475,No,CA,19,593 951 5323,
+PRO00178,Kevin Hebert,Family Medicine,Family Medicine Physician,4380353874,Yes,CA,5,431 265 3066,
+PRO00179,Maria Scott,Family Medicine,Family Medicine Physician,9335173951,Yes,CA,7,306 198 5544,maria.scott@healthcare.org
+PRO00180,Cindy Mann,Family Medicine,Family Medicine Physician,1394303360,Yes,CA,5,149 240 5266,cindy.mann@healthcare.org
+PRO00181,Tami Green,Family Medicine,Family Medicine Physician,9020169020,Yes,MN,15,771 567 3304,
+PRO00182,Dr. Carol Perez,Family Medicine,Family Medicine Physician,7301700588,Yes,CA,13,403 813 9233,
+PRO00183,Adam Pineda,Family Medicine,Family Medicine Physician,2983287212,Yes,CA,16,479 410 2703,adam.pineda@healthcare.org
+PRO00184,Lance Marshall,Family Medicine,Family Medicine Physician,8062760660,Yes,CA,19,127 425 6070,lance.marshall@healthcare.org
+PRO00185,Taylor Rose,Family Medicine,Family Medicine Physician,2974715034,Yes,CA,7,,taylor.rose@healthcare.org
+PRO00186,Benjamin Campbell,Family Medicine,Family Medicine Physician,5705467099,Yes,CA,11,241 173 0587,benjamin.campbell@healthcare.org
+PRO00187,Hannah Bush,Family Medicine,Family Medicine Physician,3785484890,Yes,CA,6,472 009 6415,hannah.bush@healthcare.org
+PRO00188,Lindsay Wilson,Family Medicine,Family Medicine Physician,5599210364,Yes,KS,12,300 884 7480,lindsay.wilson@healthcare.org
+PRO00189,Mary Morales,Family Medicine,Family Medicine Physician,7832903111,No,CA,3,702 360 7350,mary.morales@healthcare.org
+PRO00190,Joshua Baker,Family Medicine,Family Medicine Physician,9458343450,No,CA,3,123 218 2549,joshua.baker@healthcare.org
+PRO00191,Anna Green,Family Medicine,Family Medicine Physician,4004240412,Yes,CA,9,624 435 8689,
+PRO00192,Randy Gordon,Family Medicine,Family Medicine Physician,3826623589,Yes,CA,19,051 082 2893,randy.gordon@healthcare.org
+PRO00193,Denise Taylor,Family Medicine,Family Medicine Physician,8572130022,No,CA,2,,denise.taylor@healthcare.org
+PRO00194,Victoria Grant,Family Medicine,Family Medicine Physician,7408429612,Yes,CA,2,858 238 3250,victoria.grant@healthcare.org
+PRO00195,Jennifer Wood,Family Medicine,Family Medicine Physician,4544421564,No,CA,12,164 016 5722,
+PRO00196,Anthony Young,Family Medicine,Family Medicine Physician,5451258277,Yes,CA,7,725 010 3471,
+PRO00197,Monica Williams,Family Medicine,Family Medicine Physician,1591233346,Yes,CA,12,054 899 6025,
+PRO00198,Jonathan Banks,Family Medicine,Family Medicine Physician,8515987627,Yes,CA,20,298 480 4393,jonathan.banks@healthcare.org
+PRO00199,Shane Martinez,Family Medicine,Family Medicine Physician,6779175253,Yes,CA,5,860 801 7891,shane.martinez@healthcare.org
+PRO00200,Kelly Hall,Family Medicine,Family Medicine Physician,4827039654,Yes,CA,17,550 694 2777,kelly.hall@healthcare.org
+PRO00201,Darlene Taylor,Family Medicine,Family Medicine Physician,3334420472,No,CA,20,988 845 4864,darlene.taylor24@healthcare.org
+PRO00202,Robert Hernandez,Family Medicine,Family Medicine Physician,1597733914,Yes,CA,2,852 982 0005,
+PRO00203,Crystal Perez,Family Medicine,Family Medicine Physician,3167117159,Yes,WV,19,419 817 8991,crystal.perez@healthcare.org
+PRO00204,Amy Finley,Family Medicine,Family Medicine Physician,1069807029,Yes,MT,17,046 001 3970,amy.finley@healthcare.org
+PRO00205,Lauren Ryan,Family Medicine,Family Medicine Physician,8110164866,Yes,CA,5,,
+PRO00206,Mckenzie Mills MD,Family Medicine,Family Medicine Physician,6434922076,No,CA,36,531 527 7471,mckenzie.md@healthcare.org
+PRO00207,Angela Anderson,Family Medicine,Family Medicine Physician,7952103379,No,CA,18,602 712 7055,angela.anderson@healthcare.org
+PRO00208,Michael Bradley,Family Medicine,Family Medicine Physician,3438867552,Yes,CA,29,562 548 0442,michael.bradley@healthcare.org
+PRO00209,Cameron Archer,Family Medicine,Family Medicine Physician,6758440134,Yes,CA,1,561 987 0011,cameron.archer71@healthcare.org
+PRO00210,John Wagner,Family Medicine,Family Medicine Physician,6137865721,Yes,CA,14,623 646 4877,john.wagner@healthcare.org
+PRO00211,Samantha Peters,Family Medicine,Family Medicine Physician,5230587742,Yes,NY,1,852 764 5981,samantha.peters@healthcare.org
+PRO00212,John Richards,Family Medicine,Family Medicine Physician,9315666060,Yes,CA,3,461 055 1731,
+PRO00213,Emily Johnson,Family Medicine,Family Medicine Physician,1561072464,Yes,CA,17,778 967 1770,emily.johnson@healthcare.org
+PRO00214,Marcia Jones,Cardiology,Cardiologist,1385707647,Yes,CA,18,689 295 0902,marcia.jones@healthcare.org
+PRO00215,Helen Brown,Cardiology,Cardiologist,5574869645,No,KS,7,,helen.brown@healthcare.org
+PRO00216,Nicole Brown,Cardiology,Cardiologist,3918471972,Yes,CA,6,059 440 9301,nicole.brown@healthcare.org
+PRO00217,Christopher Jones,Cardiology,Cardiologist,1927955777,Yes,CA,19,682 816 6704,
+PRO00218,Geoffrey Stein,Cardiology,Cardiologist,4865866761,Yes,CA,15,,geoffrey.stein@healthcare.org
+PRO00219,Alexis Harris,Cardiology,Cardiologist,6565307190,Yes,CA,20,366 756 3776,alexis.harris@healthcare.org
+PRO00220,Mark Pennington,Cardiology,Cardiologist,3902164628,Yes,CA,2,450 796 0036,mark.pennington@healthcare.org
+PRO00221,Matthew Campbell,Cardiology,Cardiologist,7140623730,Yes,CA,11,181 869 2427,matthew.campbell@healthcare.org
+PRO00222,Rachel Woods,Cardiology,Cardiologist,5543355459,Yes,CA,31,117 047 1140,rachel.woods@healthcare.org
+PRO00223,Amber Koch,Cardiology,Cardiologist,9390259222,Yes,CA,22,253 805 2592,amber.koch95@healthcare.org
+PRO00224,Samuel Chung,Cardiology,Cardiologist,7654530368,Yes,CA,4,915 235 9815,samuel.chung@healthcare.org
+PRO00225,Kathryn Mitchell,Cardiology,Cardiologist,9958645448,Yes,CA,18,497 467 4166,kathryn.mitchell@healthcare.org
+PRO00226,Richard Potter,Cardiology,Cardiologist,7930649006,Yes,CA,11,941 391 2008,richard.potter@healthcare.org
+PRO00227,Dalton Morris,Cardiology,Cardiologist,9504846289,Yes,CA,4,460 281 1959,dalton.morris@healthcare.org
+PRO00228,Chad Fritz,Cardiology,Cardiologist,4088793608,Yes,CA,24,045 441 1150,chad.fritz35@healthcare.org
+PRO00229,Alan Page,Cardiology,Cardiologist,7511373659,Yes,CA,1,677 612 1610,alan.page66@healthcare.org
+PRO00230,Mark Johnston,Cardiology,Cardiologist,2406960121,Yes,CA,18,491 778 0969,mark.johnston@healthcare.org
+PRO00231,Carla Fletcher PhD,Cardiology,Cardiologist,1040624480,No,CA,1,754 545 5587,
+PRO00232,Joshua Reyes,Cardiology,Cardiologist,2776372219,Yes,WA,5,054 925 4655,
+PRO00233,Kevin Gates,Cardiology,Cardiologist,4045978986,Yes,CA,19,964 132 9713,
+PRO00234,Sandra Reed,Cardiology,Cardiologist,1110467469,No,CA,11,246 799 8920,
+PRO00235,Laura Greer,Cardiology,Cardiologist,7711511412,Yes,ND,1,016 499 6021,laura.greer@healthcare.org
+PRO00236,Lisa Schneider,Cardiology,Cardiologist,9156994606,Yes,CA,20,349 072 3670,lisa.schneider@healthcare.org
+PRO00237,Elizabeth Garcia,Cardiology,Cardiologist,1959300154,Yes,CA,29,529 822 9931,elizabeth.garcia@healthcare.org
+PRO00238,Patricia Larson,Cardiology,Cardiologist,2363131983,Yes,CA,32,409 560 6724,patricia.larson63@healthcare.org
+PRO00239,Michelle Weaver,Cardiology,Cardiologist,4408438568,Yes,CA,20,572 077 3206,michelle.weaver@healthcare.org
+PRO00240,Pamela Nunez,Cardiology,Cardiologist,6113181304,Yes,CA,33,958 280 9423,pamela.nunez@healthcare.org
+PRO00241,Adam Bartlett,Cardiology,Cardiologist,7996355066,Yes,CA,2,889 072 0270,adam.bartlett65@healthcare.org
+PRO00242,Andre Crawford Jr.,Cardiology,Cardiologist,2140483742,Yes,CA,3,691 212 8971,andre.jr.@healthcare.org
+PRO00243,Mrs. Jessica Johnson,Cardiology,Cardiologist,9361088826,Yes,CA,4,308 847 7023,
+PRO00244,Molly Martinez,Cardiology,Cardiologist,3486378982,Yes,CA,15,,molly.martinez@healthcare.org
+PRO00245,Garrett Simpson,Cardiology,Cardiologist,6318200284,Yes,CA,17,463 100 3768,garrett.simpson@healthcare.org
+PRO00246,Jason Wright,Cardiology,Cardiologist,3915209477,Yes,CA,30,208 002 5936,jason.wright@healthcare.org
+PRO00247,Kelly Griffin,Cardiology,Cardiologist,7050258085,Yes,CA,9,824 570 1433,kelly.griffin@healthcare.org
+PRO00248,Amanda Ellis,Cardiology,Cardiologist,7579389460,Yes,CA,7,315 054 4500,amanda.ellis17@healthcare.org
+PRO00249,Breanna Estes,Cardiology,Cardiologist,8736577375,Yes,CA,27,006 569 5842,breanna.estes@healthcare.org
+PRO00250,Jeffrey Huffman,Cardiology,Cardiologist,5618339685,No,NY,18,,
+PRO00251,Margaret Barrera,Cardiology,Cardiologist,3364843861,Yes,CA,6,078 516 5026,margaret.barrera@healthcare.org
+PRO00252,Alison Smith,Cardiology,Cardiologist,5241256344,Yes,CA,16,,alison.smith@healthcare.org
+PRO00253,Marc Guzman,Cardiology,Cardiologist,7512607226,No,CA,14,544 739 3508,marc.guzman@healthcare.org
+PRO00254,Michelle Davis,Cardiology,Cardiologist,3837935817,Yes,CA,14,222 898 3257,
+PRO00255,Sara Taylor,Cardiology,Cardiologist,6384215617,Yes,CA,15,174 729 9083,sara.taylor@healthcare.org
+PRO00256,John Bowers,Cardiology,Cardiologist,1596061422,No,CA,17,838 222 4036,
+PRO00257,Daniel Craig,Cardiology,Cardiologist,9875771621,Yes,CA,20,036 675 2350,daniel.craig@healthcare.org
+PRO00258,Megan Walsh,Cardiology,Cardiologist,2177780009,No,CA,4,394 735 7203,megan.walsh@healthcare.org
+PRO00259,Miss Cindy Frye,Cardiology,Cardiologist,1431207132,Yes,CA,14,493 836 3633,miss.frye@healthcare.org
+PRO00260,Madison Benson,Cardiology,Cardiologist,6790364720,Yes,CA,2,839 136 2694,
+PRO00261,Catherine Hill,Cardiology,Cardiologist,7570440904,Yes,CA,16,249 268 6193,catherine.hill@healthcare.org
+PRO00262,Susan Hartman,Cardiology,Cardiologist,3331634602,Yes,CA,16,544 195 7236,susan.hartman@healthcare.org
+PRO00263,Joseph Deleon,Cardiology,Cardiologist,3158656762,Yes,CA,35,665 338 6104,
+PRO00264,Joshua Powell,Cardiology,Cardiologist,1042429676,Yes,CA,31,661 014 7010,joshua.powell@healthcare.org
+PRO00265,Virginia Webb,Cardiology,Cardiologist,4906761425,Yes,CA,18,517 371 5436,
+PRO00266,Matthew Robertson,Cardiology,Cardiologist,4438520311,Yes,CA,5,477 947 1687,matthew.robertson@healthcare.org
+PRO00267,Nicole Fowler,Cardiology,Cardiologist,1399685932,Yes,CA,19,704 670 2799,nicole.fowler@healthcare.org
+PRO00268,Ronald Howell,Cardiology,Cardiologist,1111759458,Yes,CA,13,518 059 3612,ronald.howell@healthcare.org
+PRO00269,Bobby Nguyen,Cardiology,Cardiologist,8041634622,Yes,CA,14,986 554 0498,bobby.nguyen@healthcare.org
+PRO00270,Rachel Goodwin,Cardiology,Cardiologist,9462862816,No,CA,10,102 421 1054,
+PRO00271,Willie Guerrero,Cardiology,Cardiologist,6393728688,Yes,CA,19,543 548 9997,willie.guerrero@healthcare.org
+PRO00272,Theresa Jackson,Cardiology,Cardiologist,3934602219,Yes,CA,25,,theresa.jackson@healthcare.org
+PRO00273,Timothy Cobb,Cardiology,Cardiologist,3261430084,Yes,CA,3,554 959 6083,timothy.cobb@healthcare.org
+PRO00274,Stacie Bartlett,Cardiology,Cardiologist,6990546577,Yes,CA,11,293 849 2099,stacie.bartlett@healthcare.org
+PRO00275,Deborah Mccoy,Cardiology,Cardiologist,4565629464,Yes,CA,15,098 559 1385,deborah.mccoy@healthcare.org
+PRO00276,Amber Atkins,Cardiology,Cardiologist,4085351654,Yes,CA,8,531 565 4617,amber.atkins@healthcare.org
+PRO00277,Barbara Combs,Cardiology,Cardiologist,6270506449,Yes,CA,19,335 051 4623,barbara.combs@healthcare.org
+PRO00278,David Wright,Cardiology,Cardiologist,4254653996,Yes,CA,4,856 232 2780,david.wright@healthcare.org
+PRO00279,Wendy Ramirez,Cardiology,Cardiologist,1218988722,Yes,IL,8,,wendy.ramirez@healthcare.org
+PRO00280,Gregory Craig,Cardiology,Cardiologist,1181208847,Yes,CA,11,022 576 3260,
+PRO00281,Tiffany Snyder,Cardiology,Cardiologist,7149468529,No,CA,16,589 500 8505,tiffany.snyder69@healthcare.org
+PRO00282,Melissa Robinson,Cardiology,Cardiologist,8674018976,Yes,CA,17,428 284 2132,melissa.robinson@healthcare.org
+PRO00283,Cynthia Myers,Cardiology,Cardiologist,1453014910,Yes,CA,2,984 812 7330,cynthia.myers@healthcare.org
+PRO00284,Jason Wilson,Cardiology,Cardiologist,3539665156,No,CA,2,598 989 2979,
+PRO00285,Adrian Johnson,Pulmonology,Pulmonologist,8703052806,Yes,CA,16,127 675 9422,
+PRO00286,Justin Kennedy,Pulmonology,Pulmonologist,1269335488,Yes,CA,11,898 294 1398,
+PRO00287,Robert Lowery,Pulmonology,Pulmonologist,7264420378,No,CA,4,985 726 8038,robert.lowery@healthcare.org
+PRO00288,Carl Smith,Pulmonology,Pulmonologist,8759524022,No,CO,13,054 048 3712,carl.smith@healthcare.org
+PRO00289,Mindy Thomas,Pulmonology,Pulmonologist,4951288556,Yes,CA,22,950 840 9070,mindy.thomas@healthcare.org
+PRO00290,Michael Baxter,Pulmonology,Pulmonologist,9524971692,Yes,CA,6,121 191 4275,michael.baxter@healthcare.org
+PRO00291,Tara Walker,Pulmonology,Pulmonologist,4553074914,Yes,CA,8,143 247 7089,
+PRO00292,Kayla Bowen,Pulmonology,Pulmonologist,2750173446,Yes,VA,1,867 758 1166,kayla.bowen@healthcare.org
+PRO00293,Catherine Bridges,Pulmonology,Pulmonologist,1445112725,No,CA,1,,catherine.bridges@healthcare.org
+PRO00294,Veronica Lee,Pulmonology,Pulmonologist,6703916081,Yes,CA,2,098 862 4396,
+PRO00295,Crystal Taylor,Pulmonology,Pulmonologist,8541737655,Yes,CA,14,382 318 3123,crystal.taylor@healthcare.org
+PRO00296,Mrs. Candice Sanchez,Pulmonology,Pulmonologist,6715337832,No,CA,20,817 350 5849,mrs..sanchez@healthcare.org
+PRO00297,Timothy Kelly,Pulmonology,Pulmonologist,2849915985,Yes,CA,20,492 985 7454,timothy.kelly@healthcare.org
+PRO00298,Jason Booker,Pulmonology,Pulmonologist,2611145731,Yes,CA,8,187 642 1026,jason.booker@healthcare.org
+PRO00299,Lisa Martin,Pulmonology,Pulmonologist,5099046079,Yes,CA,16,,lisa.martin@healthcare.org
+PRO00300,Daniel Roberts,Pulmonology,Pulmonologist,5077096792,Yes,CA,13,181 146 3712,daniel.roberts@healthcare.org
+PRO00301,Alexis Benson,Pulmonology,Pulmonologist,7470618144,Yes,CA,1,331 335 2143,alexis.benson@healthcare.org
+PRO00302,Dylan Miller,Pulmonology,Pulmonologist,8240804955,Yes,CA,11,860 520 8451,
+PRO00303,Jose Ware,Pulmonology,Pulmonologist,7492968685,Yes,CA,10,528 521 0392,jose.ware96@healthcare.org
+PRO00304,Christopher Martin,Pulmonology,Pulmonologist,7261745223,Yes,CA,5,602 618 7072,christopher.martin@healthcare.org
+PRO00305,Mandy Caldwell,Pulmonology,Pulmonologist,5095777314,No,CA,20,682 407 0551,mandy.caldwell@healthcare.org
+PRO00306,Tanya Byrd,Pulmonology,Pulmonologist,4793580208,Yes,CA,14,054 552 2977,
+PRO00307,Deborah Green,Pulmonology,Pulmonologist,6872013641,Yes,CA,16,211 848 2539,deborah.green66@healthcare.org
+PRO00308,Sara Bond,Pulmonology,Pulmonologist,5984671825,No,CA,35,099 371 8068,sara.bond26@healthcare.org
+PRO00309,Sally Hart,Pulmonology,Pulmonologist,6815139880,Yes,CA,6,811 229 5568,sally.hart@healthcare.org
+PRO00310,Alan Morris,Pulmonology,Pulmonologist,5043191318,No,CA,34,864 444 4085,
+PRO00311,Melanie Massey,Pulmonology,Pulmonologist,2416053651,Yes,CA,20,717 953 6693,melanie.massey@healthcare.org
+PRO00312,Allen Miles,Pulmonology,Pulmonologist,6380999268,Yes,CA,4,750 064 8551,allen.miles@healthcare.org
+PRO00313,Amy Spears,Pulmonology,Pulmonologist,7497550306,Yes,CA,6,162 041 4581,amy.spears@healthcare.org
+PRO00314,Justin Leon,Pulmonology,Pulmonologist,3262528818,Yes,CA,13,885 686 2325,
+PRO00315,Jay Jones,Pulmonology,Pulmonologist,7424677056,Yes,CA,14,675 977 0220,jay.jones@healthcare.org
+PRO00316,Gregory Shields,Pulmonology,Pulmonologist,4346818463,Yes,CA,13,737 585 2132,gregory.shields59@healthcare.org
+PRO00317,Alexis Little,Pulmonology,Pulmonologist,5515501941,Yes,CA,4,261 989 2646,alexis.little@healthcare.org
+PRO00318,Bradley Gray,Pulmonology,Pulmonologist,1931007780,Yes,CA,17,000 488 0914,bradley.gray@healthcare.org
+PRO00319,Ryan Blake,Pulmonology,Pulmonologist,1940800828,Yes,CA,27,384 740 4675,ryan.blake@healthcare.org
+PRO00320,Joseph Salas,Pulmonology,Pulmonologist,7506254661,No,CA,16,922 117 0049,joseph.salas@healthcare.org
+PRO00321,Donald Fox,Pulmonology,Pulmonologist,2131882930,Yes,CA,11,402 423 1488,donald.fox@healthcare.org
+PRO00322,Lori Woodard,Pulmonology,Pulmonologist,5704076709,Yes,CA,22,575 302 7723,lori.woodard@healthcare.org
+PRO00323,Jessica Howard,Pulmonology,Pulmonologist,5526004553,Yes,CA,39,635 413 5944,jessica.howard@healthcare.org
+PRO00324,Sheena Blackwell,Pulmonology,Pulmonologist,9165241320,Yes,CA,18,967 275 3654,sheena.blackwell@healthcare.org
+PRO00325,Amy Lewis,Pulmonology,Pulmonologist,5920956952,Yes,CA,13,704 448 6003,amy.lewis19@healthcare.org
+PRO00326,Ariel Howard,Pulmonology,Pulmonologist,7798510657,No,CA,17,609 499 2106,ariel.howard@healthcare.org
+PRO00327,Karen Davis,Pulmonology,Pulmonologist,5909775983,Yes,CA,40,650 237 7707,
+PRO00328,Christopher Watson,Pulmonology,Pulmonologist,9339379777,Yes,CA,14,512 395 1416,christopher.watson@healthcare.org
+PRO00329,Jim Howard,Pulmonology,Pulmonologist,7331269097,Yes,CA,9,715 355 8443,
+PRO00330,Rebecca Livingston,Pulmonology,Pulmonologist,6560759778,Yes,CA,1,954 887 7043,rebecca.livingston@healthcare.org
+PRO00331,Jose Ruiz,Pulmonology,Pulmonologist,4337312826,Yes,CA,10,172 693 0863,
+PRO00332,Gabriella Francis,Pulmonology,Pulmonologist,9156407741,No,CA,5,971 270 6387,gabriella.francis@healthcare.org
+PRO00333,Amanda Gonzalez,Pulmonology,Pulmonologist,5290071276,Yes,CA,2,065 252 1654,amanda.gonzalez@healthcare.org
+PRO00334,Andrew Hawkins,Pulmonology,Pulmonologist,8516575688,Yes,CA,14,123 350 8506,
+PRO00335,Karen Hernandez,Pulmonology,Pulmonologist,2189138856,Yes,CA,7,594 283 8351,karen.hernandez@healthcare.org
+PRO00336,Heidi Cook,Pulmonology,Pulmonologist,8916724384,Yes,CA,13,266 929 7130,
+PRO00337,Sean Thomas,Pulmonology,Pulmonologist,4174333331,Yes,CA,5,947 327 9947,sean.thomas85@healthcare.org
+PRO00338,Lisa Hall,Pulmonology,Pulmonologist,9830988661,Yes,CA,10,,lisa.hall@healthcare.org
+PRO00339,William Vincent,Pulmonology,Pulmonologist,8785943211,Yes,CA,2,,
+PRO00340,Brittany Humphrey,Pulmonology,Pulmonologist,6266599055,No,CA,20,453 163 7212,brittany.humphrey@healthcare.org
+PRO00341,Wendy Morales,Pulmonology,Pulmonologist,7015440923,Yes,CA,5,283 272 8628,wendy.morales17@healthcare.org
+PRO00342,Nancy Young,Pulmonology,Pulmonologist,3878011614,Yes,CA,18,509 018 6562,nancy.young@healthcare.org
+PRO00343,Vincent Wallace,Pulmonology,Pulmonologist,9399794037,Yes,CA,8,874 804 0618,vincent.wallace@healthcare.org
+PRO00344,Haley Gonzalez,Pulmonology,Pulmonologist,3548248527,Yes,CA,15,,haley.gonzalez42@healthcare.org
+PRO00345,Nancy Barber,Pulmonology,Pulmonologist,8515688546,Yes,CA,7,907 330 0119,nancy.barber@healthcare.org
+PRO00346,David Ruiz,Pulmonology,Pulmonologist,5836677250,No,CA,18,687 149 4693,david.ruiz@healthcare.org
+PRO00347,April Landry,Pulmonology,Pulmonologist,4779030851,Yes,CA,36,876 044 2987,april.landry@healthcare.org
+PRO00348,Stephanie Taylor,Pulmonology,Pulmonologist,9709528370,Yes,CA,1,753 699 8827,stephanie.taylor@healthcare.org
+PRO00349,Joseph Richard,Pulmonology,Pulmonologist,6357062635,Yes,CA,10,042 625 6707,joseph.richard@healthcare.org
+PRO00350,Patrick Rice,Pulmonology,Pulmonologist,4551362794,No,CA,9,708 353 0656,patrick.rice@healthcare.org
+PRO00351,Alexander Smith,Pulmonology,Pulmonologist,2746929138,Yes,CA,15,786 521 4054,alexander.smith57@healthcare.org
+PRO00352,Brandi Young,Pulmonology,Pulmonologist,3244571021,Yes,CA,5,506 569 6690,brandi.young@healthcare.org
+PRO00353,Alison Mitchell,Pulmonology,Pulmonologist,5998929471,Yes,KY,12,,alison.mitchell@healthcare.org
+PRO00354,Penny Grant,Pulmonology,Pulmonologist,3499666720,Yes,CA,40,173 241 4512,
+PRO00355,Evan White,Pulmonology,Pulmonologist,1699571136,Yes,CA,1,568 346 1280,evan.white@healthcare.org
+PRO00356,Katherine Olson,Neurology,Neurologist,4352398889,Yes,CA,16,409 538 4928,katherine.olson@healthcare.org
+PRO00357,Jennifer Harrison,Neurology,Neurologist,7882735695,Yes,CA,4,145 473 4308,jennifer.harrison@healthcare.org
+PRO00358,Alexandria Harding,Neurology,Neurologist,6991777196,Yes,CA,33,,alexandria.harding@healthcare.org
+PRO00359,Brianna Ramirez,Neurology,Neurologist,4244724281,No,CA,8,,brianna.ramirez@healthcare.org
+PRO00360,Danny Young,Neurology,Neurologist,4073150487,Yes,CA,12,760 437 4118,danny.young72@healthcare.org
+PRO00361,Patricia Roy,Neurology,Neurologist,7825473807,No,CA,1,720 259 2440,
+PRO00362,Allison Caldwell,Neurology,Neurologist,7716273817,Yes,CA,15,562 536 4303,allison.caldwell83@healthcare.org
+PRO00363,Natalie Horn MD,Neurology,Neurologist,3019802279,Yes,CA,12,700 782 3863,
+PRO00364,Spencer Cook,Neurology,Neurologist,2905987652,Yes,CA,17,266 749 3964,spencer.cook@healthcare.org
+PRO00365,Michael Grant,Neurology,Neurologist,1125701659,Yes,CA,1,468 970 0914,michael.grant@healthcare.org
+PRO00366,Nathan Wolfe,Neurology,Neurologist,3650992099,Yes,CT,10,572 296 0878,
+PRO00367,Ruth Andrews,Neurology,Neurologist,5268228358,Yes,CA,3,,
+PRO00368,Margaret Thompson,Neurology,Neurologist,1960554986,Yes,CA,16,005 204 0024,margaret.thompson42@healthcare.org
+PRO00369,Thomas Jones,Neurology,Neurologist,4218474182,Yes,CA,18,217 527 9166,thomas.jones@healthcare.org
+PRO00370,Rick Williams,Neurology,Neurologist,2871416522,Yes,CA,17,717 656 6198,rick.williams@healthcare.org
+PRO00371,Daniel Jones,Neurology,Neurologist,6657899013,No,CA,15,436 770 5779,daniel.jones@healthcare.org
+PRO00372,Denise Jones,Neurology,Neurologist,3962651424,Yes,CA,8,959 035 5578,denise.jones63@healthcare.org
+PRO00373,Debra Zavala,Neurology,Neurologist,7993149274,Yes,CA,17,656 957 8445,debra.zavala46@healthcare.org
+PRO00374,Michael Duarte,Neurology,Neurologist,9199288320,Yes,CA,19,651 337 1717,michael.duarte@healthcare.org
+PRO00375,Brian Jones,Neurology,Neurologist,7946740404,No,CA,20,833 907 5746,brian.jones@healthcare.org
+PRO00376,Carol Davenport,Neurology,Neurologist,9620777932,Yes,CA,20,928 615 5282,carol.davenport86@healthcare.org
+PRO00377,Wendy Palmer,Neurology,Neurologist,5880914982,Yes,CA,10,701 475 2512,wendy.palmer12@healthcare.org
+PRO00378,Elaine Larsen,Neurology,Neurologist,9735197416,Yes,CO,31,740 333 5471,
+PRO00379,Wendy Gutierrez,Neurology,Neurologist,2016488659,Yes,CA,11,842 504 4889,wendy.gutierrez@healthcare.org
+PRO00380,Aaron Tanner,Neurology,Neurologist,5124943317,Yes,CA,7,808 922 3494,aaron.tanner@healthcare.org
+PRO00381,Whitney Ward,Neurology,Neurologist,4143980341,Yes,CA,7,831 683 4381,whitney.ward@healthcare.org
+PRO00382,Patrick Fuentes,Neurology,Neurologist,5974670043,Yes,CA,6,653 055 5314,patrick.fuentes@healthcare.org
+PRO00383,Rachel Terry,Neurology,Neurologist,3569331326,Yes,CA,3,964 665 5420,rachel.terry@healthcare.org
+PRO00384,James Perkins,Neurology,Neurologist,3945270642,No,CA,17,292 774 2634,james.perkins@healthcare.org
+PRO00385,Deborah Wilson,Neurology,Neurologist,7103009797,Yes,CA,22,059 132 9200,deborah.wilson@healthcare.org
+PRO00386,Miss Erin Phillips MD,Neurology,Neurologist,6568397982,Yes,CA,6,751 159 0467,miss.md@healthcare.org
+PRO00387,David Bennett,Neurology,Neurologist,9483488234,Yes,CA,12,,david.bennett@healthcare.org
+PRO00388,David Bennett,Neurology,Neurologist,4097070111,Yes,CA,16,739 032 9041,david.bennett@healthcare.org
+PRO00389,Angela Vance,Neurology,Neurologist,6424232376,Yes,CA,2,716 607 2339,angela.vance@healthcare.org
+PRO00390,Alexis Montes,Neurology,Neurologist,2735824393,Yes,CA,12,,alexis.montes44@healthcare.org
+PRO00391,Sharon Allen DVM,Neurology,Neurologist,7112594746,Yes,CA,25,933 228 1528,sharon.dvm@healthcare.org
+PRO00392,Charlene Jones,Neurology,Neurologist,6733159146,Yes,CA,7,768 161 0877,charlene.jones@healthcare.org
+PRO00393,Jennifer Johns,Neurology,Neurologist,1163213722,Yes,NY,20,259 561 6214,
+PRO00394,Anne Henson,Neurology,Neurologist,1552686366,Yes,CA,3,844 231 2748,
+PRO00395,Michelle Navarro,Neurology,Neurologist,6681141267,Yes,CA,12,893 899 2042,michelle.navarro@healthcare.org
+PRO00396,Alison Phillips,Neurology,Neurologist,6114835662,Yes,CA,38,813 728 0721,alison.phillips@healthcare.org
+PRO00397,Roy Meyer,Neurology,Neurologist,9878322705,Yes,CA,37,763 682 8780,roy.meyer@healthcare.org
+PRO00398,Melinda Baxter,Neurology,Neurologist,4281842164,Yes,CA,7,,melinda.baxter@healthcare.org
+PRO00399,Travis Garcia,Neurology,Neurologist,5437117430,Yes,CA,1,400 569 3660,
+PRO00400,Bethany Watson,Neurology,Neurologist,9804747885,Yes,CA,20,,bethany.watson57@healthcare.org
+PRO00401,Jorge Fuller,Neurology,Neurologist,6038257064,Yes,CA,6,320 462 8198,jorge.fuller@healthcare.org
+PRO00402,Ryan Quinn,Neurology,Neurologist,2762915933,Yes,CA,31,788 399 5253,
+PRO00403,Cody Saunders,Neurology,Neurologist,1704019573,Yes,CA,4,236 958 0130,cody.saunders@healthcare.org
+PRO00404,Cynthia Thomas,Neurology,Neurologist,5392847302,Yes,CA,20,360 721 3685,
+PRO00405,Carl Martinez,Neurology,Neurologist,3310374353,Yes,CA,39,223 013 1851,
+PRO00406,Rachel Wilson,Neurology,Neurologist,4330920977,Yes,CA,13,210 087 3534,rachel.wilson84@healthcare.org
+PRO00407,Kenneth Bell,Neurology,Neurologist,8671166189,No,CA,10,948 010 2955,kenneth.bell@healthcare.org
+PRO00408,Connie Bolton,Neurology,Neurologist,4208315310,Yes,CA,6,098 786 3872,connie.bolton@healthcare.org
+PRO00409,Andre Gray,Neurology,Neurologist,5680937899,Yes,CA,7,584 507 9317,
+PRO00410,Brandon Brown,Neurology,Neurologist,1181777478,Yes,CA,19,323 957 9941,brandon.brown32@healthcare.org
+PRO00411,Elizabeth Rose,Neurology,Neurologist,9185937171,No,CA,1,828 013 2135,elizabeth.rose@healthcare.org
+PRO00412,Emily Cardenas,Neurology,Neurologist,4099120718,Yes,CA,6,902 891 5400,emily.cardenas@healthcare.org
+PRO00413,Jennifer Page,Neurology,Neurologist,1248635720,Yes,ND,9,300 363 9692,jennifer.page@healthcare.org
+PRO00414,James Miller,Neurology,Neurologist,6411024518,Yes,CA,16,094 541 0863,james.miller@healthcare.org
+PRO00415,Jessica Lam,Neurology,Neurologist,3269344582,Yes,CA,8,031 452 2630,jessica.lam@healthcare.org
+PRO00416,Joseph Braun,Neurology,Neurologist,9086528233,Yes,CA,11,352 688 3024,joseph.braun@healthcare.org
+PRO00417,Ashley Gonzalez,Neurology,Neurologist,2766288918,Yes,CA,33,986 300 2483,ashley.gonzalez@healthcare.org
+PRO00418,Philip Payne,Neurology,Neurologist,5003230832,Yes,CA,5,207 058 6753,
+PRO00419,Jo Rogers,Neurology,Neurologist,7200280165,Yes,CA,2,553 352 8176,
+PRO00420,Mary Velazquez,Neurology,Neurologist,7538596190,Yes,CA,6,593 851 0783,
+PRO00421,Jean Mitchell,Neurology,Neurologist,2588102109,Yes,CA,19,898 500 7575,jean.mitchell@healthcare.org
+PRO00422,Corey Henderson,Neurology,Neurologist,3486457617,Yes,CA,5,470 448 5764,corey.henderson@healthcare.org
+PRO00423,Carolyn Taylor,Neurology,Neurologist,4261856589,Yes,CA,3,681 920 1376,carolyn.taylor@healthcare.org
+PRO00424,Brittany Rice,Neurology,Neurologist,9009331387,Yes,CA,18,860 861 6622,brittany.rice@healthcare.org
+PRO00425,Jennifer Johnson,Neurology,Neurologist,8112243218,Yes,CA,7,587 238 4232,
+PRO00426,John Brown,Neurology,Neurologist,6728040383,Yes,NM,4,939 886 2066,john.brown@healthcare.org
+PRO00427,Jessica Noble,Orthopedics,Orthopedic Surgeon,9066483861,No,CA,17,146 536 5000,jessica.noble@healthcare.org
+PRO00428,Susan Serrano,Orthopedics,Orthopedic Surgeon,7757956022,Yes,CA,9,563 551 0816,susan.serrano@healthcare.org
+PRO00429,Paul Smith,Orthopedics,Orthopedic Surgeon,2843170256,Yes,AZ,38,148 201 8301,
+PRO00430,Jonathan Velez,Orthopedics,Orthopedic Surgeon,8315510784,No,CA,9,000 523 8546,jonathan.velez@healthcare.org
+PRO00431,Curtis Garcia,Orthopedics,Orthopedic Surgeon,3093735684,Yes,CA,2,356 110 0771,curtis.garcia@healthcare.org
+PRO00432,Kayla Johnson,Orthopedics,Orthopedic Surgeon,4661316173,Yes,CA,20,599 075 0829,kayla.johnson86@healthcare.org
+PRO00433,Anthony Heath,Orthopedics,Orthopedic Surgeon,1479282935,Yes,CA,12,341 645 4458,anthony.heath@healthcare.org
+PRO00434,Shaun Thompson,Orthopedics,Orthopedic Surgeon,7036691088,No,CA,18,562 367 5220,shaun.thompson@healthcare.org
+PRO00435,Rodney Lambert,Orthopedics,Orthopedic Surgeon,9042138288,Yes,CA,9,460 093 3468,rodney.lambert@healthcare.org
+PRO00436,Brenda Kaufman,Orthopedics,Orthopedic Surgeon,1328079004,Yes,CA,7,637 676 8685,brenda.kaufman@healthcare.org
+PRO00437,Shannon Gutierrez,Orthopedics,Orthopedic Surgeon,9650693629,Yes,AZ,19,591 684 2762,shannon.gutierrez66@healthcare.org
+PRO00438,Megan Doyle,Orthopedics,Orthopedic Surgeon,3432816383,Yes,CA,1,715 596 7706,megan.doyle93@healthcare.org
+PRO00439,William Hill,Orthopedics,Orthopedic Surgeon,4387843580,No,CA,15,286 367 7310,
+PRO00440,Michael Ward,Orthopedics,Orthopedic Surgeon,7034310006,Yes,CA,24,200 063 9299,michael.ward@healthcare.org
+PRO00441,Joyce Cowan,Orthopedics,Orthopedic Surgeon,7542732441,No,NE,40,077 406 1547,joyce.cowan@healthcare.org
+PRO00442,Jeffrey Blankenship,Orthopedics,Orthopedic Surgeon,1493606926,Yes,CA,18,411 186 7329,jeffrey.blankenship@healthcare.org
+PRO00443,Sheena Curtis,Orthopedics,Orthopedic Surgeon,8616643094,Yes,CA,2,432 651 2010,sheena.curtis@healthcare.org
+PRO00444,Jennifer James,Orthopedics,Orthopedic Surgeon,5711882112,Yes,CA,10,156 356 1140,jennifer.james@healthcare.org
+PRO00445,Patrick Mejia,Orthopedics,Orthopedic Surgeon,4602786462,Yes,CA,8,344 222 3820,
+PRO00446,Thomas Miller,Orthopedics,Orthopedic Surgeon,7797802241,Yes,CA,16,020 220 9806,thomas.miller@healthcare.org
+PRO00447,Eric Bryant,Orthopedics,Orthopedic Surgeon,7011374445,Yes,CA,1,817 152 1706,
+PRO00448,Alan Dudley,Orthopedics,Orthopedic Surgeon,8200528026,Yes,CA,19,395 768 9793,alan.dudley77@healthcare.org
+PRO00449,Maria Rodriguez,Orthopedics,Orthopedic Surgeon,5017771695,Yes,CA,13,865 693 5223,
+PRO00450,Andrew Munoz,Orthopedics,Orthopedic Surgeon,2216509966,No,CA,5,053 671 3901,andrew.munoz@healthcare.org
+PRO00451,Bobby Olsen,Orthopedics,Orthopedic Surgeon,4552736154,Yes,CA,18,139 025 5325,bobby.olsen65@healthcare.org
+PRO00452,William Farrell,Orthopedics,Orthopedic Surgeon,8291362470,Yes,CA,37,465 205 0322,william.farrell56@healthcare.org
+PRO00453,Katherine Hubbard,Orthopedics,Orthopedic Surgeon,3365535759,No,CA,8,505 287 1005,katherine.hubbard@healthcare.org
+PRO00454,Justin Murray,Orthopedics,Orthopedic Surgeon,5899739017,Yes,CA,10,604 385 6844,justin.murray14@healthcare.org
+PRO00455,Jason Davis,Orthopedics,Orthopedic Surgeon,5788229914,No,CA,3,590 031 8511,jason.davis@healthcare.org
+PRO00456,John Fuentes Jr.,Orthopedics,Orthopedic Surgeon,6431066318,Yes,CA,38,588 606 8219,john.jr.96@healthcare.org
+PRO00457,Spencer Parks,Orthopedics,Orthopedic Surgeon,7973286467,Yes,CA,8,647 828 1142,
+PRO00458,Aaron Hammond,Orthopedics,Orthopedic Surgeon,3123596789,Yes,CA,10,601 303 6640,aaron.hammond36@healthcare.org
+PRO00459,Jenna Schaefer,Orthopedics,Orthopedic Surgeon,2294321642,No,CA,1,265 860 9657,jenna.schaefer@healthcare.org
+PRO00460,James Johnson,Orthopedics,Orthopedic Surgeon,7781409317,Yes,NC,8,646 806 0260,james.johnson64@healthcare.org
+PRO00461,Ryan Wu,Orthopedics,Orthopedic Surgeon,9982029016,Yes,CA,20,863 013 5366,ryan.wu@healthcare.org
+PRO00462,Lisa Noble,Orthopedics,Orthopedic Surgeon,7994320860,Yes,CA,1,868 612 7009,lisa.noble@healthcare.org
+PRO00463,Sheryl Myers,Orthopedics,Orthopedic Surgeon,4482534606,Yes,AR,33,768 447 6390,sheryl.myers24@healthcare.org
+PRO00464,Michael Ward,Orthopedics,Orthopedic Surgeon,2464003177,Yes,CA,4,505 295 0165,michael.ward40@healthcare.org
+PRO00465,Jennifer Thomas,Orthopedics,Orthopedic Surgeon,2650184272,Yes,CA,12,803 959 0100,jennifer.thomas@healthcare.org
+PRO00466,Mrs. Heather Andrade,Orthopedics,Orthopedic Surgeon,2252006267,Yes,CA,1,,mrs..andrade@healthcare.org
+PRO00467,Jennifer Henderson,Orthopedics,Orthopedic Surgeon,9831642008,No,CA,14,067 843 4290,
+PRO00468,James Henry,Orthopedics,Orthopedic Surgeon,9531392334,Yes,CA,4,038 889 3167,james.henry@healthcare.org
+PRO00469,Veronica Levine,Orthopedics,Orthopedic Surgeon,6533552678,Yes,CA,5,914 289 6547,veronica.levine@healthcare.org
+PRO00470,Mrs. Amber Davis,Orthopedics,Orthopedic Surgeon,8826547747,Yes,CA,1,784 435 1536,
+PRO00471,Alexander Boone,Orthopedics,Orthopedic Surgeon,4333937625,No,VA,7,871 967 5557,alexander.boone@healthcare.org
+PRO00472,Derrick Hill,Orthopedics,Orthopedic Surgeon,8434221047,Yes,CA,18,597 230 2166,derrick.hill@healthcare.org
+PRO00473,Cynthia Cardenas,Orthopedics,Orthopedic Surgeon,1211447510,Yes,CA,14,349 072 0973,cynthia.cardenas@healthcare.org
+PRO00474,Sharon Brown,Orthopedics,Orthopedic Surgeon,2611487572,Yes,CA,16,088 745 4336,sharon.brown63@healthcare.org
+PRO00475,Traci Dunn,Orthopedics,Orthopedic Surgeon,8378846856,Yes,CA,14,580 413 9293,
+PRO00476,Megan Smith,Orthopedics,Orthopedic Surgeon,3172963969,Yes,CA,16,520 438 7195,megan.smith@healthcare.org
+PRO00477,Daniel Parks,Orthopedics,Orthopedic Surgeon,6007768419,Yes,CA,2,092 983 2140,daniel.parks@healthcare.org
+PRO00478,Erik Nash,Orthopedics,Orthopedic Surgeon,1229359437,Yes,CA,8,349 405 8315,erik.nash@healthcare.org
+PRO00479,Kristina Baxter,Orthopedics,Orthopedic Surgeon,6020184047,No,CA,1,741 090 9009,
+PRO00480,Keith Martin,Orthopedics,Orthopedic Surgeon,6160849853,No,CA,20,544 735 9159,keith.martin@healthcare.org
+PRO00481,Randy Gallegos IV,Orthopedics,Orthopedic Surgeon,4945222366,Yes,FL,12,,randy.iv@healthcare.org
+PRO00482,Brett Hill,Orthopedics,Orthopedic Surgeon,4186604761,Yes,CA,10,172 931 3597,brett.hill19@healthcare.org
+PRO00483,John Chambers,Orthopedics,Orthopedic Surgeon,2060373179,Yes,CA,15,239 522 5326,john.chambers@healthcare.org
+PRO00484,Stuart Pena,Orthopedics,Orthopedic Surgeon,3916446169,Yes,RI,21,572 595 5819,stuart.pena@healthcare.org
+PRO00485,Zachary Sparks,Orthopedics,Orthopedic Surgeon,3349722828,Yes,PA,13,803 714 4697,zachary.sparks@healthcare.org
+PRO00486,Jared Peterson,Orthopedics,Orthopedic Surgeon,5113725595,Yes,CA,21,055 358 8245,jared.peterson@healthcare.org
+PRO00487,Dr. Anthony Martin,Orthopedics,Orthopedic Surgeon,7869261059,Yes,CA,39,064 747 1699,dr..martin88@healthcare.org
+PRO00488,Sandy Peterson,Orthopedics,Orthopedic Surgeon,7205637578,No,CA,25,074 349 0769,sandy.peterson@healthcare.org
+PRO00489,Stanley Williams,Orthopedics,Orthopedic Surgeon,5157637556,No,TX,19,766 175 5999,stanley.williams@healthcare.org
+PRO00490,Katherine Hopkins,Orthopedics,Orthopedic Surgeon,2283620974,No,IA,8,029 273 6490,katherine.hopkins@healthcare.org
+PRO00491,Ryan Smith PhD,Orthopedics,Orthopedic Surgeon,8972569351,Yes,CA,5,196 139 4642,ryan.phd59@healthcare.org
+PRO00492,Alison Jones,Orthopedics,Orthopedic Surgeon,2168270392,No,CA,36,915 917 9983,alison.jones@healthcare.org
+PRO00493,Christopher Horton,Orthopedics,Orthopedic Surgeon,3967869913,Yes,CA,9,347 399 9587,christopher.horton@healthcare.org
+PRO00494,Morgan Rosario,Orthopedics,Orthopedic Surgeon,7181150762,Yes,CA,4,256 176 6484,morgan.rosario19@healthcare.org
+PRO00495,William Lambert,Orthopedics,Orthopedic Surgeon,7233945912,Yes,CA,9,554 745 5483,william.lambert@healthcare.org
+PRO00496,Briana Donaldson,Orthopedics,Orthopedic Surgeon,7042355709,No,MN,8,929 920 2446,briana.donaldson38@healthcare.org
+PRO00497,Darrell Watson,Orthopedics,Orthopedic Surgeon,7771241875,Yes,CA,10,352 391 0083,
+PRO00498,Barbara Ortega,General Surgery,General Practitioner,2442163764,No,CA,9,,barbara.ortega@healthcare.org
+PRO00499,John Phillips,General Surgery,General Practitioner,1376505425,Yes,CA,4,152 025 3233,john.phillips@healthcare.org
+PRO00500,Paul Soto,General Surgery,General Practitioner,6515713748,Yes,CA,16,,paul.soto@healthcare.org
+PRO00501,Robin Blevins,General Surgery,General Practitioner,4121319556,Yes,CA,15,959 331 1464,robin.blevins@healthcare.org
+PRO00502,Emily Henry,General Surgery,General Practitioner,3551647132,Yes,CA,28,922 679 8779,emily.henry@healthcare.org
+PRO00503,Leah Alexander,General Surgery,General Practitioner,3408690895,Yes,CA,19,116 501 8664,
+PRO00504,Joseph Frank,General Surgery,General Practitioner,5318293911,Yes,CA,14,367 277 4244,
+PRO00505,Erika Marquez,General Surgery,General Practitioner,4235783961,Yes,CA,12,417 371 9995,erika.marquez@healthcare.org
+PRO00506,Tommy Osborne,General Surgery,General Practitioner,5630328788,Yes,DC,35,743 714 7644,tommy.osborne@healthcare.org
+PRO00507,Timothy Young,General Surgery,General Practitioner,3567596643,Yes,CA,5,261 989 3097,timothy.young@healthcare.org
+PRO00508,Meagan Fisher,General Surgery,General Practitioner,4543617320,No,CA,3,807 844 8274,meagan.fisher@healthcare.org
+PRO00509,James Sharp,General Surgery,General Practitioner,4667272187,Yes,CA,2,139 165 4563,james.sharp@healthcare.org
+PRO00510,Sally Matthews,General Surgery,General Practitioner,5251984088,Yes,CA,39,733 043 0879,sally.matthews@healthcare.org
+PRO00511,Cole Pace,General Surgery,General Practitioner,9634427941,Yes,CA,7,757 893 6182,cole.pace38@healthcare.org
+PRO00512,Michael Murphy,General Surgery,General Practitioner,2537841539,Yes,CA,18,176 156 1208,michael.murphy@healthcare.org
+PRO00513,Joseph Walker,General Surgery,General Practitioner,1781807650,No,CA,16,015 011 1471,
+PRO00514,Christopher Perry,General Surgery,General Practitioner,7307680826,Yes,CA,13,499 466 3220,christopher.perry@healthcare.org
+PRO00515,Larry Hill,General Surgery,General Practitioner,4074525485,Yes,CA,15,816 009 1938,larry.hill20@healthcare.org
+PRO00516,Mr. Bryan Johnson PhD,General Surgery,General Practitioner,3496007725,Yes,CA,18,418 432 2262,
+PRO00517,Jill Soto,General Surgery,General Practitioner,2148212600,Yes,CA,26,171 919 3596,jill.soto@healthcare.org
+PRO00518,David Torres,General Surgery,General Practitioner,9548563750,Yes,CA,19,449 278 7251,david.torres@healthcare.org
+PRO00519,David Hardy,General Surgery,General Practitioner,3116614434,Yes,CA,18,467 049 2347,david.hardy@healthcare.org
+PRO00520,Jill Garcia,General Surgery,General Practitioner,7066936968,Yes,CA,9,054 859 3868,jill.garcia@healthcare.org
+PRO00521,Charles Ewing,General Surgery,General Practitioner,1482168009,No,CA,17,018 374 3709,charles.ewing51@healthcare.org
+PRO00522,Nathaniel Gibson,General Surgery,General Practitioner,5709119857,Yes,MI,18,428 658 5270,nathaniel.gibson@healthcare.org
+PRO00523,William Wilson,General Surgery,General Practitioner,1893778858,Yes,CA,15,502 344 2661,william.wilson@healthcare.org
+PRO00524,Alexa Boyd,General Surgery,General Practitioner,1833821105,Yes,CA,13,123 231 4863,alexa.boyd@healthcare.org
+PRO00525,Kevin Fernandez Jr.,General Surgery,General Practitioner,3266374868,Yes,NE,12,,kevin.jr.@healthcare.org
+PRO00526,Megan Diaz,General Surgery,General Practitioner,8584999454,Yes,CA,5,517 850 1324,
+PRO00527,April Anderson,General Surgery,General Practitioner,4098006269,Yes,CA,15,361 619 7114,april.anderson@healthcare.org
+PRO00528,Douglas Bright,General Surgery,General Practitioner,6949012650,No,CA,8,727 455 4502,douglas.bright@healthcare.org
+PRO00529,Frank Miller,General Surgery,General Practitioner,7310808580,Yes,CA,7,766 108 6066,frank.miller80@healthcare.org
+PRO00530,Carla Mcmillan,General Surgery,General Practitioner,3917109863,Yes,NM,17,878 407 7519,carla.mcmillan11@healthcare.org
+PRO00531,Kyle Rose,General Surgery,General Practitioner,9002943784,Yes,CA,18,177 067 6702,
+PRO00532,Autumn Brown,General Surgery,General Practitioner,8964793277,Yes,CA,4,420 535 7843,autumn.brown@healthcare.org
+PRO00533,David Gay,General Surgery,General Practitioner,2547306335,Yes,CA,18,056 468 7820,
+PRO00534,Barbara Farmer,General Surgery,General Practitioner,4893031573,Yes,CA,36,175 019 1261,barbara.farmer@healthcare.org
+PRO00535,Justin Leblanc,General Surgery,General Practitioner,6708864762,Yes,CA,5,189 437 6463,justin.leblanc@healthcare.org
+PRO00536,Jasmine Ramos,General Surgery,General Practitioner,3796131323,Yes,CA,1,435 558 1340,jasmine.ramos26@healthcare.org
+PRO00537,Michael Hernandez,General Surgery,General Practitioner,3853108042,Yes,CA,9,016 722 4626,
+PRO00538,Robert Kennedy,General Surgery,General Practitioner,4107326011,No,CA,14,381 229 3056,robert.kennedy@healthcare.org
+PRO00539,Miss Marie Thomas,General Surgery,General Practitioner,5743381414,Yes,CA,20,356 819 9137,miss.thomas@healthcare.org
+PRO00540,Alexa Gregory,General Surgery,General Practitioner,5458491197,Yes,IN,18,240 050 9361,alexa.gregory@healthcare.org
+PRO00541,Audrey Cole,General Surgery,General Practitioner,3237279031,No,CA,5,287 888 0016,audrey.cole@healthcare.org
+PRO00542,Kathy Goodman,General Surgery,General Practitioner,6026124580,Yes,CA,12,,kathy.goodman@healthcare.org
+PRO00543,Rachael Jordan,General Surgery,General Practitioner,9939532823,Yes,CA,18,855 257 6800,rachael.jordan@healthcare.org
+PRO00544,Gene Brown,General Surgery,General Practitioner,8570689378,Yes,CA,15,881 228 1089,gene.brown@healthcare.org
+PRO00545,Sabrina Evans,General Surgery,General Practitioner,3259674653,Yes,CA,10,907 326 6797,sabrina.evans@healthcare.org
+PRO00546,David Davis,General Surgery,General Practitioner,3085912008,Yes,CA,20,859 720 1633,david.davis@healthcare.org
+PRO00547,John Pineda,General Surgery,General Practitioner,2692042727,Yes,CA,15,874 033 8988,john.pineda@healthcare.org
+PRO00548,Allison Mann,General Surgery,General Practitioner,6862779916,Yes,CA,27,332 522 8918,allison.mann@healthcare.org
+PRO00549,Nicole Randall,General Surgery,General Practitioner,7619896948,Yes,CA,13,963 913 7658,
+PRO00550,Sara Bass,General Surgery,General Practitioner,9377202213,Yes,CA,1,767 227 0886,sara.bass@healthcare.org
+PRO00551,Kelsey Burns,General Surgery,General Practitioner,1839203287,Yes,UT,3,976 036 6346,
+PRO00552,Richard Hall,General Surgery,General Practitioner,2847026042,Yes,MO,9,159 029 2197,richard.hall@healthcare.org
+PRO00553,Stephanie Rowe,General Surgery,General Practitioner,7575811842,Yes,CA,5,445 506 5756,stephanie.rowe@healthcare.org
+PRO00554,Charles Powell,General Surgery,General Practitioner,9992323596,Yes,CA,11,749 481 2741,charles.powell@healthcare.org
+PRO00555,Joseph Gutierrez,General Surgery,General Practitioner,5799305430,Yes,DE,8,995 750 5160,joseph.gutierrez@healthcare.org
+PRO00556,Tiffany Rodgers,General Surgery,General Practitioner,3679124864,Yes,CA,20,936 298 7661,tiffany.rodgers@healthcare.org
+PRO00557,Alyssa Gonzalez,General Surgery,General Practitioner,9444888120,Yes,CA,7,788 862 5624,alyssa.gonzalez@healthcare.org
+PRO00558,Jose Ho,General Surgery,General Practitioner,8555683786,Yes,CA,20,368 249 8549,jose.ho@healthcare.org
+PRO00559,Anna Frost,General Surgery,General Practitioner,7430052765,No,CA,11,799 756 2190,anna.frost@healthcare.org
+PRO00560,Jason Jones,General Surgery,General Practitioner,3166662959,No,CA,39,413 333 3848,
+PRO00561,Jennifer Murphy,General Surgery,General Practitioner,9684756536,Yes,CA,23,517 692 2125,jennifer.murphy@healthcare.org
+PRO00562,Anthony Clements,General Surgery,General Practitioner,9733650059,No,CA,18,892 655 2662,anthony.clements@healthcare.org
+PRO00563,Joshua Lucero,General Surgery,General Practitioner,4585835841,Yes,CA,17,418 838 2760,joshua.lucero@healthcare.org
+PRO00564,Victor Erickson,General Surgery,General Practitioner,7339845490,No,CA,30,679 846 8087,victor.erickson@healthcare.org
+PRO00565,Brian Lopez,General Surgery,General Practitioner,7690504468,Yes,AK,12,603 010 1341,
+PRO00566,Richard Mills DDS,General Surgery,General Practitioner,6727698606,Yes,CA,1,839 838 7409,
+PRO00567,Melissa Bradshaw,General Surgery,General Practitioner,7317374467,Yes,CA,2,324 377 4411,melissa.bradshaw@healthcare.org
+PRO00568,Jessica Calderon,General Surgery,General Practitioner,4089704357,No,CO,11,417 136 9434,
+PRO00569,Christopher Flores,Gastroenterology,Gastroenterologist,3128454017,Yes,TX,16,995 256 9602,christopher.flores@healthcare.org
+PRO00570,Joseph Foster,Gastroenterology,Gastroenterologist,5164473246,Yes,RI,3,464 040 7287,joseph.foster@healthcare.org
+PRO00571,Ashley Wheeler,Gastroenterology,Gastroenterologist,9869753141,Yes,CA,6,233 153 7515,ashley.wheeler16@healthcare.org
+PRO00572,Tami Vega,Gastroenterology,Gastroenterologist,7513399889,Yes,CA,15,804 736 8140,tami.vega@healthcare.org
+PRO00573,Ernest Hughes,Gastroenterology,Gastroenterologist,3653097212,Yes,CA,1,234 258 3881,ernest.hughes@healthcare.org
+PRO00574,Anne Kennedy,Gastroenterology,Gastroenterologist,7412443231,Yes,CA,9,519 084 5737,anne.kennedy26@healthcare.org
+PRO00575,Lisa Jones,Gastroenterology,Gastroenterologist,9240780618,Yes,CA,10,704 122 5898,lisa.jones@healthcare.org
+PRO00576,William Thompson,Gastroenterology,Gastroenterologist,9922247933,Yes,CA,4,392 322 1789,
+PRO00577,Reginald Valencia,Gastroenterology,Gastroenterologist,1214301951,Yes,ID,10,109 357 7598,
+PRO00578,Tiffany Rivera,Gastroenterology,Gastroenterologist,2815343549,Yes,CA,5,761 467 2565,
+PRO00579,Tiffany Fleming PhD,Gastroenterology,Gastroenterologist,5960601979,Yes,CA,10,716 513 2542,tiffany.phd@healthcare.org
+PRO00580,Cody Byrd,Gastroenterology,Gastroenterologist,7023563684,Yes,RI,17,399 658 5320,cody.byrd@healthcare.org
+PRO00581,Michelle Avila,Gastroenterology,Gastroenterologist,6354747162,Yes,MS,10,233 754 4862,
+PRO00582,William Davis,Gastroenterology,Gastroenterologist,7031733971,Yes,CA,5,764 865 9085,william.davis34@healthcare.org
+PRO00583,Joseph Patel,Gastroenterology,Gastroenterologist,8981622918,Yes,CA,11,922 635 5297,joseph.patel@healthcare.org
+PRO00584,Daniel Dudley,Gastroenterology,Gastroenterologist,9565233549,Yes,CA,9,907 961 2296,daniel.dudley@healthcare.org
+PRO00585,Corey Savage,Gastroenterology,Gastroenterologist,6740058006,Yes,ND,15,072 533 4351,corey.savage76@healthcare.org
+PRO00586,Shawn Clayton,Gastroenterology,Gastroenterologist,4373964528,Yes,CA,3,356 211 3509,shawn.clayton@healthcare.org
+PRO00587,Kimberly Brooks,Gastroenterology,Gastroenterologist,4311887676,Yes,CA,12,,kimberly.brooks@healthcare.org
+PRO00588,Nathan Martinez,Gastroenterology,Gastroenterologist,3367479203,No,CA,1,852 216 6665,nathan.martinez@healthcare.org
+PRO00589,Jennifer Conley,Gastroenterology,Gastroenterologist,2199231033,Yes,CA,7,567 943 0004,jennifer.conley10@healthcare.org
+PRO00590,Timothy Long,Gastroenterology,Gastroenterologist,4817451066,Yes,LA,6,750 089 2857,
+PRO00591,Dr. Gregory Ramirez,Gastroenterology,Gastroenterologist,9594729915,Yes,CA,9,001 085 1388,dr..ramirez@healthcare.org
+PRO00592,Justin Jones,Gastroenterology,Gastroenterologist,2220912430,Yes,CA,12,962 494 9588,justin.jones@healthcare.org
+PRO00593,Julian Contreras,Gastroenterology,Gastroenterologist,4427640972,Yes,FM,1,322 342 6983,
+PRO00594,Aaron Rich,Gastroenterology,Gastroenterologist,3057043847,Yes,CA,6,618 532 0882,aaron.rich@healthcare.org
+PRO00595,Mario Macias,Gastroenterology,Gastroenterologist,2109300336,Yes,LA,21,825 701 0834,
+PRO00596,Kathryn Johnson,Gastroenterology,Gastroenterologist,8641847212,Yes,CA,7,576 214 0085,kathryn.johnson@healthcare.org
+PRO00597,Scott Hayes,Gastroenterology,Gastroenterologist,9976497742,No,CA,13,533 976 9481,scott.hayes@healthcare.org
+PRO00598,Christina Hogan,Gastroenterology,Gastroenterologist,3262561962,No,CA,18,422 698 5172,christina.hogan92@healthcare.org
+PRO00599,Casey Klein,Gastroenterology,Gastroenterologist,8359623593,Yes,CA,9,846 354 4587,casey.klein@healthcare.org
+PRO00600,Whitney Walter,Gastroenterology,Gastroenterologist,9119509700,Yes,CA,17,634 698 5927,whitney.walter@healthcare.org
+PRO00601,Scott Clark,Gastroenterology,Gastroenterologist,1674362189,Yes,CA,20,390 923 1479,scott.clark@healthcare.org
+PRO00602,Lindsey Ford,Gastroenterology,Gastroenterologist,5927954528,Yes,CA,4,932 353 2439,
+PRO00603,Amanda Brown,Gastroenterology,Gastroenterologist,8611445266,Yes,CA,20,436 454 5718,amanda.brown@healthcare.org
+PRO00604,Brent Stewart,Gastroenterology,Gastroenterologist,1351922791,Yes,CA,7,684 173 5407,brent.stewart@healthcare.org
+PRO00605,Mrs. Brenda Robinson,Gastroenterology,Gastroenterologist,5626846429,Yes,CA,17,849 028 6951,mrs..robinson@healthcare.org
+PRO00606,Jennifer Mills,Gastroenterology,Gastroenterologist,1041373536,Yes,CA,17,221 341 5977,jennifer.mills@healthcare.org
+PRO00607,Megan Tran,Gastroenterology,Gastroenterologist,4423364460,No,CA,12,,megan.tran@healthcare.org
+PRO00608,Luis Smith,Gastroenterology,Gastroenterologist,7590170420,Yes,IA,16,029 880 1222,luis.smith@healthcare.org
+PRO00609,Jesse Fuller,Gastroenterology,Gastroenterologist,1479952037,Yes,CA,20,257 200 3043,jesse.fuller47@healthcare.org
+PRO00610,Elizabeth Williams,Gastroenterology,Gastroenterologist,1452175971,Yes,CA,18,782 854 5556,
+PRO00611,Jason Evans,Gastroenterology,Gastroenterologist,2163418326,Yes,CA,7,533 742 3964,jason.evans@healthcare.org
+PRO00612,Crystal Mendoza,Gastroenterology,Gastroenterologist,2740538258,Yes,CA,19,,crystal.mendoza@healthcare.org
+PRO00613,John Carter,Gastroenterology,Gastroenterologist,5847401854,Yes,CA,1,455 804 0542,
+PRO00614,Raymond Evans,Gastroenterology,Gastroenterologist,3461168919,Yes,CA,9,,raymond.evans@healthcare.org
+PRO00615,Daniel Kirby,Gastroenterology,Gastroenterologist,7903916515,Yes,CA,13,294 758 7320,daniel.kirby@healthcare.org
+PRO00616,Michelle Schaefer,Gastroenterology,Gastroenterologist,9213423109,Yes,CA,18,997 542 9776,
+PRO00617,William Scott,Gastroenterology,Gastroenterologist,7797713193,Yes,CA,7,962 142 9667,william.scott@healthcare.org
+PRO00618,Jessica Garcia,Gastroenterology,Gastroenterologist,9897986162,Yes,CA,10,,jessica.garcia11@healthcare.org
+PRO00619,Matthew Ruiz,Gastroenterology,Gastroenterologist,5214235481,Yes,CA,31,973 797 2660,
+PRO00620,Dean Fuller,Gastroenterology,Gastroenterologist,2435143848,Yes,CA,11,790 642 2112,dean.fuller72@healthcare.org
+PRO00621,Thomas Johnson,Gastroenterology,Gastroenterologist,6390971007,Yes,CA,6,829 288 4536,
+PRO00622,Matthew Davis,Gastroenterology,Gastroenterologist,5975604422,Yes,CA,17,969 745 8566,matthew.davis@healthcare.org
+PRO00623,Beth Wilson,Gastroenterology,Gastroenterologist,1567945717,Yes,CA,11,,beth.wilson@healthcare.org
+PRO00624,Michelle Jenkins,Gastroenterology,Gastroenterologist,1570117673,No,CA,13,594 991 4517,michelle.jenkins@healthcare.org
+PRO00625,Jody Pope,Gastroenterology,Gastroenterologist,6756849746,Yes,MS,2,938 995 9241,jody.pope@healthcare.org
+PRO00626,Curtis Jones,Gastroenterology,Gastroenterologist,9291024443,Yes,CA,7,,curtis.jones@healthcare.org
+PRO00627,Sarah Rhodes,Gastroenterology,Gastroenterologist,8204400604,Yes,CA,3,110 189 5868,sarah.rhodes98@healthcare.org
+PRO00628,Shawn Davenport,Gastroenterology,Gastroenterologist,6793952588,Yes,DC,1,385 999 6855,shawn.davenport@healthcare.org
+PRO00629,Miss Kathryn Mcguire,Gastroenterology,Gastroenterologist,9273239587,No,CA,1,102 482 7295,miss.mcguire@healthcare.org
+PRO00630,Anthony Washington,Gastroenterology,Gastroenterologist,2857051573,Yes,CA,17,668 479 6898,anthony.washington@healthcare.org
+PRO00631,Jason Adams,Gastroenterology,Gastroenterologist,7803992079,Yes,CA,16,926 113 6623,jason.adams@healthcare.org
+PRO00632,Monique Perez,Gastroenterology,Gastroenterologist,2313780960,Yes,CA,4,433 009 4320,
+PRO00633,Tyler Cole,Gastroenterology,Gastroenterologist,1222615000,Yes,CA,2,978 553 0757,
+PRO00634,Diane Chan,Gastroenterology,Gastroenterologist,5400785138,Yes,CA,1,132 847 5630,diane.chan@healthcare.org
+PRO00635,Juan Garcia,Gastroenterology,Gastroenterologist,2892306653,Yes,CA,14,887 484 2115,
+PRO00636,William Martinez,Gastroenterology,Gastroenterologist,9635641527,No,MD,10,856 249 0445,william.martinez@healthcare.org
+PRO00637,Mr. James Lang II,Gastroenterology,Gastroenterologist,1592752282,Yes,CA,12,408 795 0155,mr..ii@healthcare.org
+PRO00638,Stacy Owen,Gastroenterology,Gastroenterologist,6764021399,Yes,CA,6,051 133 0728,stacy.owen@healthcare.org
+PRO00639,Nicole Mills,Gastroenterology,Gastroenterologist,9986358491,Yes,FM,20,706 073 7857,nicole.mills@healthcare.org
+PRO00640,Sarah Cortez,Nephrology,Nephrologist,3266484421,Yes,CA,18,119 055 1773,sarah.cortez@healthcare.org
+PRO00641,Dale Scott,Nephrology,Nephrologist,6559949243,Yes,CA,9,389 497 1420,
+PRO00642,Eric Harris,Nephrology,Nephrologist,8307342083,No,CA,7,040 045 3947,eric.harris@healthcare.org
+PRO00643,Misty Skinner,Nephrology,Nephrologist,3807132064,Yes,CA,1,,misty.skinner@healthcare.org
+PRO00644,Michael Reeves,Nephrology,Nephrologist,5962191598,Yes,CA,8,205 440 7930,michael.reeves@healthcare.org
+PRO00645,Laura Owens,Nephrology,Nephrologist,5459170164,No,CA,1,509 238 9564,laura.owens@healthcare.org
+PRO00646,Mary Porter,Nephrology,Nephrologist,3630998700,Yes,CA,4,841 021 7309,
+PRO00647,David Watkins,Nephrology,Nephrologist,5165514843,Yes,WV,10,250 111 6643,
+PRO00648,Steven Crawford,Nephrology,Nephrologist,1977171690,No,CA,1,,steven.crawford88@healthcare.org
+PRO00649,Melissa Bell,Nephrology,Nephrologist,9751785638,Yes,CA,16,220 030 5041,melissa.bell@healthcare.org
+PRO00650,Michael Bennett,Nephrology,Nephrologist,2530791903,No,CA,8,198 217 1426,michael.bennett@healthcare.org
+PRO00651,Jeffrey Guerrero,Nephrology,Nephrologist,8959634522,Yes,CA,19,261 052 2657,
+PRO00652,Julie Foster,Nephrology,Nephrologist,1639079124,Yes,CA,13,,julie.foster@healthcare.org
+PRO00653,Samantha Hogan,Nephrology,Nephrologist,3984648061,Yes,NH,4,,
+PRO00654,Amanda Sexton,Nephrology,Nephrologist,9623096108,Yes,DE,9,308 046 1368,amanda.sexton50@healthcare.org
+PRO00655,Elizabeth Fitzgerald,Nephrology,Nephrologist,8193066464,Yes,MN,18,799 289 7848,elizabeth.fitzgerald@healthcare.org
+PRO00656,Lauren Campos,Nephrology,Nephrologist,6524120049,Yes,CA,18,926 427 5748,
+PRO00657,Lori Hays,Nephrology,Nephrologist,6909404590,Yes,CA,18,774 956 7743,lori.hays@healthcare.org
+PRO00658,Michael Smith,Nephrology,Nephrologist,1071540400,Yes,CA,4,904 815 6554,michael.smith@healthcare.org
+PRO00659,Rhonda Ferrell,Nephrology,Nephrologist,8937457045,Yes,CA,7,205 635 7264,
+PRO00660,James Hill,Nephrology,Nephrologist,6781059676,Yes,CA,25,,james.hill@healthcare.org
+PRO00661,Stephanie Wolfe,Nephrology,Nephrologist,7161087860,Yes,CA,24,743 946 2749,stephanie.wolfe@healthcare.org
+PRO00662,Melissa Roberts,Nephrology,Nephrologist,4160760728,Yes,CA,1,853 957 0693,
+PRO00663,Leslie Roberts,Nephrology,Nephrologist,9456460288,No,CA,6,495 007 2453,leslie.roberts75@healthcare.org
+PRO00664,Willie Perez,Nephrology,Nephrologist,8386832221,Yes,WV,15,866 769 9803,willie.perez13@healthcare.org
+PRO00665,Oscar Benson,Nephrology,Nephrologist,7262226122,Yes,CA,14,666 967 3504,
+PRO00666,Kimberly Banks,Nephrology,Nephrologist,5950616497,Yes,CA,17,698 637 5160,kimberly.banks95@healthcare.org
+PRO00667,Brent Buckley,Nephrology,Nephrologist,4149533293,Yes,CA,18,,brent.buckley@healthcare.org
+PRO00668,Paul Henson,Nephrology,Nephrologist,1446495994,Yes,CA,15,073 502 1163,paul.henson@healthcare.org
+PRO00669,Lauren Miller,Nephrology,Nephrologist,8023848138,No,CA,20,726 011 8782,lauren.miller@healthcare.org
+PRO00670,Casey Romero,Nephrology,Nephrologist,7873451954,Yes,CA,8,572 284 0686,casey.romero@healthcare.org
+PRO00671,Jason Martin,Nephrology,Nephrologist,2772957463,Yes,CA,13,,jason.martin23@healthcare.org
+PRO00672,Curtis Carlson,Nephrology,Nephrologist,6172567576,Yes,CA,15,,
+PRO00673,Paul Howard,Nephrology,Nephrologist,4525120802,No,OH,3,527 325 9302,
+PRO00674,Stephanie Velasquez,Nephrology,Nephrologist,6858694712,Yes,CA,9,537 417 7909,stephanie.velasquez@healthcare.org
+PRO00675,Makayla Bowers,Nephrology,Nephrologist,2861822696,Yes,CA,7,241 254 0690,makayla.bowers80@healthcare.org
+PRO00676,Stephanie Lee,Nephrology,Nephrologist,8964816519,Yes,CA,15,586 339 6845,stephanie.lee62@healthcare.org
+PRO00677,Renee Holder,Nephrology,Nephrologist,5028924871,Yes,CA,18,882 623 0063,
+PRO00678,Amy Rodriguez,Nephrology,Nephrologist,4189721319,Yes,CA,13,432 562 1590,amy.rodriguez@healthcare.org
+PRO00679,Brandon Gallegos,Nephrology,Nephrologist,7515264127,Yes,CA,13,711 570 3801,brandon.gallegos@healthcare.org
+PRO00680,Renee Collins,Nephrology,Nephrologist,3000994162,Yes,CA,12,711 979 3602,renee.collins57@healthcare.org
+PRO00681,Steven Stevens,Nephrology,Nephrologist,7779467939,Yes,CA,19,739 680 7075,steven.stevens@healthcare.org
+PRO00682,Melissa Fowler,Nephrology,Nephrologist,6682080491,Yes,CA,5,614 450 8863,melissa.fowler@healthcare.org
+PRO00683,Amanda Lee,Nephrology,Nephrologist,7045353029,Yes,CA,14,,amanda.lee90@healthcare.org
+PRO00684,Zachary Brewer,Nephrology,Nephrologist,3077457243,Yes,CA,35,355 022 4375,zachary.brewer@healthcare.org
+PRO00685,Mr. Allen Jones,Nephrology,Nephrologist,6156055859,Yes,CA,17,671 476 3834,mr..jones@healthcare.org
+PRO00686,Lori Lopez,Nephrology,Nephrologist,9397638176,Yes,CA,19,453 425 6133,lori.lopez@healthcare.org
+PRO00687,Angel Ramirez,Nephrology,Nephrologist,8002427951,Yes,TN,5,861 231 0126,
+PRO00688,Stephanie Duncan,Nephrology,Nephrologist,9340978060,Yes,CA,13,702 952 6493,stephanie.duncan@healthcare.org
+PRO00689,Joanne Walton,Nephrology,Nephrologist,6668439884,Yes,CA,4,335 087 0706,joanne.walton@healthcare.org
+PRO00690,Michelle Chung,Nephrology,Nephrologist,6547552147,Yes,CA,15,030 525 2187,
+PRO00691,Kathleen Crawford,Nephrology,Nephrologist,2792937045,Yes,CA,38,343 911 3796,
+PRO00692,Ashley Mills,Nephrology,Nephrologist,5683393809,Yes,CA,6,982 845 0431,ashley.mills@healthcare.org
+PRO00693,Robert Meyer,Nephrology,Nephrologist,1290611967,Yes,CA,7,816 534 2237,robert.meyer@healthcare.org
+PRO00694,Sharon Ross,Nephrology,Nephrologist,4085764183,Yes,CA,7,,sharon.ross@healthcare.org
+PRO00695,Anthony Wright,Nephrology,Nephrologist,2970555394,Yes,CA,1,480 722 3339,anthony.wright@healthcare.org
+PRO00696,Deanna Harris,Nephrology,Nephrologist,4298482974,Yes,CA,10,444 040 6430,deanna.harris@healthcare.org
+PRO00697,Paul Huang,Nephrology,Nephrologist,1513834562,Yes,CA,14,961 556 6671,paul.huang@healthcare.org
+PRO00698,Brandon Osborne,Nephrology,Nephrologist,5847658589,Yes,CA,14,900 088 3253,brandon.osborne@healthcare.org
+PRO00699,Monica Robbins,Nephrology,Nephrologist,6705112593,Yes,CA,11,889 536 1060,monica.robbins@healthcare.org
+PRO00700,Timothy Weiss,Nephrology,Nephrologist,7877914348,Yes,CA,14,827 887 3093,timothy.weiss@healthcare.org
+PRO00701,Courtney Smith,Nephrology,Nephrologist,3083856922,Yes,CA,3,205 759 7313,courtney.smith@healthcare.org
+PRO00702,Anna Ellis,Nephrology,Nephrologist,5533697475,Yes,NY,8,616 374 2867,anna.ellis@healthcare.org
+PRO00703,Debbie Gray,Nephrology,Nephrologist,3408450861,Yes,CA,18,393 319 6188,debbie.gray@healthcare.org
+PRO00704,Mr. Martin Castro,Nephrology,Nephrologist,3784763822,Yes,CA,9,402 831 2750,mr..castro@healthcare.org
+PRO00705,William Burns,Nephrology,Nephrologist,1265502015,Yes,CA,6,493 607 6539,william.burns@healthcare.org
+PRO00706,Carrie Taylor,Nephrology,Nephrologist,6562915229,Yes,CA,18,887 987 0303,carrie.taylor26@healthcare.org
+PRO00707,Christopher Morris,Nephrology,Nephrologist,1275459496,Yes,CA,15,461 904 7844,christopher.morris@healthcare.org
+PRO00708,Angie King,Nephrology,Nephrologist,7179946644,No,CA,12,477 851 2035,angie.king@healthcare.org
+PRO00709,Julie Hall,Nephrology,Nephrologist,4549127358,Yes,CA,18,551 467 2247,julie.hall@healthcare.org
+PRO00710,Jeffrey Griffin,Nephrology,Nephrologist,4754409083,Yes,CA,3,828 558 7663,
+PRO00711,Manuel Curry,Oncology,Oncologist,3941184748,Yes,CA,8,896 136 2953,
+PRO00712,Courtney Richardson,Oncology,Oncologist,1259516843,No,CA,19,882 670 9342,courtney.richardson@healthcare.org
+PRO00713,Nicholas Turner,Oncology,Oncologist,5202957557,Yes,CA,9,402 259 2587,nicholas.turner@healthcare.org
+PRO00714,Christine Garcia,Oncology,Oncologist,2296304803,Yes,CA,16,,christine.garcia@healthcare.org
+PRO00715,Willie Anderson,Oncology,Oncologist,7059839614,Yes,PA,22,265 823 1984,
+PRO00716,Dr. Alicia Lyons MD,Oncology,Oncologist,6457877711,Yes,AR,18,,
+PRO00717,Christopher Hall,Oncology,Oncologist,6599399763,Yes,CA,4,909 582 7515,christopher.hall@healthcare.org
+PRO00718,Christopher Sims,Oncology,Oncologist,4544890764,Yes,CA,6,900 090 0763,christopher.sims@healthcare.org
+PRO00719,William Cannon,Oncology,Oncologist,4217175094,Yes,CA,13,854 080 9284,william.cannon@healthcare.org
+PRO00720,Dennis Lawrence,Oncology,Oncologist,4801507400,Yes,CA,16,,
+PRO00721,Shawn Miller,Oncology,Oncologist,3067085504,Yes,CA,18,685 758 2415,shawn.miller@healthcare.org
+PRO00722,Justin Moore,Oncology,Oncologist,9609480315,No,CA,18,079 601 3333,justin.moore@healthcare.org
+PRO00723,David Walker,Oncology,Oncologist,7263866441,Yes,CA,36,190 017 5309,david.walker@healthcare.org
+PRO00724,James Fernandez,Oncology,Oncologist,1400114105,Yes,CA,1,922 712 1959,james.fernandez@healthcare.org
+PRO00725,Dennis Chen,Oncology,Oncologist,8559853726,Yes,CA,14,913 184 0679,
+PRO00726,James Curry,Oncology,Oncologist,1748669184,Yes,DC,10,559 245 3500,james.curry@healthcare.org
+PRO00727,Evan Smith,Oncology,Oncologist,7320025619,No,CA,5,206 693 9900,
+PRO00728,Erin Gonzalez,Oncology,Oncologist,2431979416,Yes,CA,15,,erin.gonzalez@healthcare.org
+PRO00729,Joshua Davis,Oncology,Oncologist,4807359938,Yes,CA,32,319 213 6142,joshua.davis@healthcare.org
+PRO00730,Christopher Allen,Oncology,Oncologist,8928811328,Yes,CA,8,617 233 6089,christopher.allen@healthcare.org
+PRO00731,Autumn King,Oncology,Oncologist,4765198398,Yes,CA,12,,autumn.king@healthcare.org
+PRO00732,James Aguilar,Oncology,Oncologist,5943645154,Yes,CA,19,127 636 6298,james.aguilar@healthcare.org
+PRO00733,Michelle Thompson,Oncology,Oncologist,7141008522,No,CA,16,458 688 8746,michelle.thompson@healthcare.org
+PRO00734,Nicole Taylor,Oncology,Oncologist,3537499190,Yes,CA,9,042 889 5649,nicole.taylor@healthcare.org
+PRO00735,Deanna Rose,Oncology,Oncologist,5924885677,Yes,CA,7,697 324 0122,
+PRO00736,Ashley Davis,Oncology,Oncologist,3678545176,Yes,CA,16,827 566 1899,
+PRO00737,Cheyenne Cross,Oncology,Oncologist,6821873600,Yes,ID,11,676 166 6325,
+PRO00738,Edward Jones,Oncology,Oncologist,2776257838,No,CA,11,946 255 0999,edward.jones@healthcare.org
+PRO00739,Sheryl Pruitt,Oncology,Oncologist,1593627418,Yes,CA,12,193 789 7780,sheryl.pruitt17@healthcare.org
+PRO00740,Phillip Russell,Oncology,Oncologist,2232066385,Yes,CA,11,339 346 7668,phillip.russell@healthcare.org
+PRO00741,Megan Gonzalez,Oncology,Oncologist,3240382796,Yes,CA,19,,megan.gonzalez@healthcare.org
+PRO00742,Sarah Burke,Oncology,Oncologist,7070135142,Yes,CA,40,,sarah.burke@healthcare.org
+PRO00743,Gabriel Estrada,Oncology,Oncologist,8963416971,Yes,CA,4,634 403 4331,gabriel.estrada@healthcare.org
+PRO00744,James Mitchell,Oncology,Oncologist,9444422293,No,CA,16,449 418 3047,james.mitchell@healthcare.org
+PRO00745,Daniel Quinn,Oncology,Oncologist,1557558493,Yes,CA,7,439 449 1007,daniel.quinn19@healthcare.org
+PRO00746,Jeff Rhodes,Oncology,Oncologist,3427232028,Yes,CA,6,600 015 5432,jeff.rhodes@healthcare.org
+PRO00747,Mr. Eric Park,Oncology,Oncologist,6114792207,Yes,CA,24,505 550 6696,mr..park@healthcare.org
+PRO00748,Hannah Peterson,Oncology,Oncologist,2275096998,Yes,CA,4,708 556 3951,hannah.peterson@healthcare.org
+PRO00749,Matthew Gordon,Oncology,Oncologist,6309303145,Yes,CA,8,376 142 6188,matthew.gordon97@healthcare.org
+PRO00750,Christina Johnson,Oncology,Oncologist,8124273582,Yes,CA,10,246 884 8936,christina.johnson12@healthcare.org
+PRO00751,Kylie Levine,Oncology,Oncologist,7122090788,Yes,CA,18,222 937 9459,kylie.levine@healthcare.org
+PRO00752,Heather Hayden,Oncology,Oncologist,2816855261,Yes,AL,9,,
+PRO00753,Matthew Edwards,Oncology,Oncologist,1339115867,Yes,CA,1,611 550 5041,matthew.edwards@healthcare.org
+PRO00754,Julia Bell,Oncology,Oncologist,7462326824,Yes,CA,2,713 120 5695,julia.bell@healthcare.org
+PRO00755,Brian Young,Oncology,Oncologist,3886997850,Yes,CA,18,465 416 9975,brian.young@healthcare.org
+PRO00756,Natalie Robinson,Oncology,Oncologist,1313676547,Yes,CA,11,883 362 3593,
+PRO00757,Thomas Campbell,Oncology,Oncologist,5232564063,Yes,CA,30,235 609 3460,
+PRO00758,Ashley Garcia,Oncology,Oncologist,1941950770,Yes,CA,4,012 396 5922,ashley.garcia@healthcare.org
+PRO00759,Jermaine Gray,Oncology,Oncologist,1495450964,Yes,CA,20,,jermaine.gray@healthcare.org
+PRO00760,Marie Larsen,Oncology,Oncologist,7285763073,Yes,WI,27,121 374 9819,marie.larsen@healthcare.org
+PRO00761,Nicole Fowler,Oncology,Oncologist,8964747466,Yes,CA,1,388 289 7000,nicole.fowler19@healthcare.org
+PRO00762,Angela Garcia,Oncology,Oncologist,5895585826,Yes,CA,6,248 945 2850,angela.garcia@healthcare.org
+PRO00763,William Obrien,Oncology,Oncologist,8412993696,No,CA,4,467 763 5286,william.obrien38@healthcare.org
+PRO00764,Donna Kennedy,Oncology,Oncologist,7181805234,Yes,CA,6,807 160 4659,donna.kennedy@healthcare.org
+PRO00765,Michael Spencer,Oncology,Oncologist,1075715542,Yes,CA,8,044 167 0054,michael.spencer@healthcare.org
+PRO00766,Scott Wells,Oncology,Oncologist,3448312060,No,CA,20,017 447 4392,
+PRO00767,Joshua Ray,Oncology,Oncologist,1770600400,Yes,CA,11,037 052 8342,joshua.ray78@healthcare.org
+PRO00768,Brittany Davis,Oncology,Oncologist,4588436620,Yes,CA,12,,brittany.davis@healthcare.org
+PRO00769,Christina Moses,Oncology,Oncologist,9192620915,No,CA,6,146 389 4122,christina.moses13@healthcare.org
+PRO00770,Laura Frederick PhD,Oncology,Oncologist,3400853383,Yes,CA,12,567 298 0685,laura.phd11@healthcare.org
+PRO00771,David Villanueva,Oncology,Oncologist,2637362605,Yes,CA,4,886 706 8921,david.villanueva@healthcare.org
+PRO00772,Theodore Sims,Oncology,Oncologist,6931808042,No,CA,7,323 648 8921,theodore.sims@healthcare.org
+PRO00773,Nicholas Hensley,Oncology,Oncologist,8644750837,Yes,CA,19,542 086 6468,nicholas.hensley@healthcare.org
+PRO00774,Morgan Brown,Oncology,Oncologist,7370791879,Yes,CA,3,623 347 9866,morgan.brown@healthcare.org
+PRO00775,Deborah Stewart,Oncology,Oncologist,8784756346,Yes,CA,4,714 654 7921,deborah.stewart@healthcare.org
+PRO00776,Duane Randall,Oncology,Oncologist,8484559094,Yes,CA,14,003 045 4400,duane.randall@healthcare.org
+PRO00777,Julie Willis,Oncology,Oncologist,4361193248,Yes,CA,40,214 540 2641,julie.willis@healthcare.org
+PRO00778,Robert Garcia,Oncology,Oncologist,6148639964,Yes,CA,18,250 978 2114,
+PRO00779,Nathan King,Oncology,Oncologist,3881447334,Yes,CA,14,607 820 9560,nathan.king@healthcare.org
+PRO00780,Vernon Aguilar,Oncology,Oncologist,4882504361,Yes,CA,19,,vernon.aguilar@healthcare.org
+PRO00781,Kelly Contreras,Oncology,Oncologist,2740146398,No,CA,8,069 312 6285,kelly.contreras17@healthcare.org
+PRO00782,Casey Kelly,Pediatrics,Pediatrician,9548980498,No,CA,14,840 183 2462,casey.kelly47@healthcare.org
+PRO00783,Karen Fernandez,Pediatrics,Pediatrician,9360415985,Yes,CA,30,100 190 3552,karen.fernandez@healthcare.org
+PRO00784,Jill Bridges,Pediatrics,Pediatrician,5854336226,Yes,CA,4,949 767 4519,jill.bridges@healthcare.org
+PRO00785,Lori Lopez,Pediatrics,Pediatrician,3106626762,Yes,CA,5,924 762 4333,lori.lopez@healthcare.org
+PRO00786,Jeffrey Herman,Pediatrics,Pediatrician,5048700094,No,CA,7,131 061 9651,jeffrey.herman@healthcare.org
+PRO00787,James Smith,Pediatrics,Pediatrician,8965346589,Yes,CA,19,956 594 6187,james.smith@healthcare.org
+PRO00788,Chad Mason,Pediatrics,Pediatrician,6322419490,Yes,CA,1,283 519 9513,chad.mason@healthcare.org
+PRO00789,Selena Watts,Pediatrics,Pediatrician,6697666734,Yes,NJ,14,890 036 4998,selena.watts@healthcare.org
+PRO00790,Darryl Salinas,Pediatrics,Pediatrician,2594350327,Yes,CA,5,320 131 2464,darryl.salinas36@healthcare.org
+PRO00791,Holly Hansen,Pediatrics,Pediatrician,8969650418,No,CA,1,991 531 9642,holly.hansen42@healthcare.org
+PRO00792,Logan Houston,Pediatrics,Pediatrician,2471187553,Yes,CA,15,761 838 1780,logan.houston@healthcare.org
+PRO00793,Larry Smith,Pediatrics,Pediatrician,9918426419,Yes,CA,6,080 363 0046,larry.smith@healthcare.org
+PRO00794,Jenny Briggs,Pediatrics,Pediatrician,4702125388,Yes,CA,16,722 486 4464,jenny.briggs@healthcare.org
+PRO00795,Marie Calhoun,Pediatrics,Pediatrician,8968449674,Yes,CA,6,107 254 9121,marie.calhoun@healthcare.org
+PRO00796,Samantha Short,Pediatrics,Pediatrician,9517262181,Yes,CA,20,373 740 1871,samantha.short@healthcare.org
+PRO00797,Eric Austin,Pediatrics,Pediatrician,5724901485,Yes,CA,2,,
+PRO00798,Daniel Charles,Pediatrics,Pediatrician,4926804562,Yes,CA,9,373 302 8737,daniel.charles@healthcare.org
+PRO00799,Nicholas Bell,Pediatrics,Pediatrician,1347861196,Yes,CA,2,253 958 5450,nicholas.bell@healthcare.org
+PRO00800,William Little,Pediatrics,Pediatrician,4427977545,Yes,CA,12,,william.little@healthcare.org
+PRO00801,Joseph Sharp,Pediatrics,Pediatrician,9880738846,Yes,CA,31,187 630 6098,joseph.sharp@healthcare.org
+PRO00802,Sydney Morris,Pediatrics,Pediatrician,2294022511,Yes,CA,4,907 688 9947,sydney.morris@healthcare.org
+PRO00803,Cassandra Peterson,Pediatrics,Pediatrician,1645705498,No,CA,34,642 855 0041,cassandra.peterson@healthcare.org
+PRO00804,Barbara Rojas,Pediatrics,Pediatrician,7983300580,Yes,CA,9,799 023 5251,barbara.rojas@healthcare.org
+PRO00805,Jessica Raymond,Pediatrics,Pediatrician,8706464311,Yes,CA,16,137 961 1944,jessica.raymond@healthcare.org
+PRO00806,Michelle Johnson,Pediatrics,Pediatrician,8404072393,Yes,CA,9,,michelle.johnson@healthcare.org
+PRO00807,Christine Anderson,Pediatrics,Pediatrician,9245777217,Yes,CA,13,030 437 2092,christine.anderson@healthcare.org
+PRO00808,James Castillo,Pediatrics,Pediatrician,7132948298,Yes,CA,5,215 875 9123,james.castillo@healthcare.org
+PRO00809,Jacqueline Perez,Pediatrics,Pediatrician,2366066778,Yes,CA,6,,jacqueline.perez19@healthcare.org
+PRO00810,Jeff Powers,Pediatrics,Pediatrician,4383380319,Yes,CA,9,673 406 1477,jeff.powers64@healthcare.org
+PRO00811,Lisa Johns,Pediatrics,Pediatrician,9379571982,No,CA,21,596 527 8365,lisa.johns@healthcare.org
+PRO00812,Michelle Mays,Pediatrics,Pediatrician,8935966504,Yes,CA,12,545 491 4029,michelle.mays13@healthcare.org
+PRO00813,Erin Edwards,Pediatrics,Pediatrician,8093911981,No,WV,14,885 815 3843,erin.edwards92@healthcare.org
+PRO00814,Emily Thomas,Pediatrics,Pediatrician,2015453504,Yes,CA,1,380 668 4916,emily.thomas@healthcare.org
+PRO00815,Edwin Dean,Pediatrics,Pediatrician,4299410189,No,CA,2,932 761 0503,edwin.dean50@healthcare.org
+PRO00816,Dale Johnson,Pediatrics,Pediatrician,2205641053,Yes,CA,10,804 649 3132,dale.johnson@healthcare.org
+PRO00817,Nancy Chang,Pediatrics,Pediatrician,3098107897,Yes,CA,12,565 247 1428,nancy.chang@healthcare.org
+PRO00818,Andrew Murphy,Pediatrics,Pediatrician,5030537863,No,CA,14,879 574 2648,
+PRO00819,Eric Reilly,Pediatrics,Pediatrician,8059263339,Yes,CA,13,074 313 1323,eric.reilly45@healthcare.org
+PRO00820,Cassandra Boyle,Pediatrics,Pediatrician,9065324468,Yes,CA,8,280 814 7548,cassandra.boyle18@healthcare.org
+PRO00821,Jill Holland,Pediatrics,Pediatrician,1045184887,Yes,CA,12,311 614 3753,jill.holland@healthcare.org
+PRO00822,Albert Murphy,Pediatrics,Pediatrician,3426336199,Yes,CA,4,756 614 1817,albert.murphy10@healthcare.org
+PRO00823,William Pena,Pediatrics,Pediatrician,9277436593,Yes,CA,11,171 699 5342,william.pena@healthcare.org
+PRO00824,Lydia Ford,Pediatrics,Pediatrician,1341342330,Yes,CA,18,355 513 3901,lydia.ford@healthcare.org
+PRO00825,Jeffrey Cherry,Pediatrics,Pediatrician,9777938487,Yes,CA,3,270 686 5714,jeffrey.cherry@healthcare.org
+PRO00826,Joshua Weaver,Pediatrics,Pediatrician,7129972170,Yes,CA,13,725 921 6076,joshua.weaver@healthcare.org
+PRO00827,Steven Nicholson,Pediatrics,Pediatrician,7738128958,Yes,CA,4,310 839 4668,steven.nicholson@healthcare.org
+PRO00828,Robin Benson,Pediatrics,Pediatrician,2233442460,Yes,CA,9,266 962 5516,robin.benson@healthcare.org
+PRO00829,Caroline Bauer,Pediatrics,Pediatrician,4250874625,Yes,CA,19,895 494 3984,caroline.bauer@healthcare.org
+PRO00830,Brian Butler,Pediatrics,Pediatrician,9633193070,No,CA,11,539 037 8123,brian.butler@healthcare.org
+PRO00831,Michael Sanchez,Pediatrics,Pediatrician,5018980514,Yes,CA,2,672 315 1300,michael.sanchez31@healthcare.org
+PRO00832,Kurt Robinson,Pediatrics,Pediatrician,7518743083,Yes,CA,16,705 730 1206,kurt.robinson@healthcare.org
+PRO00833,David Erickson,Pediatrics,Pediatrician,6858073880,Yes,CA,8,665 536 7944,david.erickson@healthcare.org
+PRO00834,William Wright,Pediatrics,Pediatrician,2647993299,Yes,CA,6,591 975 6390,william.wright@healthcare.org
+PRO00835,Bradley Arias,Pediatrics,Pediatrician,1182024273,Yes,CA,7,964 872 1487,bradley.arias@healthcare.org
+PRO00836,Michael Woodward,Pediatrics,Pediatrician,8189361317,Yes,CA,20,307 049 7578,michael.woodward@healthcare.org
+PRO00837,Joshua Mcgrath,Pediatrics,Pediatrician,1771615877,No,CA,2,954 100 4519,joshua.mcgrath@healthcare.org
+PRO00838,Adam Lopez,Pediatrics,Pediatrician,3345865166,Yes,CA,16,378 704 2729,adam.lopez@healthcare.org
+PRO00839,Mary Chambers,Pediatrics,Pediatrician,4853880533,Yes,CA,6,310 877 6221,
+PRO00840,Ms. Holly Kane,Pediatrics,Pediatrician,1306426322,Yes,CA,33,381 209 9431,
+PRO00841,Trevor Mcintosh,Pediatrics,Pediatrician,6582591768,Yes,CA,9,040 544 0036,trevor.mcintosh@healthcare.org
+PRO00842,Monique Meyers,Pediatrics,Pediatrician,9378464773,Yes,CA,6,633 830 2969,
+PRO00843,Catherine Andersen,Pediatrics,Pediatrician,5529742345,No,CA,27,598 303 1527,catherine.andersen@healthcare.org
+PRO00844,Michelle Morrow,Pediatrics,Pediatrician,9833688140,Yes,CA,6,048 689 4133,michelle.morrow50@healthcare.org
+PRO00845,Xavier Hopkins,Pediatrics,Pediatrician,6057468699,Yes,CA,6,580 594 0079,xavier.hopkins@healthcare.org
+PRO00846,Justin Perez,Pediatrics,Pediatrician,7260722056,Yes,CA,31,273 925 7030,
+PRO00847,John Scott,Pediatrics,Pediatrician,1655679463,Yes,IA,19,290 948 1531,john.scott@healthcare.org
+PRO00848,Emily Craig,Pediatrics,Pediatrician,7041373372,Yes,ID,16,841 181 8701,emily.craig@healthcare.org
+PRO00849,Krystal Rivas,Pediatrics,Pediatrician,9794566892,Yes,CA,8,087 362 5004,krystal.rivas@healthcare.org
+PRO00850,Matthew Melendez,Pediatrics,Pediatrician,1358618093,Yes,CA,1,724 315 2326,matthew.melendez@healthcare.org
+PRO00851,Cindy Gordon,Pediatrics,Pediatrician,4372223879,Yes,CA,19,753 468 1121,cindy.gordon@healthcare.org
+PRO00852,Justin Roy,Pediatrics,Pediatrician,3643213253,Yes,CA,13,265 329 6959,justin.roy@healthcare.org
+PRO00853,Lisa Salazar,Obstetrics & Gynecology,General Practitioner,5212627600,No,NM,20,186 746 1580,lisa.salazar@healthcare.org
+PRO00854,Charles Simpson,Obstetrics & Gynecology,General Practitioner,8897559657,Yes,CA,7,635 927 6393,charles.simpson41@healthcare.org
+PRO00855,Kristin Garcia,Obstetrics & Gynecology,General Practitioner,2106928269,Yes,CA,15,110 191 8186,kristin.garcia@healthcare.org
+PRO00856,Mrs. Terri Vargas,Obstetrics & Gynecology,General Practitioner,1525804743,Yes,CA,18,847 530 3633,mrs..vargas@healthcare.org
+PRO00857,Zachary Clark,Obstetrics & Gynecology,General Practitioner,8232061133,Yes,CA,6,541 718 4953,zachary.clark@healthcare.org
+PRO00858,Anthony Woodard,Obstetrics & Gynecology,General Practitioner,4957770158,Yes,CA,3,090 042 2040,
+PRO00859,Ronald Garcia,Obstetrics & Gynecology,General Practitioner,7978233005,Yes,CA,10,101 606 1438,
+PRO00860,Crystal Martinez MD,Obstetrics & Gynecology,General Practitioner,6282755886,Yes,CA,14,512 366 5928,crystal.md@healthcare.org
+PRO00861,Gregory Roberts,Obstetrics & Gynecology,General Practitioner,7157728555,No,CA,5,392 295 1920,gregory.roberts@healthcare.org
+PRO00862,Adam Smith,Obstetrics & Gynecology,General Practitioner,8875092707,No,CA,10,112 120 3266,adam.smith37@healthcare.org
+PRO00863,Jay Stokes,Obstetrics & Gynecology,General Practitioner,2467745356,Yes,CA,16,037 373 9284,jay.stokes@healthcare.org
+PRO00864,Jared Miller,Obstetrics & Gynecology,General Practitioner,7845417578,Yes,DE,22,863 507 4510,jared.miller@healthcare.org
+PRO00865,Jeffrey Kramer,Obstetrics & Gynecology,General Practitioner,8257339646,Yes,CA,18,175 392 3133,jeffrey.kramer94@healthcare.org
+PRO00866,Jordan Neal,Obstetrics & Gynecology,General Practitioner,1448969545,Yes,CA,20,603 461 3018,jordan.neal97@healthcare.org
+PRO00867,Blake Holland,Obstetrics & Gynecology,General Practitioner,2075410955,Yes,CA,18,952 366 8614,blake.holland35@healthcare.org
+PRO00868,Jessica Kline,Obstetrics & Gynecology,General Practitioner,5673203171,Yes,CA,17,961 583 9938,jessica.kline37@healthcare.org
+PRO00869,Edward Ho,Obstetrics & Gynecology,General Practitioner,9300407948,Yes,CA,17,767 906 5308,edward.ho@healthcare.org
+PRO00870,Linda Fields,Obstetrics & Gynecology,General Practitioner,4794027091,Yes,CA,13,164 123 6743,linda.fields@healthcare.org
+PRO00871,Chelsey Lee,Obstetrics & Gynecology,General Practitioner,8507237675,Yes,CA,7,015 040 3973,chelsey.lee@healthcare.org
+PRO00872,Michael Roy,Obstetrics & Gynecology,General Practitioner,3647762337,No,CA,11,799 012 7013,michael.roy87@healthcare.org
+PRO00873,Stacie Roberts,Obstetrics & Gynecology,General Practitioner,2961163596,Yes,CA,18,274 042 8602,
+PRO00874,Andrew Wiley,Obstetrics & Gynecology,General Practitioner,5272295305,Yes,CA,10,007 146 7363,andrew.wiley@healthcare.org
+PRO00875,Sarah Henry,Obstetrics & Gynecology,General Practitioner,9734982375,Yes,CA,13,758 685 2237,sarah.henry@healthcare.org
+PRO00876,Kayla Welch,Obstetrics & Gynecology,General Practitioner,5593055780,Yes,CA,15,872 857 4587,kayla.welch91@healthcare.org
+PRO00877,Matthew Cannon,Obstetrics & Gynecology,General Practitioner,3241178750,Yes,CA,15,203 816 8412,
+PRO00878,Michael Olsen,Obstetrics & Gynecology,General Practitioner,5506128412,Yes,CA,37,175 601 8908,michael.olsen@healthcare.org
+PRO00879,Tyler Steele,Obstetrics & Gynecology,General Practitioner,4138939394,Yes,CA,16,837 964 2930,tyler.steele96@healthcare.org
+PRO00880,William Moss,Obstetrics & Gynecology,General Practitioner,8267517334,No,CA,1,891 805 9029,
+PRO00881,Jay Sanchez,Obstetrics & Gynecology,General Practitioner,7744145344,No,CA,7,623 461 5794,jay.sanchez@healthcare.org
+PRO00882,Gabriel Oliver,Obstetrics & Gynecology,General Practitioner,7751733849,Yes,CA,8,508 435 9040,gabriel.oliver@healthcare.org
+PRO00883,Lisa Brooks,Obstetrics & Gynecology,General Practitioner,7116871421,No,CA,1,280 381 7715,lisa.brooks65@healthcare.org
+PRO00884,Jay Vasquez,Obstetrics & Gynecology,General Practitioner,1100650583,Yes,TN,1,987 611 1930,jay.vasquez@healthcare.org
+PRO00885,Mary Palmer,Obstetrics & Gynecology,General Practitioner,4365068699,Yes,CA,13,766 272 5267,mary.palmer@healthcare.org
+PRO00886,Richard Graves,Obstetrics & Gynecology,General Practitioner,9230309213,Yes,CA,10,560 004 8730,richard.graves76@healthcare.org
+PRO00887,Robert Shaffer,Obstetrics & Gynecology,General Practitioner,4182335869,No,CA,8,422 467 1588,robert.shaffer@healthcare.org
+PRO00888,Connor Smith,Obstetrics & Gynecology,General Practitioner,9224742802,Yes,CA,10,143 625 9416,connor.smith@healthcare.org
+PRO00889,Stephanie Gross,Obstetrics & Gynecology,General Practitioner,6219127165,Yes,CA,6,034 005 3754,stephanie.gross70@healthcare.org
+PRO00890,Andrew Ramirez MD,Obstetrics & Gynecology,General Practitioner,7281628018,Yes,CA,37,017 441 8299,andrew.md@healthcare.org
+PRO00891,Walter Torres PhD,Obstetrics & Gynecology,General Practitioner,9182920909,No,CA,10,,walter.phd@healthcare.org
+PRO00892,Travis Tapia,Obstetrics & Gynecology,General Practitioner,6972296846,Yes,AL,16,,
+PRO00893,Sarah Owens,Obstetrics & Gynecology,General Practitioner,8827276493,Yes,CA,12,368 378 6449,sarah.owens@healthcare.org
+PRO00894,Lauren Rogers,Obstetrics & Gynecology,General Practitioner,8094099631,Yes,CA,1,586 490 8443,lauren.rogers12@healthcare.org
+PRO00895,Jimmy Daugherty,Obstetrics & Gynecology,General Practitioner,8534518698,Yes,CA,2,951 328 9369,jimmy.daugherty@healthcare.org
+PRO00896,Lauren Boyd,Obstetrics & Gynecology,General Practitioner,6126250814,Yes,CA,8,277 343 6316,lauren.boyd@healthcare.org
+PRO00897,Christopher Wiggins,Obstetrics & Gynecology,General Practitioner,3980905260,Yes,CA,14,904 402 6933,christopher.wiggins@healthcare.org
+PRO00898,Raymond Riley,Obstetrics & Gynecology,General Practitioner,4478462306,No,CA,7,826 169 4839,raymond.riley@healthcare.org
+PRO00899,Mark Lucero,Obstetrics & Gynecology,General Practitioner,1562352383,Yes,CA,16,335 935 4041,mark.lucero@healthcare.org
+PRO00900,Nicholas Rodgers,Obstetrics & Gynecology,General Practitioner,2876073691,No,CA,1,737 084 6298,nicholas.rodgers20@healthcare.org
+PRO00901,Tyler Williams,Obstetrics & Gynecology,General Practitioner,1631791378,No,OK,12,,
+PRO00902,George Walker,Obstetrics & Gynecology,General Practitioner,7347177820,Yes,CA,12,655 239 8167,george.walker@healthcare.org
+PRO00903,Mark Mcbride,Obstetrics & Gynecology,General Practitioner,5371034178,Yes,CA,8,820 952 9071,mark.mcbride@healthcare.org
+PRO00904,Sandra Chapman,Obstetrics & Gynecology,General Practitioner,3136220562,Yes,CA,14,565 948 3669,
+PRO00905,Jeremy Pierce,Obstetrics & Gynecology,General Practitioner,3668075801,No,CA,2,295 400 2241,jeremy.pierce76@healthcare.org
+PRO00906,Emily Moore,Obstetrics & Gynecology,General Practitioner,8287362041,Yes,CA,8,117 860 3645,
+PRO00907,Sean Gonzalez,Obstetrics & Gynecology,General Practitioner,5047850673,Yes,CA,23,477 357 6170,sean.gonzalez@healthcare.org
+PRO00908,David Patel,Obstetrics & Gynecology,General Practitioner,2935171775,Yes,CA,31,426 680 6855,david.patel49@healthcare.org
+PRO00909,Cameron Crawford,Obstetrics & Gynecology,General Practitioner,7587100811,Yes,CA,20,091 423 3324,cameron.crawford@healthcare.org
+PRO00910,Daniel Trujillo,Obstetrics & Gynecology,General Practitioner,5182481580,No,CA,14,914 563 9925,daniel.trujillo@healthcare.org
+PRO00911,Mark Boone,Obstetrics & Gynecology,General Practitioner,5147468996,Yes,CA,15,961 205 3072,mark.boone@healthcare.org
+PRO00912,Gregory Morales,Obstetrics & Gynecology,General Practitioner,6493259521,No,DC,5,210 247 8649,gregory.morales84@healthcare.org
+PRO00913,Maria Payne,Obstetrics & Gynecology,General Practitioner,2919765570,Yes,CA,15,047 951 0889,maria.payne@healthcare.org
+PRO00914,John Lloyd,Obstetrics & Gynecology,General Practitioner,9114189043,Yes,CA,19,404 567 6359,john.lloyd16@healthcare.org
+PRO00915,Susan Lopez,Obstetrics & Gynecology,General Practitioner,7670171719,Yes,CA,3,529 996 4310,
+PRO00916,Sophia Deleon,Obstetrics & Gynecology,General Practitioner,6500028135,Yes,CA,7,,sophia.deleon48@healthcare.org
+PRO00917,Jordan Dawson,Obstetrics & Gynecology,General Practitioner,4171989324,Yes,CA,6,273 274 2252,jordan.dawson74@healthcare.org
+PRO00918,Sandra Shaw,Obstetrics & Gynecology,General Practitioner,5847817693,Yes,CA,7,674 650 9047,sandra.shaw20@healthcare.org
+PRO00919,Megan Price,Obstetrics & Gynecology,General Practitioner,8344151341,Yes,CA,18,711 383 5416,
+PRO00920,Sarah Adams,Obstetrics & Gynecology,General Practitioner,2031265716,Yes,CA,9,783 791 1346,sarah.adams64@healthcare.org
+PRO00921,Lee Peterson,Obstetrics & Gynecology,General Practitioner,7202423279,Yes,CA,14,038 456 3981,lee.peterson@healthcare.org
+PRO00922,Gregory Davis,Obstetrics & Gynecology,General Practitioner,5235963595,Yes,CA,2,598 028 9948,
+PRO00923,Eric Gray,Obstetrics & Gynecology,General Practitioner,7572263002,Yes,CA,5,,eric.gray@healthcare.org
+PRO00924,Michael Cortez,Anesthesiology,General Practitioner,5388310541,Yes,CA,28,176 079 5688,
+PRO00925,Kelly Barber,Anesthesiology,General Practitioner,4160506493,Yes,CA,20,,
+PRO00926,Amy Cook,Anesthesiology,General Practitioner,4167498298,Yes,CA,14,,
+PRO00927,Kyle Alvarado,Anesthesiology,General Practitioner,5283353924,Yes,CA,4,295 270 8055,kyle.alvarado@healthcare.org
+PRO00928,Walter Hunter,Anesthesiology,General Practitioner,6380793611,Yes,CA,12,763 245 6528,walter.hunter@healthcare.org
+PRO00929,Rebecca Hutchinson,Anesthesiology,General Practitioner,1403397695,Yes,CA,8,,
+PRO00930,April Ruiz DDS,Anesthesiology,General Practitioner,6923789509,No,CA,11,870 097 3379,april.dds@healthcare.org
+PRO00931,Brandon Ferguson,Anesthesiology,General Practitioner,7601861203,No,CA,6,371 499 2225,brandon.ferguson@healthcare.org
+PRO00932,Cassandra Walsh,Anesthesiology,General Practitioner,9016753922,Yes,CA,8,101 912 7406,
+PRO00933,Dennis Fry,Anesthesiology,General Practitioner,8567086742,Yes,CA,18,536 325 5455,dennis.fry@healthcare.org
+PRO00934,Anne Le,Anesthesiology,General Practitioner,7762855642,Yes,CA,1,382 886 3935,anne.le@healthcare.org
+PRO00935,Tara Ballard,Anesthesiology,General Practitioner,8347369289,Yes,CA,13,503 320 1976,tara.ballard@healthcare.org
+PRO00936,Gabriel Austin,Anesthesiology,General Practitioner,2859096478,Yes,CA,15,197 202 0604,gabriel.austin@healthcare.org
+PRO00937,David Rodriguez,Anesthesiology,General Practitioner,3500364720,Yes,CA,4,921 521 6713,david.rodriguez@healthcare.org
+PRO00938,Anne Johnson,Anesthesiology,General Practitioner,7250520996,Yes,CA,16,196 605 5050,anne.johnson@healthcare.org
+PRO00939,Melissa Ward,Anesthesiology,General Practitioner,2062126317,Yes,CA,20,355 121 9000,melissa.ward@healthcare.org
+PRO00940,Rachel Gray,Anesthesiology,General Practitioner,6265610617,Yes,CA,11,249 137 4820,rachel.gray55@healthcare.org
+PRO00941,Kenneth Velez,Anesthesiology,General Practitioner,7355157721,Yes,CA,3,629 487 5251,kenneth.velez94@healthcare.org
+PRO00942,Emily Decker,Anesthesiology,General Practitioner,5547642640,Yes,CA,1,686 304 7457,emily.decker@healthcare.org
+PRO00943,Ann Kennedy,Anesthesiology,General Practitioner,2273946213,Yes,CA,11,364 112 8937,ann.kennedy77@healthcare.org
+PRO00944,Scott Moore,Anesthesiology,General Practitioner,3056856646,Yes,CA,18,670 362 0427,
+PRO00945,Anthony Stewart,Anesthesiology,General Practitioner,1100206505,Yes,CA,12,069 352 7819,anthony.stewart@healthcare.org
+PRO00946,Terry Molina,Anesthesiology,General Practitioner,5332145124,Yes,CA,10,056 553 9974,terry.molina@healthcare.org
+PRO00947,Megan Cook,Anesthesiology,General Practitioner,2761034443,Yes,CA,10,433 524 4430,megan.cook@healthcare.org
+PRO00948,Devon Shields,Anesthesiology,General Practitioner,9354675324,No,CA,10,635 830 8500,devon.shields@healthcare.org
+PRO00949,Christopher James,Anesthesiology,General Practitioner,2071971833,Yes,CA,2,,christopher.james@healthcare.org
+PRO00950,Marissa Robinson,Anesthesiology,General Practitioner,2603898457,No,CA,26,424 322 0297,
+PRO00951,Julie Young MD,Anesthesiology,General Practitioner,2851790471,Yes,CA,19,875 721 6409,
+PRO00952,Mr. Casey Walker DVM,Anesthesiology,General Practitioner,3165659800,Yes,CA,12,846 630 8434,
+PRO00953,Austin Boyd,Anesthesiology,General Practitioner,8738124929,Yes,CA,4,609 750 4340,austin.boyd@healthcare.org
+PRO00954,Jennifer Neal,Anesthesiology,General Practitioner,8531143354,Yes,CA,40,,jennifer.neal@healthcare.org
+PRO00955,Matthew Conley,Anesthesiology,General Practitioner,4103974311,Yes,CA,14,207 978 5902,matthew.conley@healthcare.org
+PRO00956,Scott Boyd,Anesthesiology,General Practitioner,4790120721,Yes,CA,5,183 301 7751,scott.boyd@healthcare.org
+PRO00957,Andrew Fox,Anesthesiology,General Practitioner,4058517769,Yes,CA,32,204 164 3545,andrew.fox@healthcare.org
+PRO00958,Paul Nelson,Anesthesiology,General Practitioner,9626445846,Yes,CA,12,424 240 9067,paul.nelson93@healthcare.org
+PRO00959,Adrian Duke,Anesthesiology,General Practitioner,3543778578,Yes,CA,14,930 997 4876,adrian.duke@healthcare.org
+PRO00960,Adam Pena,Anesthesiology,General Practitioner,3002458213,Yes,CA,14,,adam.pena@healthcare.org
+PRO00961,James Howard,Anesthesiology,General Practitioner,2205601371,No,GA,10,705 226 5246,james.howard@healthcare.org
+PRO00962,Laurie Singh,Anesthesiology,General Practitioner,2021540850,Yes,CA,20,804 296 9409,laurie.singh@healthcare.org
+PRO00963,Amy Bowman,Anesthesiology,General Practitioner,4743386686,Yes,CA,20,,
+PRO00964,Jennifer Garcia,Anesthesiology,General Practitioner,9551540897,Yes,CA,8,831 119 0270,jennifer.garcia@healthcare.org
+PRO00965,Mr. George Fleming MD,Anesthesiology,General Practitioner,5906201159,No,ME,15,854 584 9328,mr..md@healthcare.org
+PRO00966,Jerry Lewis,Anesthesiology,General Practitioner,6287911339,Yes,TX,7,072 547 1263,jerry.lewis@healthcare.org
+PRO00967,Austin Lee,Anesthesiology,General Practitioner,8728747330,Yes,CO,12,005 186 9381,austin.lee@healthcare.org
+PRO00968,Christopher Marshall,Anesthesiology,General Practitioner,1693325273,Yes,CA,12,922 195 9618,christopher.marshall@healthcare.org
+PRO00969,Justin Wallace,Anesthesiology,General Practitioner,5086807476,No,CA,14,969 757 1949,justin.wallace@healthcare.org
+PRO00970,Joshua Barnes,Anesthesiology,General Practitioner,2405391571,Yes,AK,12,463 882 5062,joshua.barnes@healthcare.org
+PRO00971,Chad Hampton,Anesthesiology,General Practitioner,9140406664,Yes,CA,16,658 548 7191,chad.hampton51@healthcare.org
+PRO00972,Mike Allen,Anesthesiology,General Practitioner,4599524263,Yes,CA,16,799 582 5918,mike.allen23@healthcare.org
+PRO00973,Jamie Robbins,Anesthesiology,General Practitioner,4794986492,Yes,AK,16,928 580 1101,jamie.robbins@healthcare.org
+PRO00974,Rachael Brown,Anesthesiology,General Practitioner,7591008078,Yes,CA,7,623 430 5078,rachael.brown@healthcare.org
+PRO00975,Joel Delgado,Anesthesiology,General Practitioner,6171671299,Yes,CA,3,926 326 2435,joel.delgado@healthcare.org
+PRO00976,Justin Wallace,Anesthesiology,General Practitioner,9284171950,Yes,LA,1,321 028 0256,
+PRO00977,Elizabeth Tate,Anesthesiology,General Practitioner,1041037102,Yes,CA,39,649 325 4710,elizabeth.tate@healthcare.org
+PRO00978,Steven Suarez,Anesthesiology,General Practitioner,2593718972,Yes,CA,12,115 843 0753,steven.suarez@healthcare.org
+PRO00979,Amanda Mathews,Anesthesiology,General Practitioner,9766919536,Yes,CA,32,380 332 4952,
+PRO00980,Heather Durham,Anesthesiology,General Practitioner,3141962602,Yes,CA,19,226 737 9459,heather.durham@healthcare.org
+PRO00981,Oscar Carlson,Anesthesiology,General Practitioner,4543389888,No,CA,17,833 871 1885,oscar.carlson@healthcare.org
+PRO00982,Brett Yang,Anesthesiology,General Practitioner,7985422611,No,CA,19,723 182 8644,brett.yang@healthcare.org
+PRO00983,Sarah Rivera,Anesthesiology,General Practitioner,3296246153,Yes,CA,20,858 436 1893,sarah.rivera77@healthcare.org
+PRO00984,Brenda Allen,Anesthesiology,General Practitioner,7599872914,Yes,CA,1,741 400 6055,brenda.allen@healthcare.org
+PRO00985,Eric Collins,Anesthesiology,General Practitioner,9873285301,Yes,CA,7,719 561 2816,eric.collins@healthcare.org
+PRO00986,George Gordon,Anesthesiology,General Practitioner,6789870091,Yes,CA,14,774 500 8603,george.gordon@healthcare.org
+PRO00987,Brian Jones,Anesthesiology,General Practitioner,1372428019,Yes,CA,3,025 251 2727,brian.jones55@healthcare.org
+PRO00988,Dennis West,Anesthesiology,General Practitioner,4283309005,Yes,CA,17,797 248 4728,dennis.west@healthcare.org
+PRO00989,David Anderson,Anesthesiology,General Practitioner,1874909828,Yes,KY,14,735 317 3703,david.anderson@healthcare.org
+PRO00990,Julie Brooks,Anesthesiology,General Practitioner,4430487343,Yes,CA,7,471 699 6828,julie.brooks@healthcare.org
+PRO00991,Jessica Payne,Anesthesiology,General Practitioner,4353731893,Yes,CA,15,655 378 9762,
+PRO00992,Dennis Ruiz,Anesthesiology,General Practitioner,3485523648,Yes,CA,20,435 568 8476,
+PRO00993,Kelly Miller,Anesthesiology,General Practitioner,4755270259,No,CA,9,,kelly.miller@healthcare.org
+PRO00994,Christopher Rojas,Anesthesiology,General Practitioner,6549015619,Yes,MH,5,768 133 1641,christopher.rojas@healthcare.org
+PRO00995,Stephen Baker,Radiology / Imaging,General Practitioner,7916778755,Yes,CA,4,834 690 6819,stephen.baker@healthcare.org
+PRO00996,Shawn Ramirez,Radiology / Imaging,General Practitioner,6128311769,Yes,CA,3,650 699 5049,
+PRO00997,Jeffrey Richards,Radiology / Imaging,General Practitioner,7600939204,Yes,GA,12,570 292 5057,jeffrey.richards72@healthcare.org
+PRO00998,Cynthia Diaz,Radiology / Imaging,General Practitioner,8091398485,Yes,CA,13,444 866 2669,cynthia.diaz@healthcare.org
+PRO00999,Caleb Banks,Radiology / Imaging,General Practitioner,8861005858,Yes,CA,10,,caleb.banks@healthcare.org
+PRO01000,Miss Kaylee Byrd,Radiology / Imaging,General Practitioner,6724931422,Yes,CA,3,327 498 9917,miss.byrd@healthcare.org
+PRO01001,Holly Colon,Radiology / Imaging,General Practitioner,8363289021,Yes,CA,14,866 247 0095,holly.colon@healthcare.org
+PRO01002,Shawn Conway,Radiology / Imaging,General Practitioner,6641164426,Yes,CA,8,261 390 5433,shawn.conway@healthcare.org
+PRO01003,Amy White,Radiology / Imaging,General Practitioner,1683831386,Yes,CA,19,721 433 3848,amy.white@healthcare.org
+PRO01004,Whitney Sharp,Radiology / Imaging,General Practitioner,1546933533,Yes,CA,4,871 103 2971,whitney.sharp@healthcare.org
+PRO01005,Cynthia Parsons,Radiology / Imaging,General Practitioner,5632534343,Yes,CA,15,412 542 5810,cynthia.parsons@healthcare.org
+PRO01006,Donna Fisher,Radiology / Imaging,General Practitioner,4675985541,Yes,CA,10,991 985 0553,
+PRO01007,Tracy Schwartz,Radiology / Imaging,General Practitioner,3558661374,Yes,CA,24,264 354 5727,tracy.schwartz@healthcare.org
+PRO01008,Kenneth Barnett,Radiology / Imaging,General Practitioner,2949854379,Yes,CA,5,216 465 5233,kenneth.barnett@healthcare.org
+PRO01009,Wayne Macdonald,Radiology / Imaging,General Practitioner,4526605178,Yes,CA,6,079 893 0396,wayne.macdonald@healthcare.org
+PRO01010,Desiree Myers,Radiology / Imaging,General Practitioner,4623426067,Yes,CA,6,130 467 7940,desiree.myers@healthcare.org
+PRO01011,Shelly Stone,Radiology / Imaging,General Practitioner,6237317323,Yes,CA,6,102 795 4315,
+PRO01012,John Gonzalez,Radiology / Imaging,General Practitioner,9820039444,Yes,IN,10,606 324 6988,john.gonzalez@healthcare.org
+PRO01013,Timothy Rodriguez,Radiology / Imaging,General Practitioner,2550290834,No,CA,1,354 351 1291,timothy.rodriguez63@healthcare.org
+PRO01014,Tanya Hodge,Radiology / Imaging,General Practitioner,9614246231,Yes,CA,13,410 790 0417,
+PRO01015,Cathy Holland,Radiology / Imaging,General Practitioner,1245962278,Yes,CA,10,738 575 6903,cathy.holland@healthcare.org
+PRO01016,James Poole,Radiology / Imaging,General Practitioner,9718623835,Yes,CA,1,,james.poole@healthcare.org
+PRO01017,Ryan Shaw,Radiology / Imaging,General Practitioner,5296573159,Yes,CA,27,488 842 3843,ryan.shaw67@healthcare.org
+PRO01018,Ryan Smith,Radiology / Imaging,General Practitioner,1984002798,Yes,CA,6,741 590 1806,ryan.smith@healthcare.org
+PRO01019,Rachel Hoffman,Radiology / Imaging,General Practitioner,1136913156,Yes,CA,11,570 489 5992,rachel.hoffman@healthcare.org
+PRO01020,Tonya Smith,Radiology / Imaging,General Practitioner,4493572239,Yes,CA,14,,tonya.smith95@healthcare.org
+PRO01021,William Horn,Radiology / Imaging,General Practitioner,7581286895,Yes,CA,16,921 551 2457,william.horn@healthcare.org
+PRO01022,Lindsay Brown,Radiology / Imaging,General Practitioner,7584184482,Yes,CA,7,,lindsay.brown@healthcare.org
+PRO01023,Barbara Simpson,Radiology / Imaging,General Practitioner,9611595827,Yes,CA,1,633 464 2220,barbara.simpson@healthcare.org
+PRO01024,Lindsey Jordan,Radiology / Imaging,General Practitioner,5190232719,Yes,CA,5,665 539 3227,lindsey.jordan19@healthcare.org
+PRO01025,Henry Rodriguez,Radiology / Imaging,General Practitioner,9800727155,Yes,CA,14,496 373 2369,henry.rodriguez44@healthcare.org
+PRO01026,Timothy Santana,Radiology / Imaging,General Practitioner,4390184725,Yes,CA,15,586 714 6881,
+PRO01027,Gary Elliott,Radiology / Imaging,General Practitioner,3514880802,Yes,CA,2,270 718 3599,gary.elliott93@healthcare.org
+PRO01028,Priscilla Joseph,Radiology / Imaging,General Practitioner,5003867107,No,CA,19,431 506 7328,priscilla.joseph@healthcare.org
+PRO01029,Erica Lynch,Radiology / Imaging,General Practitioner,2388943190,No,CA,13,348 413 6204,erica.lynch80@healthcare.org
+PRO01030,Dana Vega,Radiology / Imaging,General Practitioner,4256151645,Yes,CA,4,543 473 2807,
+PRO01031,Valerie Taylor,Radiology / Imaging,General Practitioner,2565474100,Yes,CA,8,,valerie.taylor@healthcare.org
+PRO01032,Kyle Myers,Radiology / Imaging,General Practitioner,2281074479,No,AL,28,,kyle.myers@healthcare.org
+PRO01033,Allison Riley,Radiology / Imaging,General Practitioner,2504076250,Yes,CA,9,871 568 7662,allison.riley@healthcare.org
+PRO01034,Carl Poole,Radiology / Imaging,General Practitioner,9904796346,Yes,CA,5,242 143 2219,carl.poole@healthcare.org
+PRO01035,Alan Case,Radiology / Imaging,General Practitioner,1670133208,Yes,CA,13,071 741 8005,alan.case@healthcare.org
+PRO01036,Monica Whitehead,Radiology / Imaging,General Practitioner,4986705221,Yes,CA,16,067 173 7931,monica.whitehead89@healthcare.org
+PRO01037,Casey Reynolds,Radiology / Imaging,General Practitioner,7677501273,Yes,FM,6,068 295 1685,casey.reynolds@healthcare.org
+PRO01038,Katherine Marshall,Radiology / Imaging,General Practitioner,4526279131,Yes,CA,6,622 361 6948,katherine.marshall@healthcare.org
+PRO01039,Kara Collins,Radiology / Imaging,General Practitioner,3542451263,Yes,CA,9,514 522 3125,kara.collins59@healthcare.org
+PRO01040,Maria Gordon,Radiology / Imaging,General Practitioner,7310327809,Yes,CA,2,967 851 7996,maria.gordon@healthcare.org
+PRO01041,Evan Walker,Radiology / Imaging,General Practitioner,6884077604,Yes,CA,14,472 979 4218,evan.walker@healthcare.org
+PRO01042,Angela Wagner,Radiology / Imaging,General Practitioner,9505643591,Yes,CA,9,790 679 1113,angela.wagner@healthcare.org
+PRO01043,Paul Ramirez,Radiology / Imaging,General Practitioner,3910185494,No,CA,3,147 108 7224,paul.ramirez@healthcare.org
+PRO01044,Crystal Matthews,Radiology / Imaging,General Practitioner,4293621140,No,CA,5,541 313 7061,crystal.matthews@healthcare.org
+PRO01045,Taylor Curry,Radiology / Imaging,General Practitioner,2410582613,Yes,CA,17,817 857 2048,taylor.curry@healthcare.org
+PRO01046,Kelly Rojas,Radiology / Imaging,General Practitioner,7937738879,Yes,CA,33,601 355 8435,kelly.rojas@healthcare.org
+PRO01047,Michelle Ramirez,Radiology / Imaging,General Practitioner,1193319663,No,CA,4,243 872 8844,
+PRO01048,Charles Brandt,Radiology / Imaging,General Practitioner,1683346270,Yes,CA,5,827 150 5678,
+PRO01049,Angela Lester,Radiology / Imaging,General Practitioner,9358134450,Yes,CA,7,534 684 0260,angela.lester@healthcare.org
+PRO01050,Kathryn King,Radiology / Imaging,General Practitioner,9626788690,Yes,CA,15,022 582 4542,kathryn.king@healthcare.org
+PRO01051,Rachel Serrano,Radiology / Imaging,General Practitioner,8404908692,Yes,CA,4,428 593 7667,
+PRO01052,Melanie Terrell,Radiology / Imaging,General Practitioner,9744412277,Yes,CA,2,916 507 7810,
+PRO01053,Christopher Reed,Radiology / Imaging,General Practitioner,4511869830,Yes,CA,16,042 644 9735,
+PRO01054,Mr. Taylor Lee,Radiology / Imaging,General Practitioner,9126059016,No,CA,19,627 310 9638,mr..lee@healthcare.org
+PRO01055,Jean Carter,Radiology / Imaging,General Practitioner,4714817401,Yes,CA,13,361 026 0664,jean.carter86@healthcare.org
+PRO01056,Kimberly Garcia,Radiology / Imaging,General Practitioner,6834766037,Yes,CA,1,850 177 4125,
+PRO01057,Kevin Byrd,Radiology / Imaging,General Practitioner,7196656328,Yes,CA,17,373 261 8962,kevin.byrd@healthcare.org
+PRO01058,Edward Lowe,Radiology / Imaging,General Practitioner,9338931938,Yes,CA,6,554 803 2610,edward.lowe@healthcare.org
+PRO01059,Christy Hall,Radiology / Imaging,General Practitioner,6521583426,Yes,CA,6,450 773 2714,christy.hall92@healthcare.org
+PRO01060,Cassandra Juarez,Radiology / Imaging,General Practitioner,7192036440,Yes,CA,5,211 213 6866,cassandra.juarez@healthcare.org
+PRO01061,Christopher Schultz,Radiology / Imaging,General Practitioner,9316771871,Yes,CA,8,184 325 3138,christopher.schultz@healthcare.org
+PRO01062,Jeffrey Clark,Radiology / Imaging,General Practitioner,9158051644,Yes,CA,18,117 418 8028,jeffrey.clark@healthcare.org
+PRO01063,James Dennis,Radiology / Imaging,General Practitioner,8130406362,Yes,CA,24,928 368 9340,james.dennis@healthcare.org
+PRO01064,Sandra Brooks,Radiology / Imaging,General Practitioner,5123170332,Yes,CA,21,481 260 8493,
+PRO01065,Bryan Davis,Radiology / Imaging,General Practitioner,6915661074,Yes,CA,20,907 907 0742,bryan.davis@healthcare.org
+PRO01066,Ethan Waller,Pathology / Lab Services,General Practitioner,4919300843,No,CA,38,307 019 4258,ethan.waller@healthcare.org
+PRO01067,Natasha Clark,Pathology / Lab Services,General Practitioner,6990482365,Yes,CA,8,885 046 8809,natasha.clark@healthcare.org
+PRO01068,Wendy Salinas,Pathology / Lab Services,General Practitioner,5518539076,Yes,CA,15,782 163 9493,wendy.salinas@healthcare.org
+PRO01069,Shawn Oconnell,Pathology / Lab Services,General Practitioner,3338516822,Yes,CA,7,533 435 6293,shawn.oconnell88@healthcare.org
+PRO01070,Trevor Christian,Pathology / Lab Services,General Practitioner,2738227070,Yes,CA,5,646 015 8106,trevor.christian@healthcare.org
+PRO01071,Jason Wiggins,Pathology / Lab Services,General Practitioner,2214473646,Yes,CA,16,486 443 2847,
+PRO01072,Terry Stewart,Pathology / Lab Services,General Practitioner,9210773898,Yes,CA,8,330 885 2422,terry.stewart@healthcare.org
+PRO01073,Reginald Reed,Pathology / Lab Services,General Practitioner,7074255801,Yes,CA,9,,reginald.reed@healthcare.org
+PRO01074,Eugene Thompson,Pathology / Lab Services,General Practitioner,5205059143,Yes,CA,22,184 228 4747,eugene.thompson@healthcare.org
+PRO01075,Jessica Schaefer,Pathology / Lab Services,General Practitioner,5152040131,Yes,CA,29,071 587 4360,jessica.schaefer98@healthcare.org
+PRO01076,Lisa Hansen,Pathology / Lab Services,General Practitioner,8376861038,Yes,CA,4,030 014 7573,lisa.hansen98@healthcare.org
+PRO01077,Haley Durham,Pathology / Lab Services,General Practitioner,3914493923,Yes,CA,1,,haley.durham@healthcare.org
+PRO01078,Erika Hoffman,Pathology / Lab Services,General Practitioner,9390496863,Yes,CA,11,282 453 8168,erika.hoffman@healthcare.org
+PRO01079,Christina Walker,Pathology / Lab Services,General Practitioner,4038388382,Yes,CA,16,272 702 4841,christina.walker@healthcare.org
+PRO01080,Krista Walker DDS,Pathology / Lab Services,General Practitioner,3654376260,Yes,CA,8,196 961 8279,
+PRO01081,Paul Bishop,Pathology / Lab Services,General Practitioner,3438422976,No,CA,17,449 544 6950,paul.bishop@healthcare.org
+PRO01082,Paula Ford,Pathology / Lab Services,General Practitioner,4422326385,Yes,CA,9,804 897 2121,paula.ford@healthcare.org
+PRO01083,Jennifer Patton,Pathology / Lab Services,General Practitioner,1335640734,Yes,CA,20,570 146 3120,jennifer.patton31@healthcare.org
+PRO01084,Charles Ramos,Pathology / Lab Services,General Practitioner,5980560467,Yes,CA,14,373 873 1382,
+PRO01085,Melissa Jones,Pathology / Lab Services,General Practitioner,1417764490,Yes,CA,9,026 875 1340,melissa.jones@healthcare.org
+PRO01086,Carolyn Shepard,Pathology / Lab Services,General Practitioner,7032467640,Yes,CA,4,704 937 3273,
+PRO01087,Emily Rose,Pathology / Lab Services,General Practitioner,7016829463,Yes,CA,12,087 459 8283,
+PRO01088,Connie Jacobs,Pathology / Lab Services,General Practitioner,5992960334,Yes,CA,9,828 391 4816,
+PRO01089,Kevin Payne,Pathology / Lab Services,General Practitioner,2411848383,Yes,CA,17,273 098 0198,kevin.payne@healthcare.org
+PRO01090,Monique Davis,Pathology / Lab Services,General Practitioner,3002511496,Yes,CA,14,223 490 3255,monique.davis@healthcare.org
+PRO01091,James Wade,Pathology / Lab Services,General Practitioner,6969439200,Yes,CA,8,923 418 5995,james.wade@healthcare.org
+PRO01092,William Huang,Pathology / Lab Services,General Practitioner,6380870779,Yes,CA,2,900 822 7260,william.huang42@healthcare.org
+PRO01093,Stephanie Rogers,Pathology / Lab Services,General Practitioner,3928074867,Yes,CA,17,329 721 7354,stephanie.rogers@healthcare.org
+PRO01094,Garrett Parker,Pathology / Lab Services,General Practitioner,8622571535,Yes,GA,18,837 709 4360,
+PRO01095,Danny Kent,Pathology / Lab Services,General Practitioner,9805603860,Yes,CA,18,085 280 1138,danny.kent@healthcare.org
+PRO01096,Robert Sanders,Pathology / Lab Services,General Practitioner,3672321223,Yes,CA,1,898 586 1646,robert.sanders86@healthcare.org
+PRO01097,Samuel Bolton,Pathology / Lab Services,General Practitioner,1100707619,Yes,CA,9,322 613 8820,samuel.bolton@healthcare.org
+PRO01098,James Moore,Pathology / Lab Services,General Practitioner,5917440899,Yes,CA,33,845 610 9058,james.moore@healthcare.org
+PRO01099,Stephanie Walker,Pathology / Lab Services,General Practitioner,6245025014,No,CA,14,,
+PRO01100,Charles Cannon,Pathology / Lab Services,General Practitioner,6459284084,No,CA,3,071 418 9105,charles.cannon28@healthcare.org
+PRO01101,Renee Strong,Pathology / Lab Services,General Practitioner,5173065273,Yes,CA,19,,renee.strong@healthcare.org
+PRO01102,Travis Murphy,Pathology / Lab Services,General Practitioner,6596410557,No,CA,20,967 937 1227,travis.murphy53@healthcare.org
+PRO01103,Angel Foley,Pathology / Lab Services,General Practitioner,7981389419,Yes,DC,11,894 067 2470,angel.foley@healthcare.org
+PRO01104,Rebecca Flynn,Pathology / Lab Services,General Practitioner,8477317992,Yes,CA,1,271 916 6905,
+PRO01105,Nicole Parker,Pathology / Lab Services,General Practitioner,4016738312,Yes,AK,26,255 520 7552,nicole.parker@healthcare.org
+PRO01106,Kenneth Bond,Pathology / Lab Services,General Practitioner,8802607022,No,CA,18,319 813 7313,kenneth.bond@healthcare.org
+PRO01107,Paul Payne,Pathology / Lab Services,General Practitioner,1042831629,Yes,CA,19,649 228 4774,paul.payne@healthcare.org
+PRO01108,John Coleman,Pathology / Lab Services,General Practitioner,9667869190,Yes,CA,1,,
+PRO01109,Jennifer Watson,Pathology / Lab Services,General Practitioner,9256077835,No,LA,29,267 645 7573,jennifer.watson@healthcare.org
+PRO01110,Ryan Campbell,Pathology / Lab Services,General Practitioner,1307846734,Yes,CA,10,179 510 4737,ryan.campbell@healthcare.org
+PRO01111,Timothy Soto,Pathology / Lab Services,General Practitioner,2419047599,Yes,CA,7,754 304 3337,timothy.soto@healthcare.org
+PRO01112,Jeremy Lewis,Pathology / Lab Services,General Practitioner,5789569313,Yes,CA,14,,jeremy.lewis@healthcare.org
+PRO01113,Jamie Escobar,Pathology / Lab Services,General Practitioner,4589305961,Yes,CA,4,139 103 0971,jamie.escobar@healthcare.org
+PRO01114,Danny Neal,Pathology / Lab Services,General Practitioner,7932767985,Yes,CA,16,208 633 3602,danny.neal@healthcare.org
+PRO01115,Donna Smith,Pathology / Lab Services,General Practitioner,2243774407,Yes,CA,16,,donna.smith@healthcare.org
+PRO01116,Kelly Ray,Pathology / Lab Services,General Practitioner,2846440708,No,CA,19,238 946 9223,
+PRO01117,Hailey Collins,Pathology / Lab Services,General Practitioner,2290970175,Yes,CA,5,084 561 0897,hailey.collins@healthcare.org
+PRO01118,Nicole Morris,Pathology / Lab Services,General Practitioner,8276447052,Yes,CA,7,308 291 1584,
+PRO01119,Robert Watson,Pathology / Lab Services,General Practitioner,3260582842,Yes,CA,1,329 938 4070,robert.watson85@healthcare.org
+PRO01120,Jasmine Hernandez,Pathology / Lab Services,General Practitioner,8046775695,Yes,CA,14,683 887 3721,
+PRO01121,Ronald Kaiser,Pathology / Lab Services,General Practitioner,4830771917,No,MO,17,,ronald.kaiser@healthcare.org
+PRO01122,Shane Bowman,Pathology / Lab Services,General Practitioner,5910838144,Yes,CA,2,657 528 1430,shane.bowman@healthcare.org
+PRO01123,Tina Graham,Pathology / Lab Services,General Practitioner,4559005136,Yes,CA,11,651 040 8544,tina.graham@healthcare.org
+PRO01124,Michael Anderson,Pathology / Lab Services,General Practitioner,1745662396,No,CA,15,751 170 3818,michael.anderson@healthcare.org
+PRO01125,Christopher Warner,Pathology / Lab Services,General Practitioner,5997174140,Yes,CA,4,836 578 1155,
+PRO01126,Melissa Rodriguez,Pathology / Lab Services,General Practitioner,2739886441,No,CA,13,396 573 7300,melissa.rodriguez@healthcare.org
+PRO01127,Jacqueline Shelton,Pathology / Lab Services,General Practitioner,5500046832,Yes,CA,15,784 226 0494,
+PRO01128,Candace Lopez,Pathology / Lab Services,General Practitioner,6817327444,Yes,CA,30,722 513 4784,candace.lopez@healthcare.org
+PRO01129,Alyssa Chambers,Pathology / Lab Services,General Practitioner,3295538777,Yes,CA,3,664 711 4431,alyssa.chambers14@healthcare.org
+PRO01130,Stacey Munoz,Pathology / Lab Services,General Practitioner,1136487103,Yes,CA,4,576 377 6324,stacey.munoz@healthcare.org
+PRO01131,Robert Lewis,Pathology / Lab Services,General Practitioner,8471665380,Yes,CA,1,543 203 0887,
+PRO01132,Jane Mcguire,Pathology / Lab Services,General Practitioner,4718062017,Yes,CA,5,943 740 2710,jane.mcguire@healthcare.org
+PRO01133,James Richardson,Pathology / Lab Services,General Practitioner,2706095747,Yes,CA,12,214 325 6734,james.richardson@healthcare.org
+PRO01134,Patrick Davis,Pathology / Lab Services,General Practitioner,7856931716,Yes,CA,6,805 872 2762,patrick.davis@healthcare.org
+PRO01135,Derek Burns,Pathology / Lab Services,General Practitioner,8962985809,Yes,CA,11,943 404 2675,derek.burns@healthcare.org
+PRO01136,Angela Sanchez,Pathology / Lab Services,General Practitioner,1080036649,Yes,CA,16,439 488 8626,angela.sanchez@healthcare.org
+PRO01137,Christopher Campbell,Urology,Urologist,5316049541,Yes,CA,8,158 865 8237,christopher.campbell@healthcare.org
+PRO01138,Amanda Lee,Urology,Urologist,4681395097,Yes,CA,11,473 987 0245,amanda.lee@healthcare.org
+PRO01139,Sarah Ramos,Urology,Urologist,8590544638,Yes,NM,13,692 195 4269,sarah.ramos@healthcare.org
+PRO01140,James Hill,Urology,Urologist,8006781113,No,CA,6,652 082 4706,james.hill@healthcare.org
+PRO01141,Mr. Gregory Martinez,Urology,Urologist,7534513086,Yes,CA,7,,
+PRO01142,Douglas Love,Urology,Urologist,9305592403,Yes,CA,7,185 415 6424,
+PRO01143,Cody Rivera,Urology,Urologist,4251021534,No,CA,1,,cody.rivera21@healthcare.org
+PRO01144,Kimberly Sherman,Urology,Urologist,4947986375,No,CA,16,817 440 7810,kimberly.sherman@healthcare.org
+PRO01145,Erica Day,Urology,Urologist,5380006237,Yes,KS,2,502 978 4972,erica.day@healthcare.org
+PRO01146,Vincent Gilbert,Urology,Urologist,6845533713,No,CA,5,901 263 3676,
+PRO01147,Jason Malone,Urology,Urologist,6131680996,Yes,CA,19,415 421 3847,jason.malone@healthcare.org
+PRO01148,Christopher Carter,Urology,Urologist,8912805279,Yes,CA,38,986 759 0023,christopher.carter@healthcare.org
+PRO01149,Julia Miller,Urology,Urologist,6167401576,Yes,ME,31,209 228 5441,julia.miller@healthcare.org
+PRO01150,Amanda Wilkins,Urology,Urologist,6710101664,Yes,MN,16,,amanda.wilkins@healthcare.org
+PRO01151,Todd Maxwell,Urology,Urologist,7231712857,Yes,CT,14,865 952 4601,
+PRO01152,Amy Kelly,Urology,Urologist,6659306476,Yes,NC,9,847 951 0010,
+PRO01153,Brent Gardner,Urology,Urologist,3603054907,No,CA,15,346 022 5825,brent.gardner@healthcare.org
+PRO01154,Leonard Johnson,Urology,Urologist,3925123774,Yes,CA,31,113 283 7694,leonard.johnson83@healthcare.org
+PRO01155,Scott Mccormick,Urology,Urologist,8193093039,No,CA,1,061 894 1215,scott.mccormick@healthcare.org
+PRO01156,Jason Rogers,Urology,Urologist,9912992778,Yes,CA,2,946 117 7117,jason.rogers@healthcare.org
+PRO01157,James Walton,Urology,Urologist,6153228207,No,OK,5,727 435 8032,james.walton@healthcare.org
+PRO01158,Phillip Norman,Urology,Urologist,3889775813,No,CA,10,687 535 0199,phillip.norman@healthcare.org
+PRO01159,Jeremy Mitchell,Urology,Urologist,7351291515,Yes,CA,6,865 745 7134,jeremy.mitchell@healthcare.org
+PRO01160,Mark Ramirez,Urology,Urologist,5221005969,Yes,CA,11,173 787 3456,mark.ramirez@healthcare.org
+PRO01161,Taylor King,Urology,Urologist,4215527908,Yes,CA,2,200 814 9186,
+PRO01162,Melanie Walker,Urology,Urologist,1817633192,Yes,CA,3,915 833 4045,melanie.walker@healthcare.org
+PRO01163,Samantha Andrade,Urology,Urologist,5275712047,Yes,CA,14,544 243 4602,samantha.andrade@healthcare.org
+PRO01164,Gina Miranda,Urology,Urologist,7980453444,Yes,CA,24,454 092 4819,
+PRO01165,William Petersen,Urology,Urologist,2432388698,Yes,CA,40,,william.petersen@healthcare.org
+PRO01166,Cynthia Mitchell,Urology,Urologist,9924490524,Yes,CA,12,804 568 8977,cynthia.mitchell@healthcare.org
+PRO01167,Ryan Lopez,Urology,Urologist,6573949746,Yes,CA,29,615 903 4116,ryan.lopez@healthcare.org
+PRO01168,Kurt Trujillo DDS,Urology,Urologist,2010391589,Yes,CA,19,214 613 3188,kurt.dds@healthcare.org
+PRO01169,Natasha Carroll,Urology,Urologist,1756018527,Yes,CA,3,825 760 7069,natasha.carroll@healthcare.org
+PRO01170,Christopher Allen,Urology,Urologist,5517080191,No,CA,16,876 633 6785,christopher.allen@healthcare.org
+PRO01171,Mark King,Urology,Urologist,7079016691,Yes,CA,11,431 070 1348,mark.king@healthcare.org
+PRO01172,James Long,Urology,Urologist,7678539983,Yes,CA,15,874 796 3920,james.long38@healthcare.org
+PRO01173,Thomas Long,Urology,Urologist,8293681405,Yes,CA,13,065 507 1025,thomas.long61@healthcare.org
+PRO01174,Jeffrey Mills,Urology,Urologist,2720231211,Yes,CA,12,168 571 8328,jeffrey.mills@healthcare.org
+PRO01175,Gregory Hill,Urology,Urologist,5631960649,Yes,VT,14,669 399 4373,gregory.hill@healthcare.org
+PRO01176,Taylor Stanton,Urology,Urologist,5257459100,Yes,CA,11,521 052 6191,taylor.stanton@healthcare.org
+PRO01177,Jason Dalton,Urology,Urologist,9970846444,Yes,CA,11,641 760 7090,jason.dalton@healthcare.org
+PRO01178,Ian Trujillo III,Urology,Urologist,9817286296,Yes,CA,7,822 449 8020,ian.iii@healthcare.org
+PRO01179,Kelsey Farmer,Urology,Urologist,4253148359,Yes,CA,15,266 573 8849,
+PRO01180,James Duncan,Urology,Urologist,3623102686,Yes,CA,9,294 480 4710,james.duncan@healthcare.org
+PRO01181,Michael Taylor,Urology,Urologist,7320932821,No,CA,7,442 622 0950,
+PRO01182,Tyler Watkins,Urology,Urologist,6228654705,Yes,CA,16,868 319 3119,
+PRO01183,Melissa Tanner,Urology,Urologist,9588111657,Yes,CA,25,,melissa.tanner62@healthcare.org
+PRO01184,Donald Tanner,Urology,Urologist,4693163989,Yes,CA,4,089 316 0239,donald.tanner@healthcare.org
+PRO01185,Terry Murphy,Urology,Urologist,8314221382,Yes,CA,4,421 101 9735,terry.murphy@healthcare.org
+PRO01186,Dennis Jackson,Urology,Urologist,2159750003,Yes,CA,9,488 025 3224,dennis.jackson@healthcare.org
+PRO01187,Alexander Ferguson,Urology,Urologist,8079484245,Yes,CA,20,415 918 2704,alexander.ferguson@healthcare.org
+PRO01188,Caitlin Morrison,Urology,Urologist,6660225033,Yes,CA,5,,caitlin.morrison59@healthcare.org
+PRO01189,Mary Alvarez,Urology,Urologist,7858257611,Yes,CA,19,759 644 6089,
+PRO01190,Elizabeth Patel,Urology,Urologist,7044148920,Yes,CA,28,677 250 1499,elizabeth.patel37@healthcare.org
+PRO01191,Leonard Parks,Urology,Urologist,1865355470,Yes,CA,9,248 666 7068,
+PRO01192,Caleb Rollins,Urology,Urologist,6580190252,Yes,CA,12,752 739 6143,
+PRO01193,Eric Schultz,Urology,Urologist,8043328271,Yes,CA,19,214 651 7622,eric.schultz30@healthcare.org
+PRO01194,James Thompson,Urology,Urologist,3674652840,Yes,CA,16,888 245 4670,james.thompson@healthcare.org
+PRO01195,Diane Durham,Urology,Urologist,9069885363,No,CA,11,198 988 2195,diane.durham@healthcare.org
+PRO01196,Lori Beck,Urology,Urologist,2223615309,Yes,CA,16,788 531 6529,lori.beck@healthcare.org
+PRO01197,David Morrison,Urology,Urologist,8599764735,Yes,CA,17,359 740 7814,
+PRO01198,William Black,Urology,Urologist,4068303768,Yes,CA,5,,william.black46@healthcare.org
+PRO01199,Christopher Smith,Urology,Urologist,3574787159,Yes,CA,20,757 964 5295,
+PRO01200,Aaron Martinez,Urology,Urologist,8890615110,Yes,CA,4,644 924 3673,aaron.martinez@healthcare.org
+PRO01201,Jason Roberson,Urology,Urologist,9635952022,No,CA,13,472 581 2717,jason.roberson@healthcare.org
+PRO01202,Brenda Rodriguez,Urology,Urologist,6200178992,No,CA,6,,brenda.rodriguez@healthcare.org
+PRO01203,Ashley Jones,Urology,Urologist,4229954137,Yes,CA,18,185 883 7107,
+PRO01204,Mrs. Jennifer Peters,Urology,Urologist,9233878490,Yes,CA,20,,mrs..peters@healthcare.org
+PRO01205,Anthony Gonzalez,Urology,Urologist,5143395585,Yes,CA,5,453 841 0563,
+PRO01206,Samuel Duran,Urology,Urologist,7350341743,Yes,CA,15,250 856 7103,samuel.duran@healthcare.org
+PRO01207,Teresa Fox,Urology,Urologist,2660226929,Yes,CA,13,094 581 8598,
+PRO01208,Stephanie Campbell,Dermatology,Dermatologist,7153087728,Yes,CA,7,247 559 4613,
+PRO01209,Elizabeth Knox,Dermatology,Dermatologist,7511391292,Yes,CA,20,820 061 0875,elizabeth.knox@healthcare.org
+PRO01210,David Jackson,Dermatology,Dermatologist,9868075085,Yes,CA,4,355 949 2664,david.jackson@healthcare.org
+PRO01211,Nicholas Rangel,Dermatology,Dermatologist,6950608013,Yes,FL,12,257 147 1488,nicholas.rangel@healthcare.org
+PRO01212,Spencer Lozano,Dermatology,Dermatologist,9640277173,Yes,CA,15,271 145 2048,
+PRO01213,Bryan Mclaughlin,Dermatology,Dermatologist,6600863970,No,CA,5,236 057 6183,bryan.mclaughlin55@healthcare.org
+PRO01214,Sarah Henry,Dermatology,Dermatologist,1656529989,Yes,SC,40,347 689 5705,sarah.henry@healthcare.org
+PRO01215,Zachary Cain,Dermatology,Dermatologist,1881632254,Yes,CA,11,749 903 5096,zachary.cain@healthcare.org
+PRO01216,David Wilson,Dermatology,Dermatologist,7599735491,Yes,CA,20,975 956 9118,david.wilson@healthcare.org
+PRO01217,Joshua Williams,Dermatology,Dermatologist,1976802856,No,CA,7,470 840 9994,
+PRO01218,Yolanda Mcbride,Dermatology,Dermatologist,7035942748,Yes,CA,16,255 431 3349,
+PRO01219,Michael Jacobs,Dermatology,Dermatologist,9655190760,Yes,CA,18,984 761 6783,michael.jacobs@healthcare.org
+PRO01220,Susan Wyatt,Dermatology,Dermatologist,3546807706,Yes,CA,13,626 898 0852,susan.wyatt@healthcare.org
+PRO01221,Zachary Stewart,Dermatology,Dermatologist,4815066298,Yes,CA,20,,
+PRO01222,Ariel Hernandez,Dermatology,Dermatologist,3160310503,Yes,CA,20,030 522 6851,ariel.hernandez@healthcare.org
+PRO01223,Lori Boone,Dermatology,Dermatologist,9575699071,No,CA,14,762 755 7600,
+PRO01224,Nicholas Landry,Dermatology,Dermatologist,4051374095,Yes,CA,9,034 234 2713,
+PRO01225,Tracy Lane,Dermatology,Dermatologist,5965125266,Yes,CA,9,298 420 3026,tracy.lane@healthcare.org
+PRO01226,Jeffrey Burns MD,Dermatology,Dermatologist,8579594065,Yes,CA,32,464 055 8531,jeffrey.md@healthcare.org
+PRO01227,Jennifer Rose,Dermatology,Dermatologist,3395755153,Yes,CA,12,290 358 1175,jennifer.rose@healthcare.org
+PRO01228,Harry Lee,Dermatology,Dermatologist,5682258794,Yes,CA,3,146 490 2016,harry.lee@healthcare.org
+PRO01229,Jennifer Smith,Dermatology,Dermatologist,9740018988,Yes,OK,16,076 866 1643,jennifer.smith@healthcare.org
+PRO01230,Eric Myers,Dermatology,Dermatologist,5037098568,Yes,CA,6,357 653 2216,eric.myers99@healthcare.org
+PRO01231,Patrick Oneill,Dermatology,Dermatologist,7174756686,Yes,CA,17,389 547 6271,patrick.oneill85@healthcare.org
+PRO01232,Andrew Duran,Dermatology,Dermatologist,2907521213,Yes,CA,5,,andrew.duran@healthcare.org
+PRO01233,Kristin Wells,Dermatology,Dermatologist,6429115953,Yes,CA,19,511 503 4937,kristin.wells@healthcare.org
+PRO01234,Latoya Yoder,Dermatology,Dermatologist,2933755793,Yes,CA,11,152 529 8932,latoya.yoder@healthcare.org
+PRO01235,Deanna Rodriguez,Dermatology,Dermatologist,8397507529,Yes,CA,12,408 480 6182,
+PRO01236,Natalie Hawkins,Dermatology,Dermatologist,2686313797,Yes,CA,10,146 721 5888,natalie.hawkins@healthcare.org
+PRO01237,Daniel Young,Dermatology,Dermatologist,1653113061,Yes,CA,33,314 139 1266,daniel.young@healthcare.org
+PRO01238,Douglas Andrade,Dermatology,Dermatologist,4336651772,Yes,CA,9,,douglas.andrade@healthcare.org
+PRO01239,Kara Juarez,Dermatology,Dermatologist,9186228102,No,CA,12,510 123 2032,kara.juarez@healthcare.org
+PRO01240,Lisa Coleman,Dermatology,Dermatologist,7152172528,Yes,CA,17,637 943 0246,lisa.coleman@healthcare.org
+PRO01241,Donna Jones,Dermatology,Dermatologist,6411739532,Yes,CA,5,653 561 6236,donna.jones@healthcare.org
+PRO01242,Michael Smith,Dermatology,Dermatologist,4363892234,Yes,CA,2,216 811 5370,michael.smith@healthcare.org
+PRO01243,Bryan Hoover,Dermatology,Dermatologist,5932715973,Yes,CA,15,537 208 4225,bryan.hoover49@healthcare.org
+PRO01244,Samuel White,Dermatology,Dermatologist,7401048429,Yes,CA,4,363 567 7431,samuel.white@healthcare.org
+PRO01245,Teresa Price,Dermatology,Dermatologist,1223500737,No,CA,14,100 206 9491,teresa.price@healthcare.org
+PRO01246,Heather Ramos,Dermatology,Dermatologist,2247384732,No,CA,4,719 612 0451,heather.ramos88@healthcare.org
+PRO01247,Lindsay Harrington,Dermatology,Dermatologist,2308729799,No,CA,5,620 189 7624,
+PRO01248,Heather Watson,Dermatology,Dermatologist,7855729787,Yes,CA,8,278 409 9592,
+PRO01249,Daniel Johnston,Dermatology,Dermatologist,2224729808,Yes,CA,1,655 611 1858,
+PRO01250,Isaiah Soto,Dermatology,Dermatologist,5312867720,Yes,CA,24,505 803 5410,isaiah.soto43@healthcare.org
+PRO01251,Heather Bennett,Dermatology,Dermatologist,6903592901,Yes,CA,17,639 180 9980,heather.bennett@healthcare.org
+PRO01252,Adrienne Ali,Dermatology,Dermatologist,8794009442,Yes,CA,10,715 567 1534,
+PRO01253,Christopher Hansen,Dermatology,Dermatologist,8816628612,No,CA,15,975 645 9657,christopher.hansen@healthcare.org
+PRO01254,Michele Murphy,Dermatology,Dermatologist,3421214400,Yes,CA,12,038 044 1370,michele.murphy71@healthcare.org
+PRO01255,Scott Mccoy,Dermatology,Dermatologist,4342417347,Yes,CA,14,986 574 3634,scott.mccoy@healthcare.org
+PRO01256,David Osborne,Dermatology,Dermatologist,5388956250,Yes,CA,9,,david.osborne@healthcare.org
+PRO01257,Rhonda Todd,Dermatology,Dermatologist,2786247345,Yes,CA,2,456 199 1027,rhonda.todd@healthcare.org
+PRO01258,Scott Bell,Dermatology,Dermatologist,2102948554,Yes,CA,5,,scott.bell42@healthcare.org
+PRO01259,Julie Bowman,Dermatology,Dermatologist,5224007882,Yes,CA,10,,julie.bowman@healthcare.org
+PRO01260,Jenna Cruz,Dermatology,Dermatologist,6880781427,Yes,CA,15,948 773 9207,jenna.cruz@healthcare.org
+PRO01261,Miguel English,Dermatology,Dermatologist,5557519231,Yes,CA,8,445 903 8184,miguel.english@healthcare.org
+PRO01262,Shannon King,Dermatology,Dermatologist,2438398232,No,CA,39,271 399 3749,shannon.king@healthcare.org
+PRO01263,Lisa Pittman,Dermatology,Dermatologist,4504291918,Yes,CA,16,838 635 3127,lisa.pittman@healthcare.org
+PRO01264,Cody Diaz,Dermatology,Dermatologist,4537506000,Yes,CA,27,693 974 2227,cody.diaz@healthcare.org
+PRO01265,Sarah Hill,Dermatology,Dermatologist,1406532322,Yes,CA,20,179 843 0367,sarah.hill@healthcare.org
+PRO01266,Sara Ramos,Dermatology,Dermatologist,9299653683,No,CA,13,660 862 1342,
+PRO01267,Matthew Miller,Dermatology,Dermatologist,7575951559,Yes,CA,9,351 728 4445,matthew.miller@healthcare.org
+PRO01268,Jim Morales,Dermatology,Dermatologist,3553096302,Yes,NY,6,684 455 2467,jim.morales@healthcare.org
+PRO01269,Samuel Hicks,Dermatology,Dermatologist,9972136749,Yes,CA,31,070 986 7741,samuel.hicks@healthcare.org
+PRO01270,Christopher Myers,Dermatology,Dermatologist,7977726600,Yes,CA,9,450 023 4884,christopher.myers@healthcare.org
+PRO01271,Sandra Howell,Dermatology,Dermatologist,5469191309,Yes,CA,14,,
+PRO01272,Brent Gonzales,Dermatology,Dermatologist,4748953572,No,CA,11,027 265 3284,
+PRO01273,Jerry Smith,Dermatology,Dermatologist,3783911275,No,NE,8,116 458 8407,jerry.smith@healthcare.org
+PRO01274,Mary Green,Dermatology,Dermatologist,1614327932,Yes,CA,20,083 977 3701,mary.green@healthcare.org
+PRO01275,Benjamin Lindsey,Dermatology,Dermatologist,8362777129,Yes,CA,8,,benjamin.lindsey38@healthcare.org
+PRO01276,Melissa Ballard,Dermatology,Dermatologist,3135582992,Yes,WV,9,031 778 5626,melissa.ballard@healthcare.org
+PRO01277,Lauren Henderson,Dermatology,Dermatologist,3098350771,Yes,CA,8,782 433 8669,lauren.henderson@healthcare.org
+PRO01278,Scott Robinson,Dermatology,Dermatologist,6585674532,Yes,CA,13,331 817 0664,scott.robinson@healthcare.org
+PRO01279,Tanya Levine,ENT (Otolaryngology),General Practitioner,4363369874,Yes,CA,7,,
+PRO01280,Ashley Peterson,ENT (Otolaryngology),General Practitioner,5329790661,Yes,CA,38,154 596 2080,ashley.peterson@healthcare.org
+PRO01281,Danny Davis,ENT (Otolaryngology),General Practitioner,4549802020,Yes,CA,9,352 868 0588,
+PRO01282,Billy Garner,ENT (Otolaryngology),General Practitioner,6232722353,Yes,CA,20,496 280 2994,billy.garner87@healthcare.org
+PRO01283,Steven Mitchell,ENT (Otolaryngology),General Practitioner,8257752220,Yes,CA,2,807 238 8147,steven.mitchell@healthcare.org
+PRO01284,Bonnie Benson,ENT (Otolaryngology),General Practitioner,5081183707,Yes,CA,11,,bonnie.benson@healthcare.org
+PRO01285,Cassandra Cohen,ENT (Otolaryngology),General Practitioner,2601892734,Yes,CA,28,028 138 3784,cassandra.cohen@healthcare.org
+PRO01286,James Vance,ENT (Otolaryngology),General Practitioner,5090922808,Yes,CA,8,041 458 6272,james.vance@healthcare.org
+PRO01287,Patricia Diaz,ENT (Otolaryngology),General Practitioner,6229169137,Yes,CA,6,562 428 9913,patricia.diaz@healthcare.org
+PRO01288,Christina Davidson,ENT (Otolaryngology),General Practitioner,8429123716,Yes,WY,5,277 498 9497,christina.davidson87@healthcare.org
+PRO01289,Jennifer Bishop,ENT (Otolaryngology),General Practitioner,3870117485,Yes,CA,17,897 383 2638,jennifer.bishop@healthcare.org
+PRO01290,Jason Hines,ENT (Otolaryngology),General Practitioner,7635834372,Yes,CA,15,644 548 3460,
+PRO01291,Kristy Parker,ENT (Otolaryngology),General Practitioner,7236524447,Yes,CA,11,767 573 5696,kristy.parker@healthcare.org
+PRO01292,Alejandro Bowman,ENT (Otolaryngology),General Practitioner,5360880383,Yes,OK,8,502 816 4304,alejandro.bowman@healthcare.org
+PRO01293,Shane Hendrix,ENT (Otolaryngology),General Practitioner,5029941848,Yes,CA,2,453 375 9389,
+PRO01294,Tina Levine,ENT (Otolaryngology),General Practitioner,4300697098,Yes,CA,10,934 921 4243,tina.levine@healthcare.org
+PRO01295,Mrs. Jacqueline Harper,ENT (Otolaryngology),General Practitioner,7786901994,Yes,CA,5,944 831 7880,mrs..harper@healthcare.org
+PRO01296,Jonathan Mcneil,ENT (Otolaryngology),General Practitioner,8554687608,Yes,CA,35,784 642 0526,jonathan.mcneil@healthcare.org
+PRO01297,Nancy Heath,ENT (Otolaryngology),General Practitioner,3723744915,Yes,CA,9,205 930 0682,
+PRO01298,Mary Sharp,ENT (Otolaryngology),General Practitioner,6489328420,Yes,CA,34,073 747 6260,mary.sharp@healthcare.org
+PRO01299,Charles Rodriguez,ENT (Otolaryngology),General Practitioner,3354334756,Yes,CA,5,894 688 6886,charles.rodriguez94@healthcare.org
+PRO01300,Catherine Williamson,ENT (Otolaryngology),General Practitioner,1044519774,No,CA,3,425 255 6879,catherine.williamson@healthcare.org
+PRO01301,Lisa Elliott,ENT (Otolaryngology),General Practitioner,5919290503,Yes,CA,2,228 451 9963,lisa.elliott@healthcare.org
+PRO01302,Julie Rivera,ENT (Otolaryngology),General Practitioner,5996649884,Yes,CA,1,558 842 9580,julie.rivera@healthcare.org
+PRO01303,Carl Harper,ENT (Otolaryngology),General Practitioner,5095653880,No,CA,19,,carl.harper@healthcare.org
+PRO01304,Robert Cruz,ENT (Otolaryngology),General Practitioner,7997451218,Yes,CA,1,121 096 1767,
+PRO01305,Jody Foster,ENT (Otolaryngology),General Practitioner,7610096184,No,CA,2,972 749 1735,jody.foster@healthcare.org
+PRO01306,Grace Shepard,ENT (Otolaryngology),General Practitioner,8635840957,Yes,CA,5,086 408 5518,grace.shepard@healthcare.org
+PRO01307,Kara Rodgers,ENT (Otolaryngology),General Practitioner,6715016394,No,CA,7,752 579 3579,
+PRO01308,Dennis Williams,ENT (Otolaryngology),General Practitioner,2082661803,No,MI,16,676 267 3487,dennis.williams@healthcare.org
+PRO01309,Barbara Mathis,ENT (Otolaryngology),General Practitioner,2833152273,No,CA,18,680 887 2032,
+PRO01310,Dana Larsen,ENT (Otolaryngology),General Practitioner,5454503183,Yes,CA,2,040 726 6643,dana.larsen@healthcare.org
+PRO01311,Mrs. Haley Hood MD,ENT (Otolaryngology),General Practitioner,3646192094,Yes,CA,13,623 448 6596,mrs..md@healthcare.org
+PRO01312,Robert Johnson,ENT (Otolaryngology),General Practitioner,6707115644,Yes,CA,12,,robert.johnson@healthcare.org
+PRO01313,William Johnson,ENT (Otolaryngology),General Practitioner,4908601717,Yes,CA,7,836 125 0265,william.johnson@healthcare.org
+PRO01314,Jessica Bishop,ENT (Otolaryngology),General Practitioner,7351156703,Yes,CA,10,100 649 1011,
+PRO01315,Andrew Gordon,ENT (Otolaryngology),General Practitioner,7038269217,Yes,CA,8,584 611 6038,
+PRO01316,Thomas Davis,ENT (Otolaryngology),General Practitioner,7231747125,Yes,CA,34,100 806 1188,thomas.davis@healthcare.org
+PRO01317,Judy Garcia,ENT (Otolaryngology),General Practitioner,3954048439,Yes,CA,16,575 491 0821,judy.garcia@healthcare.org
+PRO01318,Danielle Johnson,ENT (Otolaryngology),General Practitioner,4396842695,Yes,CA,10,831 368 3031,danielle.johnson@healthcare.org
+PRO01319,Jacob Villa,ENT (Otolaryngology),General Practitioner,4386900010,No,CA,18,,jacob.villa@healthcare.org
+PRO01320,Michelle Nichols,ENT (Otolaryngology),General Practitioner,5439539103,Yes,CA,3,751 756 2615,
+PRO01321,Daniel Olson,ENT (Otolaryngology),General Practitioner,6657704011,Yes,CA,3,325 752 7268,daniel.olson@healthcare.org
+PRO01322,Breanna Robinson,ENT (Otolaryngology),General Practitioner,4769358388,Yes,CA,10,018 210 7598,
+PRO01323,Jonathan Reyes,ENT (Otolaryngology),General Practitioner,7739510758,Yes,CA,2,,jonathan.reyes@healthcare.org
+PRO01324,Tiffany Hanson,ENT (Otolaryngology),General Practitioner,6880750518,Yes,PA,4,284 856 2661,tiffany.hanson@healthcare.org
+PRO01325,Mr. James Harris,ENT (Otolaryngology),General Practitioner,7878184656,Yes,CA,16,311 115 0581,
+PRO01326,Stephanie Gross,ENT (Otolaryngology),General Practitioner,6865370064,No,CA,15,908 666 6250,stephanie.gross@healthcare.org
+PRO01327,Paul Hunter,ENT (Otolaryngology),General Practitioner,7664832897,Yes,CA,18,,paul.hunter@healthcare.org
+PRO01328,Michael Smith,ENT (Otolaryngology),General Practitioner,7399520143,Yes,CA,10,664 524 4234,
+PRO01329,Ronald Wyatt,ENT (Otolaryngology),General Practitioner,7369298172,Yes,CA,13,623 652 2912,ronald.wyatt@healthcare.org
+PRO01330,Kimberly Hayden,ENT (Otolaryngology),General Practitioner,1832131577,Yes,CA,5,724 799 7346,
+PRO01331,Karen Wilson,ENT (Otolaryngology),General Practitioner,1372035084,Yes,CA,16,604 062 4776,
+PRO01332,Brian Rogers,ENT (Otolaryngology),General Practitioner,5952089760,Yes,CA,40,122 375 8495,
+PRO01333,Rhonda Collins,ENT (Otolaryngology),General Practitioner,1870836384,Yes,CA,36,923 640 9927,rhonda.collins@healthcare.org
+PRO01334,Alexandra Sanchez,ENT (Otolaryngology),General Practitioner,5346943112,Yes,CA,28,,
+PRO01335,Kelly Hebert,ENT (Otolaryngology),General Practitioner,6781981510,Yes,CA,36,053 675 5822,kelly.hebert@healthcare.org
+PRO01336,Jon Gallegos,ENT (Otolaryngology),General Practitioner,7404036712,No,CA,15,371 279 9719,jon.gallegos@healthcare.org
+PRO01337,Patrick Webb,ENT (Otolaryngology),General Practitioner,7924530839,Yes,CA,13,,patrick.webb76@healthcare.org
+PRO01338,Jeffery Reyes,ENT (Otolaryngology),General Practitioner,9850546952,Yes,MI,2,373 665 6740,jeffery.reyes@healthcare.org
+PRO01339,Elizabeth Bass,ENT (Otolaryngology),General Practitioner,6340743900,Yes,AK,16,129 731 2324,
+PRO01340,Mark Brown,ENT (Otolaryngology),General Practitioner,1797154737,Yes,CA,30,950 884 3272,mark.brown@healthcare.org
+PRO01341,Sean Weaver,ENT (Otolaryngology),General Practitioner,2416922842,Yes,CA,6,561 006 4032,sean.weaver88@healthcare.org
+PRO01342,Linda Lee,ENT (Otolaryngology),General Practitioner,8718728157,Yes,CA,8,723 018 7670,linda.lee@healthcare.org
+PRO01343,Joseph Fisher,ENT (Otolaryngology),General Practitioner,8241872160,Yes,CA,20,,joseph.fisher@healthcare.org
+PRO01344,Jason Murphy DVM,ENT (Otolaryngology),General Practitioner,5109553976,Yes,CA,2,979 722 1017,jason.dvm@healthcare.org
+PRO01345,Erin Robinson,ENT (Otolaryngology),General Practitioner,3239036486,Yes,CA,3,634 913 5323,erin.robinson@healthcare.org
+PRO01346,Henry Gonzalez,ENT (Otolaryngology),General Practitioner,1943498075,Yes,CA,9,019 741 2128,henry.gonzalez82@healthcare.org
+PRO01347,Jennifer Mendoza,ENT (Otolaryngology),General Practitioner,2581137852,No,CA,17,814 786 2470,jennifer.mendoza@healthcare.org
+PRO01348,Heather Martinez,ENT (Otolaryngology),General Practitioner,6825755529,Yes,CA,3,,heather.martinez@healthcare.org
+PRO01349,Carrie Jones,ENT (Otolaryngology),General Practitioner,3554946137,Yes,CA,2,659 104 0910,carrie.jones@healthcare.org
+PRO01350,Kyle Mcclain,Infectious Disease,General Practitioner,9375543460,Yes,AZ,9,305 862 1816,kyle.mcclain@healthcare.org
+PRO01351,Richard Mills,Infectious Disease,General Practitioner,3839340965,Yes,CA,9,,richard.mills@healthcare.org
+PRO01352,Zachary Ferguson,Infectious Disease,General Practitioner,9367867756,Yes,CA,1,564 946 8037,zachary.ferguson@healthcare.org
+PRO01353,Mary Mcknight,Infectious Disease,General Practitioner,7260829158,Yes,CA,9,296 891 5866,
+PRO01354,Sharon Foster,Infectious Disease,General Practitioner,9171226726,Yes,CA,19,798 283 7285,sharon.foster@healthcare.org
+PRO01355,Beverly Collins,Infectious Disease,General Practitioner,9848725595,Yes,CA,13,,beverly.collins@healthcare.org
+PRO01356,Jeanne Wiggins,Infectious Disease,General Practitioner,2349277626,Yes,CA,5,690 625 1752,jeanne.wiggins@healthcare.org
+PRO01357,Crystal Eaton,Infectious Disease,General Practitioner,8299217984,Yes,CA,16,829 094 4429,
+PRO01358,Juan Wood,Infectious Disease,General Practitioner,6119798182,No,CA,26,346 167 1755,juan.wood@healthcare.org
+PRO01359,Charles Pena,Infectious Disease,General Practitioner,8772113320,Yes,CA,1,595 385 0962,
+PRO01360,Benjamin Salazar,Infectious Disease,General Practitioner,7587097705,Yes,CA,29,274 624 9638,benjamin.salazar@healthcare.org
+PRO01361,Christopher Miller,Infectious Disease,General Practitioner,3124700903,No,CA,14,009 634 3657,christopher.miller92@healthcare.org
+PRO01362,Jeffrey Moses,Infectious Disease,General Practitioner,7368723786,Yes,CA,12,617 205 5640,jeffrey.moses@healthcare.org
+PRO01363,Megan Garcia,Infectious Disease,General Practitioner,1644405897,Yes,CA,14,733 529 3878,
+PRO01364,Teresa Webb,Infectious Disease,General Practitioner,4514946230,Yes,CA,9,086 585 8659,
+PRO01365,Ashley Stanley,Infectious Disease,General Practitioner,1345712711,Yes,CA,14,708 213 0656,ashley.stanley12@healthcare.org
+PRO01366,John Brown,Infectious Disease,General Practitioner,5814452316,No,CA,11,800 589 0908,john.brown@healthcare.org
+PRO01367,Anthony Rodriguez,Infectious Disease,General Practitioner,6924199890,No,CA,18,379 315 5228,
+PRO01368,Roberto Mcmillan,Infectious Disease,General Practitioner,2499986965,Yes,CA,8,459 638 9446,roberto.mcmillan@healthcare.org
+PRO01369,Amy Silva,Infectious Disease,General Practitioner,7646009968,Yes,CA,2,249 766 6535,amy.silva@healthcare.org
+PRO01370,Jessica Blackburn,Infectious Disease,General Practitioner,9125959492,Yes,CA,1,158 471 2688,
+PRO01371,Jessica Perez,Infectious Disease,General Practitioner,7910663151,Yes,CA,12,514 810 9551,jessica.perez55@healthcare.org
+PRO01372,Adam Sanchez,Infectious Disease,General Practitioner,8078680698,Yes,CA,19,598 779 2990,adam.sanchez44@healthcare.org
+PRO01373,Tamara Oliver,Infectious Disease,General Practitioner,3882343753,Yes,CA,14,034 426 9369,tamara.oliver67@healthcare.org
+PRO01374,Keith Harris,Infectious Disease,General Practitioner,5137694529,Yes,CA,3,095 079 1586,keith.harris@healthcare.org
+PRO01375,Ryan Estes,Infectious Disease,General Practitioner,2621683366,Yes,CA,33,383 086 7134,ryan.estes13@healthcare.org
+PRO01376,Crystal Erickson,Infectious Disease,General Practitioner,6801642044,Yes,SD,38,312 462 8101,
+PRO01377,Pedro Rodriguez,Infectious Disease,General Practitioner,2958682421,No,OH,39,652 295 0264,
+PRO01378,Scott Smith,Infectious Disease,General Practitioner,1014428369,Yes,CA,3,838 681 7022,scott.smith@healthcare.org
+PRO01379,Sheila Huber,Infectious Disease,General Practitioner,3926274268,Yes,CA,2,551 456 9956,sheila.huber@healthcare.org
+PRO01380,Barbara Williams,Infectious Disease,General Practitioner,2723040138,No,CA,1,153 904 1907,barbara.williams@healthcare.org
+PRO01381,Jason Wood,Infectious Disease,General Practitioner,3443823432,Yes,CA,19,312 078 6820,jason.wood@healthcare.org
+PRO01382,Miranda Lucas DDS,Infectious Disease,General Practitioner,5846489311,Yes,CA,27,711 218 6978,
+PRO01383,John Trevino,Infectious Disease,General Practitioner,6115474925,Yes,CA,12,781 101 2100,
+PRO01384,Jeffrey Martin,Infectious Disease,General Practitioner,1767867341,Yes,CA,10,845 686 4443,jeffrey.martin@healthcare.org
+PRO01385,Michael Goodwin,Infectious Disease,General Practitioner,8243459633,Yes,CA,19,700 890 9532,
+PRO01386,Tracie Raymond DDS,Infectious Disease,General Practitioner,8049323722,Yes,CA,10,963 379 3974,tracie.dds@healthcare.org
+PRO01387,Justin Summers MD,Infectious Disease,General Practitioner,1672863663,Yes,CA,14,372 752 5755,
+PRO01388,Jocelyn Torres,Infectious Disease,General Practitioner,1629770329,Yes,NV,14,872 746 4098,jocelyn.torres@healthcare.org
+PRO01389,Mrs. Jocelyn Wilson,Infectious Disease,General Practitioner,3511384775,Yes,CA,14,635 165 4087,mrs..wilson78@healthcare.org
+PRO01390,Curtis Herrera,Infectious Disease,General Practitioner,9561723966,No,CA,27,869 533 2595,curtis.herrera@healthcare.org
+PRO01391,Kelly Edwards,Infectious Disease,General Practitioner,7119305089,Yes,CA,16,780 002 8614,kelly.edwards10@healthcare.org
+PRO01392,Mark Garcia,Infectious Disease,General Practitioner,9011410269,Yes,CA,10,222 762 6231,mark.garcia@healthcare.org
+PRO01393,Kevin Ryan,Infectious Disease,General Practitioner,9353878211,Yes,AK,8,888 168 8235,kevin.ryan53@healthcare.org
+PRO01394,Jesse Davis,Infectious Disease,General Practitioner,8526324378,Yes,CA,16,722 778 7450,
+PRO01395,Eric May,Infectious Disease,General Practitioner,6945078418,No,CA,6,147 403 3839,eric.may67@healthcare.org
+PRO01396,Michael Raymond,Infectious Disease,General Practitioner,6944418136,Yes,CA,12,972 488 0617,michael.raymond48@healthcare.org
+PRO01397,Carolyn Miranda DVM,Infectious Disease,General Practitioner,7153025525,No,CA,18,,carolyn.dvm@healthcare.org
+PRO01398,Ryan Holder DDS,Infectious Disease,General Practitioner,9834077674,Yes,CA,11,933 946 0448,ryan.dds21@healthcare.org
+PRO01399,Michelle Johnson,Infectious Disease,General Practitioner,5354125069,Yes,CA,16,295 402 5429,michelle.johnson@healthcare.org
+PRO01400,Anthony Green,Infectious Disease,General Practitioner,2210143487,Yes,CA,14,016 264 0058,
+PRO01401,Mandy Howard,Infectious Disease,General Practitioner,8532663126,Yes,WA,14,,mandy.howard@healthcare.org
+PRO01402,Bradley Anderson,Infectious Disease,General Practitioner,2291513972,Yes,CA,2,536 471 7287,
+PRO01403,Michael Henderson,Infectious Disease,General Practitioner,1260962090,Yes,CA,10,036 347 4084,michael.henderson@healthcare.org
+PRO01404,James Jones,Infectious Disease,General Practitioner,2833924913,Yes,CA,11,480 767 7992,james.jones@healthcare.org
+PRO01405,Gregory Thompson,Infectious Disease,General Practitioner,3411644451,Yes,CA,4,122 172 6082,
+PRO01406,Shawn Wolfe,Infectious Disease,General Practitioner,7749401543,Yes,CA,8,210 246 5041,shawn.wolfe@healthcare.org
+PRO01407,Nancy Sanford,Infectious Disease,General Practitioner,7689458850,Yes,CA,8,718 567 4596,
+PRO01408,Joseph Kane,Infectious Disease,General Practitioner,9243792482,Yes,CA,7,476 047 8400,
+PRO01409,William Smith,Infectious Disease,General Practitioner,1142971865,Yes,CA,7,089 952 1678,william.smith@healthcare.org
+PRO01410,Jason Matthews,Infectious Disease,General Practitioner,7262505850,Yes,CA,9,919 946 2143,jason.matthews@healthcare.org
+PRO01411,James Hardy,Infectious Disease,General Practitioner,5190631482,Yes,CA,16,290 373 2753,james.hardy@healthcare.org
+PRO01412,Wendy Young,Infectious Disease,General Practitioner,7236607596,Yes,CA,10,,
+PRO01413,Philip Hanna,Infectious Disease,General Practitioner,2724163940,No,CA,19,818 468 8871,philip.hanna81@healthcare.org
+PRO01414,Scott Orr,Infectious Disease,General Practitioner,5698819347,Yes,CA,28,737 319 9170,
+PRO01415,Craig Manning,Infectious Disease,General Practitioner,9975571191,No,CA,3,318 906 5587,
+PRO01416,Jennifer Little,Infectious Disease,General Practitioner,6929888262,Yes,CA,12,857 207 4242,jennifer.little@healthcare.org
+PRO01417,Barbara Reyes,Infectious Disease,General Practitioner,2986147212,Yes,CA,6,616 203 0619,barbara.reyes@healthcare.org
+PRO01418,Mike Ortiz DDS,Infectious Disease,General Practitioner,8322533792,Yes,CA,2,856 104 9327,mike.dds@healthcare.org
+PRO01419,Tiffany Aguilar,Infectious Disease,General Practitioner,4857742969,Yes,CA,9,775 591 4741,tiffany.aguilar@healthcare.org
+PRO01420,Anne Lambert,Infectious Disease,General Practitioner,3487563350,Yes,CA,38,797 344 3922,anne.lambert84@healthcare.org
+PRO01421,Daniel Ortiz,Psychiatry / Behavioral Health,General Practitioner,7969372771,Yes,CA,15,005 980 7230,daniel.ortiz@healthcare.org
+PRO01422,Ryan Moore,Psychiatry / Behavioral Health,General Practitioner,9009219067,Yes,CA,10,697 421 1800,ryan.moore@healthcare.org
+PRO01423,Cynthia Jones,Psychiatry / Behavioral Health,General Practitioner,3319661640,Yes,MD,20,105 544 2167,cynthia.jones@healthcare.org
+PRO01424,Joshua Harris,Psychiatry / Behavioral Health,General Practitioner,1764410914,Yes,CA,3,478 542 5688,
+PRO01425,Jill Blanchard,Psychiatry / Behavioral Health,General Practitioner,9002971067,No,CA,8,,
+PRO01426,Joseph Carter,Psychiatry / Behavioral Health,General Practitioner,3129707616,Yes,CA,9,172 593 7376,joseph.carter79@healthcare.org
+PRO01427,Kristin Valenzuela,Psychiatry / Behavioral Health,General Practitioner,8146835753,No,CA,20,219 969 6474,kristin.valenzuela13@healthcare.org
+PRO01428,Misty Martinez,Psychiatry / Behavioral Health,General Practitioner,5047313915,Yes,CA,18,,misty.martinez37@healthcare.org
+PRO01429,Sharon Miller,Psychiatry / Behavioral Health,General Practitioner,9462374162,Yes,CA,16,418 485 5831,
+PRO01430,Alicia Foster,Psychiatry / Behavioral Health,General Practitioner,6921085142,Yes,CA,8,040 858 9234,alicia.foster@healthcare.org
+PRO01431,Steven Turner,Psychiatry / Behavioral Health,General Practitioner,4135160775,Yes,CA,2,374 053 5610,steven.turner@healthcare.org
+PRO01432,Douglas White,Psychiatry / Behavioral Health,General Practitioner,8302244454,Yes,UT,7,668 817 7603,douglas.white@healthcare.org
+PRO01433,Nicole Johnson,Psychiatry / Behavioral Health,General Practitioner,6170694290,Yes,MO,15,,
+PRO01434,Katrina Carter,Psychiatry / Behavioral Health,General Practitioner,2665385055,No,CA,16,928 419 4466,katrina.carter@healthcare.org
+PRO01435,Hannah Macias,Psychiatry / Behavioral Health,General Practitioner,7342202840,Yes,MN,4,492 252 1632,hannah.macias@healthcare.org
+PRO01436,Brandi Mcguire,Psychiatry / Behavioral Health,General Practitioner,6683817761,Yes,CA,27,,brandi.mcguire34@healthcare.org
+PRO01437,Megan Reid,Psychiatry / Behavioral Health,General Practitioner,4348534361,Yes,CA,8,701 656 2330,
+PRO01438,Nicholas Boyd,Psychiatry / Behavioral Health,General Practitioner,2102579930,Yes,CA,4,250 518 6931,
+PRO01439,Jasmine Thompson,Psychiatry / Behavioral Health,General Practitioner,6612603499,Yes,WV,27,295 602 8220,jasmine.thompson@healthcare.org
+PRO01440,Sarah Dickson,Psychiatry / Behavioral Health,General Practitioner,9225628735,Yes,CA,3,867 360 8771,sarah.dickson@healthcare.org
+PRO01441,Christine Johnson,Psychiatry / Behavioral Health,General Practitioner,3936803562,Yes,CA,4,,christine.johnson@healthcare.org
+PRO01442,Andrea Erickson,Psychiatry / Behavioral Health,General Practitioner,5768081329,No,CA,1,502 165 9204,andrea.erickson@healthcare.org
+PRO01443,Rachael Gibson,Psychiatry / Behavioral Health,General Practitioner,7487228376,Yes,IN,17,962 563 5448,rachael.gibson77@healthcare.org
+PRO01444,Olivia Bowman,Psychiatry / Behavioral Health,General Practitioner,6117296716,No,CA,7,087 514 9040,olivia.bowman@healthcare.org
+PRO01445,Katherine Williamson,Psychiatry / Behavioral Health,General Practitioner,8631352064,Yes,CA,18,018 603 8002,katherine.williamson@healthcare.org
+PRO01446,Jeremy Richardson,Psychiatry / Behavioral Health,General Practitioner,2102452238,Yes,CA,3,847 155 1993,jeremy.richardson@healthcare.org
+PRO01447,Alexa Harris,Psychiatry / Behavioral Health,General Practitioner,9389697534,Yes,CA,16,142 757 2203,alexa.harris@healthcare.org
+PRO01448,Troy Brown,Psychiatry / Behavioral Health,General Practitioner,6096785752,Yes,CA,15,949 357 7395,troy.brown@healthcare.org
+PRO01449,Steven Taylor,Psychiatry / Behavioral Health,General Practitioner,1084088329,Yes,CA,39,001 564 3584,
+PRO01450,Michael Bass,Psychiatry / Behavioral Health,General Practitioner,9657765838,Yes,CA,12,,michael.bass21@healthcare.org
+PRO01451,Jimmy Wilkinson,Psychiatry / Behavioral Health,General Practitioner,7939695104,Yes,CA,39,,jimmy.wilkinson71@healthcare.org
+PRO01452,Jennifer Maldonado,Psychiatry / Behavioral Health,General Practitioner,8701349963,Yes,ME,16,,jennifer.maldonado72@healthcare.org
+PRO01453,Anthony Yoder,Psychiatry / Behavioral Health,General Practitioner,2235105058,No,CA,2,754 219 3960,anthony.yoder@healthcare.org
+PRO01454,Christina Lee,Psychiatry / Behavioral Health,General Practitioner,7253281767,Yes,CA,3,900 301 2218,
+PRO01455,Kathy Cooke,Psychiatry / Behavioral Health,General Practitioner,4904392827,Yes,CA,4,771 033 2279,
+PRO01456,Mary Nichols,Psychiatry / Behavioral Health,General Practitioner,1626103816,Yes,CA,7,494 077 5629,
+PRO01457,Sarah Rice,Psychiatry / Behavioral Health,General Practitioner,5686711773,Yes,CA,7,239 114 4701,sarah.rice@healthcare.org
+PRO01458,Kathleen Gomez,Psychiatry / Behavioral Health,General Practitioner,9641213833,No,CA,5,965 749 6605,
+PRO01459,Timothy Travis,Psychiatry / Behavioral Health,General Practitioner,1962891638,Yes,CA,12,,timothy.travis68@healthcare.org
+PRO01460,Angel Thornton,Psychiatry / Behavioral Health,General Practitioner,3221798886,Yes,CA,5,696 307 7188,
+PRO01461,Samantha Patel,Psychiatry / Behavioral Health,General Practitioner,5081356177,Yes,CA,11,571 947 7573,samantha.patel@healthcare.org
+PRO01462,Amanda Herrera,Psychiatry / Behavioral Health,General Practitioner,4958185638,Yes,CA,4,283 322 5549,amanda.herrera@healthcare.org
+PRO01463,Mercedes Barajas,Psychiatry / Behavioral Health,General Practitioner,8208246471,No,CA,9,263 841 0723,mercedes.barajas@healthcare.org
+PRO01464,Rebekah Tanner,Psychiatry / Behavioral Health,General Practitioner,2940280373,Yes,CA,15,077 830 9885,rebekah.tanner@healthcare.org
+PRO01465,Dr. Michael Alvarez,Psychiatry / Behavioral Health,General Practitioner,8285091923,Yes,FM,2,258 155 0330,dr..alvarez@healthcare.org
+PRO01466,Scott Green,Psychiatry / Behavioral Health,General Practitioner,6981965996,Yes,CA,14,280 863 2574,
+PRO01467,Rachel Lewis DVM,Psychiatry / Behavioral Health,General Practitioner,9951522903,Yes,CA,9,397 015 1019,rachel.dvm@healthcare.org
+PRO01468,Mandy Harrison,Psychiatry / Behavioral Health,General Practitioner,6605921054,No,CA,6,943 423 2641,mandy.harrison@healthcare.org
+PRO01469,Edwin Stuart,Psychiatry / Behavioral Health,General Practitioner,9193260936,Yes,WA,9,608 891 1942,
+PRO01470,Michelle Brooks MD,Psychiatry / Behavioral Health,General Practitioner,2397773484,Yes,CA,11,157 156 6904,michelle.md93@healthcare.org
+PRO01471,Donald Lowe,Psychiatry / Behavioral Health,General Practitioner,6260649309,Yes,CA,15,362 933 0905,donald.lowe41@healthcare.org
+PRO01472,Brittany Campbell,Psychiatry / Behavioral Health,General Practitioner,4653908552,Yes,CA,14,140 312 7270,brittany.campbell39@healthcare.org
+PRO01473,Kenneth Barnes,Psychiatry / Behavioral Health,General Practitioner,7303918156,Yes,CA,34,314 227 2895,kenneth.barnes20@healthcare.org
+PRO01474,Daniel Smith,Psychiatry / Behavioral Health,General Practitioner,7468905021,Yes,CA,10,114 962 0179,daniel.smith@healthcare.org
+PRO01475,Michael Warren,Psychiatry / Behavioral Health,General Practitioner,2761907045,Yes,CA,9,588 565 7423,michael.warren@healthcare.org
+PRO01476,Robert Baird,Psychiatry / Behavioral Health,General Practitioner,5218927009,Yes,CA,13,,robert.baird@healthcare.org
+PRO01477,Jessica Wang,Psychiatry / Behavioral Health,General Practitioner,3314363445,Yes,TN,10,371 417 7866,jessica.wang@healthcare.org
+PRO01478,Michael Melton,Psychiatry / Behavioral Health,General Practitioner,9064329145,Yes,CA,17,439 484 2947,michael.melton@healthcare.org
+PRO01479,Douglas Miller,Psychiatry / Behavioral Health,General Practitioner,3124173641,Yes,CA,5,752 245 1211,
+PRO01480,Jeffrey Brooks,Psychiatry / Behavioral Health,General Practitioner,3161498008,Yes,CA,24,,jeffrey.brooks@healthcare.org
+PRO01481,Meghan Benton,Psychiatry / Behavioral Health,General Practitioner,8476876482,Yes,CA,11,301 839 6135,meghan.benton@healthcare.org
+PRO01482,Michael Lowery,Psychiatry / Behavioral Health,General Practitioner,9715729203,Yes,CA,7,160 055 5253,michael.lowery@healthcare.org
+PRO01483,Arthur Howe,Psychiatry / Behavioral Health,General Practitioner,8868905563,No,CA,16,789 104 7811,arthur.howe@healthcare.org
+PRO01484,John Pruitt,Psychiatry / Behavioral Health,General Practitioner,8686058218,Yes,CA,6,870 194 7548,
+PRO01485,Tim Anderson,Psychiatry / Behavioral Health,General Practitioner,8391708328,Yes,CA,20,549 865 6402,tim.anderson@healthcare.org
+PRO01486,Joe Garza,Psychiatry / Behavioral Health,General Practitioner,9924881882,Yes,CA,18,165 070 8093,joe.garza@healthcare.org
+PRO01487,Mark Cummings,Psychiatry / Behavioral Health,General Practitioner,4660519115,Yes,CA,13,016 096 6489,mark.cummings@healthcare.org
+PRO01488,Stephen Sullivan,Psychiatry / Behavioral Health,General Practitioner,2943822476,Yes,MA,5,053 033 8468,stephen.sullivan@healthcare.org
+PRO01489,Gary Walker,Psychiatry / Behavioral Health,General Practitioner,6757458890,Yes,CA,2,036 280 5826,gary.walker@healthcare.org
+PRO01490,Mitchell Chavez,Psychiatry / Behavioral Health,General Practitioner,7647654546,Yes,CA,38,282 366 6759,mitchell.chavez@healthcare.org
+PRO01491,Derrick Gomez,Psychiatry / Behavioral Health,General Practitioner,5516101684,Yes,CA,12,674 796 0039,derrick.gomez@healthcare.org
