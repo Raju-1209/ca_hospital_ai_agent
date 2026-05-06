@@ -200,6 +200,27 @@ def models_available():
     return all((saved / f"{m}.pkl").exists() for m in required)
 
 
+# ── Auto-train on first launch (Streamlit Cloud) ──────────────────────────────
+if not models_available():
+    with st.spinner("⏳ First launch — Training all 5 ML models... (3-5 mins) Please wait!"):
+        try:
+            import subprocess, sys
+            result = subprocess.run(
+                [sys.executable, str(BASE_DIR / "models" / "train_models.py")],
+                capture_output=True, text=True
+            )
+            if result.returncode == 0:
+                st.success("✅ Models trained! Reloading...")
+                st.rerun()
+            else:
+                st.error(f"Training failed:
+{result.stderr[-2000:]}")
+                st.stop()
+        except Exception as e:
+            st.error(f"Auto-training error: {e}")
+            st.stop()
+
+
 # ── Sidebar ────────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("""
