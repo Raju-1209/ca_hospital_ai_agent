@@ -1,11 +1,8 @@
 .env
 models/saved/
-models/__pycache__/
-rag/__pycache__/
 __pycache__/
-rag/chunks.json
-rag/tfidf.pkl
 *.pkl
 *.pyc
+*.json
 hpvenv/
 .DS_Store
