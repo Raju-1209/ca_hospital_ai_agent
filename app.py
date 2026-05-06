@@ -213,8 +213,7 @@ if not models_available():
                 st.success("✅ Models trained! Reloading...")
                 st.rerun()
             else:
-                st.error(f"Training failed:
-{result.stderr[-2000:]}")
+                st.error("Training failed: " + result.stderr[-2000:])
                 st.stop()
         except Exception as e:
             st.error(f"Auto-training error: {e}")
