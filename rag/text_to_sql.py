@@ -17,111 +17,89 @@ DATA_DIR = BASE_DIR / "data"
 DB_SCHEMA = """
 DATABASE SCHEMA — CA Hospital AI Agent
 =======================================
+IMPORTANT: Use EXACT column names as listed. Do NOT invent column names.
 
 TABLE: claims_and_billing
-  claim_id           VARCHAR  -- unique claim ID (e.g. CLM000001)
-  patient_id         VARCHAR  -- patient ID (e.g. PAT000001)
-  encounter_id       VARCHAR  -- encounter ID (e.g. ENC000001)
-  insurance_provider VARCHAR  -- BCBS, Medicare, Medicaid, Aetna, UHC, Cigna
-  payment_method     VARCHAR  -- Insurance, Self-Pay, Government
-  billed_amount      DECIMAL  -- total amount billed
-  paid_amount        DECIMAL  -- amount actually paid
-  claim_status       VARCHAR  -- Approved, Denied, Pending
-  denial_reason      VARCHAR  -- reason if denied
-  claim_date         DATE
+  Columns: claim_id, patient_id, encounter_id, insurance_provider,
+           payment_method, billed_amount, paid_amount, claim_status,
+           denial_reason, claim_date
 
 TABLE: denials
-  denial_id                 VARCHAR
-  claim_id                  VARCHAR
-  denial_reason_code        VARCHAR
-  denial_reason_description TEXT    -- full description of denial reason
-  denied_amount             DECIMAL
-  denial_date               DATE
-  appeal_filed              VARCHAR -- Yes/No
-  appeal_status             VARCHAR
-  final_outcome             VARCHAR
+  Columns: denial_id, claim_id, denial_reason_code,
+           denial_reason_description, denied_amount, denial_date,
+           appeal_filed, appeal_status, final_outcome
 
 TABLE: patients
-  patient_id     VARCHAR
-  first_name     VARCHAR
-  last_name      VARCHAR
-  age            INTEGER
-  gender         VARCHAR -- Male, Female, Other
-  ethnicity      VARCHAR
-  insurance_type VARCHAR
-  marital_status VARCHAR
-  city           VARCHAR
-  state          VARCHAR
+  Columns: patient_id, first_name, last_name, dob, age, gender,
+           ethnicity, insurance_type, marital_status, address,
+           city, state, zip, phone, email, registration_date
 
 TABLE: encounters
-  encounter_id     VARCHAR
-  patient_id       VARCHAR
-  provider_id      VARCHAR  -- links to providers table
-  visit_date       DATE
-  discharge_date   DATE
-  visit_type       VARCHAR  -- Inpatient, Outpatient, Emergency, Telehealth
-  department       VARCHAR  -- Cardiology, Emergency Department, etc.
-  reason_for_visit TEXT
-  diagnosis_code   VARCHAR
-  admission_type   VARCHAR  -- Emergency, Elective, Urgent
-  length_of_stay   INTEGER  -- days
-  readmitted_flag  VARCHAR  -- Yes/No
+  Columns: encounter_id, patient_id, provider_id, visit_date,
+           visit_type, department, reason_for_visit, diagnosis_code,
+           admission_type, discharge_date, length_of_stay, status,
+           readmitted_flag
 
 TABLE: diagnoses
-  diagnosis_id          VARCHAR
-  encounter_id          VARCHAR
-  diagnosis_code        VARCHAR
-  diagnosis_description TEXT
-  primary_flag          VARCHAR -- Yes/No
-  chronic_flag          VARCHAR -- Yes/No (True/False)
+  Columns: diagnosis_id, encounter_id, diagnosis_code,
+           diagnosis_description, primary_flag, chronic_flag
 
 TABLE: lab_tests
-  lab_test_id  VARCHAR
-  encounter_id VARCHAR
-  test_name    VARCHAR
-  test_result  VARCHAR  -- Normal, Abnormal, Critical
-  units        VARCHAR
-  normal_range VARCHAR
-  test_date    DATE
-  status       VARCHAR
+  Columns: lab_test_id, encounter_id, test_name, test_result,
+           units, normal_range, test_date, status
 
 TABLE: medications
-  medication_id   VARCHAR
-  encounter_id    VARCHAR
-  drug_name       VARCHAR
-  dosage          VARCHAR
-  route           VARCHAR
-  frequency       VARCHAR
-  duration        VARCHAR
-  prescribed_date DATE
-  cost            DECIMAL
+  Columns: medication_id, encounter_id, drug_name, dosage, route,
+           frequency, duration, prescribed_date, cost
 
 TABLE: procedures
-  procedure_id          VARCHAR
-  encounter_id          VARCHAR
-  procedure_code        VARCHAR
-  procedure_description TEXT
-  procedure_date        DATE
-  procedure_cost        DECIMAL
+  Columns: procedure_id, encounter_id, procedure_code,
+           procedure_description, procedure_date, provider_id,
+           procedure_cost
 
 TABLE: providers
-  provider_id      VARCHAR
-  name             VARCHAR  -- doctor/provider name
-  department       VARCHAR
-  specialty        VARCHAR
-  years_experience INTEGER
-  location         VARCHAR
-  inhouse          VARCHAR
+  Columns: provider_id, name, department, specialty, npi,
+           inhouse, location, years_experience, contact_info, email
 
 KEY RELATIONSHIPS:
-  encounters.patient_id  → patients.patient_id
-  encounters.provider_id → providers.provider_id
+  encounters.patient_id   → patients.patient_id
+  encounters.provider_id  → providers.provider_id
   encounters.encounter_id → claims_and_billing.encounter_id
   encounters.encounter_id → diagnoses.encounter_id
   encounters.encounter_id → lab_tests.encounter_id
   encounters.encounter_id → medications.encounter_id
   encounters.encounter_id → procedures.encounter_id
+  procedures.provider_id  → providers.provider_id
   claims_and_billing.claim_id → denials.claim_id
+
+EXAMPLES OF CORRECT QUERIES:
+-- Most repeated procedure:
+SELECT procedure_description, COUNT(*) as count
+FROM procedures
+GROUP BY procedure_description
+ORDER BY count DESC LIMIT 10;
+
+-- Doctor who handled most patients:
+SELECT p.name, COUNT(DISTINCT e.patient_id) as patient_count
+FROM encounters e
+JOIN providers p ON e.provider_id = p.provider_id
+GROUP BY p.name
+ORDER BY patient_count DESC LIMIT 10;
+
+-- Top denial reasons:
+SELECT denial_reason_description, COUNT(*) as count
+FROM denials
+GROUP BY denial_reason_description
+ORDER BY count DESC LIMIT 10;
+
+-- Insurance with highest denial rate:
+SELECT insurance_provider,
+       COUNT(*) as total_claims,
+       SUM(CASE WHEN claim_status = 'Denied' THEN 1 ELSE 0 END) as denied,
+       ROUND(100.0 * SUM(CASE WHEN claim_status = 'Denied' THEN 1 ELSE 0 END) / COUNT(*), 1) as denial_rate
+FROM claims_and_billing
+GROUP BY insurance_provider
+ORDER BY denial_rate DESC LIMIT 10;
 """
 
 
@@ -157,20 +135,20 @@ def generate_sql(question: str, api_key: str) -> str:
 
 {DB_SCHEMA}
 
-RULES:
-1. Generate ONLY a single valid SQL SELECT query — no explanations, no markdown, no ```sql blocks
-2. Use standard SQL compatible with SQLite/PostgreSQL
-3. Always use table aliases for clarity
-4. For "which doctor" questions, JOIN encounters with providers on provider_id
-5. For counting patients per doctor: COUNT(DISTINCT patient_id)
-6. Use LOWER() for case-insensitive string comparisons
-7. Always add LIMIT 10 unless asking for all records
-8. For denial reasons, use the denials table denial_reason_description column
-9. Return ONLY the SQL query, nothing else
+STRICT RULES:
+1. Output ONLY a single valid SQL SELECT query — no explanations, no markdown, no backticks
+2. Use ONLY column names exactly as listed in the schema above
+3. Use standard SQLite-compatible SQL (no ILIKE, no FILTER, use CASE WHEN instead)
+4. When joining tables, always verify the join column exists in BOTH tables
+5. For procedures questions: use procedure_description column (NOT proc_description)
+6. For doctor/provider questions: JOIN encounters e ON e.provider_id = providers.provider_id
+7. Always add LIMIT 10 unless user asks for all
+8. Use COUNT(*) for counting rows, COUNT(DISTINCT col) for unique values
+9. Return ONLY the raw SQL query — nothing else at all
 
 Question: {question}
 
-SQL Query:"""
+SQL:"""
 
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
