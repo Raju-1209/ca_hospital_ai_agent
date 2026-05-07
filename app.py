@@ -723,19 +723,38 @@ elif active == "Ask AI Agent":
         key="question_input"
     )
 
-    ask_btn = st.button("🚀 Ask AI Agent", use_container_width=False)
+    col_ask, col_mode = st.columns([3, 1])
+    with col_ask:
+        ask_btn = st.button("🚀 Ask AI Agent", use_container_width=True)
+    with col_mode:
+        use_sql = st.toggle("🗄️ SQL Mode", value=True,
+                            help="ON = Text-to-SQL (accurate) | OFF = RAG search")
 
     if ask_btn and question.strip():
         if not groq_key:
             st.error("⚠️ Groq API key not found. Please add GROQ_API_KEY=your_key to your .env file.")
         else:
-            with st.spinner("🤖 Searching knowledge base and generating answer..."):
+            mode_label = "🗄️ Querying database with SQL..." if use_sql else "🔍 Searching knowledge base..."
+            with st.spinner(mode_label):
                 try:
-                    from rag.rag_engine import ask_ai
-                    answer = ask_ai(question, groq_key)
-                    st.session_state.chat_history.append({
-                        "q": question, "a": answer
-                    })
+                    if use_sql:
+                        from rag.text_to_sql import ask_with_sql
+                        result = ask_with_sql(question, groq_key)
+                        answer = result["answer"]
+                        # Show SQL used
+                        if result.get("sql"):
+                            st.session_state.chat_history.append({
+                                "q": question,
+                                "a": answer,
+                                "sql": result["sql"],
+                                "rows": result.get("rows", 0),
+                            })
+                        else:
+                            st.session_state.chat_history.append({"q": question, "a": answer})
+                    else:
+                        from rag.rag_engine import ask_ai
+                        answer = ask_ai(question, groq_key)
+                        st.session_state.chat_history.append({"q": question, "a": answer})
                     st.session_state["question"] = ""
                 except Exception as e:
                     st.error(f"Error: {e}")
@@ -752,6 +771,10 @@ elif active == "Ask AI Agent":
                 <strong>🤖 AI Agent:</strong><br>{turn['a']}
             </div>
             """, unsafe_allow_html=True)
+            # Show SQL if available
+            if turn.get("sql"):
+                with st.expander(f"🗄️ SQL Query Used ({turn.get('rows',0)} rows returned)"):
+                    st.code(turn["sql"], language="sql")
 
         if st.button("🗑️ Clear Chat History"):
             st.session_state.chat_history = []
