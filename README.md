@@ -1,6 +1,6 @@
 # 🏥 CA Hospital AI Agent — End-to-End Healthcare AI Platform
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://cahospitalaiaagent-4bphnlqclazayudtedf5qp.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://cahospitalaiagent-4bphnlqclazayudtedf5qp.streamlit.app/)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/rajkumarpadmanabhan/ca-hospital-dataset-q1-2025)
 [![GitHub](https://img.shields.io/badge/GitHub-Raju--1209-181717?style=for-the-badge&logo=github)](https://github.com/Raju-1209/ca_hospital_ai_agent)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)](https://python.org)
@@ -38,7 +38,7 @@ Interactive Dashboard               Public URL + Demo Credentials
 
 ## 🌐 Live Demo
 
-**https://cahospitalaiaagent-4bphnlqclazayudtedf5qp.streamlit.app**
+**https://cahospitalaiagent-4bphnlqclazayudtedf5qp.streamlit.app/**
 
 | Role | Username | Password | Access |
 |------|----------|----------|--------|
@@ -318,7 +318,7 @@ GOOGLE_APPLICATION_CREDENTIALS=path/to/service-account.json
 **Rajkumar Padmanabhan** — [@Raju-1209](https://github.com/Raju-1209)
 
 - Kaggle Dataset: https://www.kaggle.com/datasets/rajkumarpadmanabhan/ca-hospital-dataset-q1-2025
-- Live App: https://cahospitalaiaagent-4bphnlqclazayudtedf5qp.streamlit.app
+- Live App: https://cahospitalaiagent-4bphnlqclazayudtedf5qp.streamlit.app/
 
 ---
 
