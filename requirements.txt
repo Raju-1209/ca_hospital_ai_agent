@@ -1,10 +1,27 @@
+# Core
 streamlit
 pandas
 numpy
+plotly
+python-dotenv
+
+# ML
 scikit-learn
 xgboost
-groq
-python-dotenv
-plotly
 joblib
 imbalanced-learn
+
+# AI / RAG
+groq
+
+# API
+fastapi
+uvicorn
+
+# Database
+psycopg2-binary
+sqlalchemy
+google-cloud-bigquery
+google-cloud-bigquery-storage
+pyarrow
+db-dtypes
