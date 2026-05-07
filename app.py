@@ -15,6 +15,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# ── Auth & Data loader ─────────────────────────────────────────────────────────
+from auth import require_login, show_user_badge, has_permission, get_current_user
+from database.data_loader import load_all, source_badge
+
 # ── Path setup ─────────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).resolve().parent
 if str(BASE_DIR) not in sys.path:
@@ -177,20 +181,26 @@ html, body, [class*="css"] {
 """, unsafe_allow_html=True)
 
 
+# ── Require Login ─────────────────────────────────────────────────────────────
+require_login()
+
 # ── Data loaders (cached) ──────────────────────────────────────────────────────
 @st.cache_data
 def load_all_data():
-    return {
-        "claims":      pd.read_csv(DATA_DIR / "claims_and_billing.csv"),
-        "denials":     pd.read_csv(DATA_DIR / "denials.csv"),
-        "diagnoses":   pd.read_csv(DATA_DIR / "diagnoses.csv"),
-        "encounters":  pd.read_csv(DATA_DIR / "encounters.csv"),
-        "lab_tests":   pd.read_csv(DATA_DIR / "lab_tests.csv"),
-        "medications": pd.read_csv(DATA_DIR / "medications.csv"),
-        "patients":    pd.read_csv(DATA_DIR / "patients.csv"),
-        "procedures":  pd.read_csv(DATA_DIR / "procedures.csv"),
-        "providers":   pd.read_csv(DATA_DIR / "providers.csv"),
-    }
+    try:
+        return load_all()
+    except Exception:
+        return {
+            "claims":      pd.read_csv(DATA_DIR / "claims_and_billing.csv"),
+            "denials":     pd.read_csv(DATA_DIR / "denials.csv"),
+            "diagnoses":   pd.read_csv(DATA_DIR / "diagnoses.csv"),
+            "encounters":  pd.read_csv(DATA_DIR / "encounters.csv"),
+            "lab_tests":   pd.read_csv(DATA_DIR / "lab_tests.csv"),
+            "medications": pd.read_csv(DATA_DIR / "medications.csv"),
+            "patients":    pd.read_csv(DATA_DIR / "patients.csv"),
+            "procedures":  pd.read_csv(DATA_DIR / "procedures.csv"),
+            "providers":   pd.read_csv(DATA_DIR / "providers.csv"),
+        }
 
 
 def models_available():
@@ -229,6 +239,20 @@ with st.sidebar:
         <div style='font-size:13px; color:#64748b;'>AI Agent Platform</div>
     </div>
     """, unsafe_allow_html=True)
+
+    st.divider()
+
+    # User badge + logout
+    show_user_badge()
+
+    # Data source indicator
+    src = source_badge()
+    st.markdown(
+        f"<div style='background:#0a1628;border:1px solid #1e3a6e;border-radius:8px;"
+        f"padding:8px 14px;font-size:12px;color:#64748b;margin-bottom:8px;'>"
+        f"Data: <span style='color:#10b981;font-weight:600;'>{src}</span></div>",
+        unsafe_allow_html=True
+    )
 
     st.divider()
 
